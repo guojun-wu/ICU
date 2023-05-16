@@ -36,6 +36,8 @@ class FEW_SHOT_NLI:
         optimizer = torch.optim.Adam(self.model.parameters(), lr=0.001)
         loss_fn = torch.nn.CrossEntropyLoss()
 
+        class_to_idx = {"entailment": 0, "contradiction": 1, "neutral": 2}
+
         # training loop for few-shot learning
         for epoch in range(self.num_epochs):
             for premise, hypothesis, label in self.data.values:
@@ -50,10 +52,15 @@ class FEW_SHOT_NLI:
 
                 # get prediction
                 outputs = self.model(**encoded_input)
-                prediction = outputs["logits"][0]
+                prediction = torch.argmax(outputs["logits"][0], dim=-1)
 
-                # compute loss
-                loss = loss_fn(prediction, torch.tensor([label]).to(self.device))
+                # convert label to index
+                numerical_label = class_to_idx[label]
+
+                # calculate loss
+                loss = loss_fn(
+                    prediction, torch.tensor(numerical_label).to(self.device)
+                )
 
                 # backward pass and optimization
                 loss.backward()
