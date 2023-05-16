@@ -1,0 +1,1151 @@
+image_id,caption,label,hypothesis
+1034985636,a man playing a guitar on a stage,contradiction,"Мужчина, играющий на банджо на полу."
+1034985636,a man playing a guitar on a stage,entailment,"Мужчина, играющий на гитаре на сцене."
+1034985636,a man playing a guitar on a stage,neutral,Мужчина выступает за наличные деньги.
+110595925,a person riding a bike down a road,contradiction,Этот мужчина катается на лыжах.
+110595925,a person riding a bike down a road,entailment,этот мужчина едет на улице.
+110595925,a person riding a bike down a road,contradiction,этот мужчина идет в этот магазин
+1333888922,a girl playing on a swing in the woods,contradiction,Этот ребенок катается на качелях под дождем.
+1333888922,a girl playing on a swing in the woods,entailment,Ребенок катается на качелях в дневное время.
+1333888922,a girl playing on a swing in the woods,neutral,Этот ребенок на качелях – девочка.
+15641879,a man is selling candy in a store,contradiction,Этот мужчина одет в майку без рукавов.
+15641879,a man is selling candy in a store,neutral,Этот мужчина с Аляски.
+15641879,a man is selling candy in a store,entailment,Этот человек за прилавком – мужчина.
+2045127186,a girl laying in the snow on a snowboard,neutral,Девочка в красном пальто делает «снежного ангела» в первый раз.
+2045127186,a girl laying in the snow on a snowboard,contradiction,Девушка в черном пальто остается дома подальше от снега.
+2045127186,a girl laying in the snow on a snowboard,entailment,Девочка снаружи играет в снегу.
+2045445292,a group of men cutting a log in front of a crowd,neutral,"Два мужчины пилят древесину, чтобы соорудить стол."
+2045445292,a group of men cutting a log in front of a crowd,contradiction,Два мужчины бьют молотками.
+2045445292,a group of men cutting a log in front of a crowd,entailment,Два мужчины пользуются пилой.
+2045445292,a group of men cutting a log in front of a crowd,entailment,Два сильных мужчины работают.
+2045445292,a group of men cutting a log in front of a crowd,contradiction,Два сильных мужчины пьют пиво.
+2045445292,a group of men cutting a log in front of a crowd,neutral,"Два сильных мужчины работают, чтобы распилить дубовое бревно."
+2146640888,a man and a woman looking at a piece of cake,entailment,Человек смотрит на кого-то.
+2146640888,a man and a woman looking at a piece of cake,contradiction,"Женщина смотрит, как мужчина читает газету."
+2146640888,a man and a woman looking at a piece of cake,neutral,"Этот начальник смотрит, как этот работник читает заметку."
+2149434880,a man jumping over a stream of water in a frosty field,contradiction,Этот мужчина одет в летнюю одежду.
+2149434880,a man jumping over a stream of water in a frosty field,neutral,"Эта женщина, ожидающая прыгающего мужчину, его сестра."
+2149434880,a man jumping over a stream of water in a frosty field,entailment,Этот мужчина в черно-белой одежде прыгает.
+2398915100,the side of a bus with people looking out the window,entailment,Мужчины сидят в автобусе.
+2398915100,the side of a bus with people looking out the window,neutral,"Мужчины садятся на автобус, идущий на работу."
+2398915100,the side of a bus with people looking out the window,contradiction,Мужчины ведут автобус к океану.
+241347547,a man is talking to a group of football players,contradiction,Здесь присутствует только один человек.
+241347547,a man is talking to a group of football players,neutral,Они – футбольные игроки университета.
+241347547,a man is talking to a group of football players,entailment,Здесь присутствует несколько человек
+2453990033,a young girl jumping in the air on a sidewalk,neutral,"Эта девочка прыгает, чтобы поймать тарелку фрисби."
+2453990033,a young girl jumping in the air on a sidewalk,contradiction,Эта девочка сидит на траве.
+2453990033,a young girl jumping in the air on a sidewalk,entailment,Эта девочка в красном находится в воздухе.
+2483666380,a woman cutting a piece of cloth on a weaving loom,neutral,Женщина работает.
+2483666380,a woman cutting a piece of cloth on a weaving loom,entailment,Женщина что-то делает своими руками.
+2483666380,a woman cutting a piece of cloth on a weaving loom,contradiction,Женщина сидит с пустыми руками.
+2832076014,a car is driving through a river,entailment,"Лэнд Ровер разбрызгивает воду, пересекая реку."
+2832076014,a car is driving through a river,entailment,Автомобиль пересекает реку.
+2832076014,a car is driving through a river,contradiction,Легковой автомобиль «седан» застрял посреди реки.
+2876232980,a boy and a girl sitting in a wagon,entailment,Ребенок в красной кофте стоит позади светловолосого ребенка
+2876232980,a boy and a girl sitting in a wagon,contradiction,Ребенок в красной кофте стоит выше светловолосого ребенка
+2876232980,a boy and a girl sitting in a wagon,neutral,Ребенок в красной кофте стоит позади прелестного светловолосого ребенка
+2913965136,a group of young boys playing soccer on a field,entailment,Этот мальчик готовится
+2913965136,a group of young boys playing soccer on a field,neutral,Этому мальчику 10 лет.
+2913965136,a group of young boys playing soccer on a field,contradiction,Этот мальчик спит дома.
+3008370541,a black dog jumping into a body of water,entailment,Собака собирается намокнуть.
+3008370541,a black dog jumping into a body of water,neutral,Черная собака в голубом ошейнике преследует что-то в воде.
+3008370541,a black dog jumping into a body of water,contradiction,Собака сторонится воды.
+302740416,a man holding up a bundle of vegetables on a street,contradiction,"Мужчина, держащий виноград, позирует для картины."
+302740416,a man holding up a bundle of vegetables on a street,neutral,Семья позирует для рождественского фото.
+302740416,a man holding up a bundle of vegetables on a street,entailment,Мужчина держит овощ.
+302740416,a man holding up a bundle of vegetables on a street,entailment,Мужчина держит луковицы.
+302740416,a man holding up a bundle of vegetables on a street,neutral,Мужчина делает покупки в продуктовом магазине.
+302740416,a man holding up a bundle of vegetables on a street,contradiction,Мужчина держит яблоки.
+3030824089,a dog running through the grass,neutral,Эта собака бегает на улице.
+3030824089,a dog running through the grass,entailment,Эта собака бежит.
+3030824089,a dog running through the grass,contradiction,Эта собака гуляет.
+3030824089,a dog running through the grass,neutral,Большая собака играет с игрушкой.
+3030824089,a dog running through the grass,contradiction,Это животное спит в подвале.
+3030824089,a dog running through the grass,entailment,Пес использует свои ноги.
+3143978284,a baby is being held by a woman,entailment,Младенец одет в оранжевое.
+3143978284,a baby is being held by a woman,neutral,Это платье было подарком.
+3143978284,a baby is being held by a woman,contradiction,Этот младенец голый.
+3228341718,three women running in a race in the dirt,entailment,Здесь есть бегущие женщины.
+3228341718,three women running in a race in the dirt,contradiction,Эти женщины едут на велосипедах.
+3228341718,three women running in a race in the dirt,neutral,Эти женщины находятся на марафоне.
+3357520849,a blue and white wall with the word people on it,neutral,Этот мужчина сидит напротив школы.
+3357520849,a blue and white wall with the word people on it,contradiction,Этот мужчина стоит перед зданием.
+3357520849,a blue and white wall with the word people on it,entailment,Это мужчина находится перед зданием.
+3439382048,a man jumping in the air with a basketball,contradiction,Этот мужчина играет в футбол.
+3439382048,a man jumping in the air with a basketball,entailment,Этот человек играет в баскетбол.
+3439382048,a man jumping in the air with a basketball,neutral,У этого игрока есть татуировка со словом «мама».
+3503689049,a man wearing sunglasses and a white shirt laughing,entailment,Парень в солнечных очках.
+3503689049,a man wearing sunglasses and a white shirt laughing,neutral,Мужчина в очках улыбается на концерте.
+3503689049,a man wearing sunglasses and a white shirt laughing,contradiction,Парень сдает экзамен.
+3579457159,a group of women dancing in the woods,contradiction,Здесь танцуют мужчины.
+3579457159,a group of women dancing in the woods,neutral,Эти женщины пожилые
+3579457159,a group of women dancing in the woods,entailment,Здесь есть несколько женщин
+3653497668,a man in a military uniform cutting a cake with a group of people,neutral,Дети наслаждаются праздником по случаю дня рождения.
+3653497668,a man in a military uniform cutting a cake with a group of people,contradiction,Дети бегут по улице.
+3653497668,a man in a military uniform cutting a cake with a group of people,neutral,Дети на вечеринке по случаю дня рождения.
+3831031977,two women looking over a stone wall in the mountains,entailment,Эти люди смотрят на горы.
+3831031977,two women looking over a stone wall in the mountains,neutral,Эта пара собирается совершить восхождение на горы.
+3831031977,two women looking over a stone wall in the mountains,contradiction,Эти люди смотрят в небо.
+3901773161,a woman hitting a tennis ball with a racket,entailment,Женщина играет в теннис.
+3901773161,a woman hitting a tennis ball with a racket,contradiction,Женщина спит.
+3901773161,a woman hitting a tennis ball with a racket,neutral,У женщины была теннисная ракетка.
+3944497603,a person laying on top of a building,contradiction,Человек сидит на бейсбольном матче.
+3944497603,a person laying on top of a building,entailment,Некто стоит возле станции метро.
+3944497603,a person laying on top of a building,neutral,Человек ждет поезд.
+413231421,a black dog is standing in the snow,entailment,"Собака темного цвета, роющаяся в снегу."
+413231421,a black dog is standing in the snow,entailment,"Собака, роющаяся снаружи."
+413231421,a black dog is standing in the snow,contradiction,"Кошка, бегущая по пляжу."
+424047148,a woman sitting on top of a suitcase shaving her face with a cell phone,neutral,Эта женщина - модель.
+424047148,a woman sitting on top of a suitcase shaving her face with a cell phone,entailment,У этой женщины что-то на лице.
+424047148,a woman sitting on top of a suitcase shaving her face with a cell phone,contradiction,Эта женщина слепая.
+4484802872,a man standing in front of a line of voting machines,neutral,Человек ждет поезд.
+4484802872,a man standing in front of a line of voting machines,entailment,Человек на станции метро.
+4484802872,a man standing in front of a line of voting machines,contradiction,Мужчина садится в автобус.
+4484802872,a man standing in front of a line of voting machines,entailment,Этот мужчина запутался.
+4484802872,a man standing in front of a line of voting machines,neutral,"Этот мужчина запутался потому что, не знает, где находится."
+4484802872,a man standing in front of a line of voting machines,contradiction,Этот мужчина не запутался.
+4484802872,a man standing in front of a line of voting machines,contradiction,Эти мужчины в парке одеты в светлые костюмы.
+4484802872,a man standing in front of a line of voting machines,entailment,Эти мужчины укрывают себя одеждой.
+4484802872,a man standing in front of a line of voting machines,neutral,Эти мужчины надевают свои одежды перед выходом в холодную погоду.
+4489833894,a girl throwing a ball to another girl on a field,neutral,Члены команды участвуют в чемпионате по софтболу.
+4489833894,a girl throwing a ball to another girl on a field,entailment,Два человека играют в софтбол.
+4489833894,a girl throwing a ball to another girl on a field,contradiction,Два игрока в софтбол сидят на скамейке.
+4512171349,two young boys hugging each other in a crowd,neutral,"Два ребенка обнимаются, выжив после ужасной автомобильной аварии."
+4512171349,two young boys hugging each other in a crowd,entailment,Двое детей обнимаются.
+4512171349,two young boys hugging each other in a crowd,contradiction,Двое детей бегут по шоссе.
+4512171349,two young boys hugging each other in a crowd,neutral,"Пара детей – членов одной семьи обнимались, так как они были счастливы видеть друг друга."
+4512171349,two young boys hugging each other in a crowd,entailment,Два ребенка обнимались.
+4512171349,two young boys hugging each other in a crowd,contradiction,Двое юношей толкали друг друга.
+4633771017,a man and a woman are dancing in the grass,neutral,Мужчина в костюме танцует с кем-то.
+4633771017,a man and a woman are dancing in the grass,entailment,Мужчина танцует с женщиной в костюме.
+4633771017,a man and a woman are dancing in the grass,neutral,Пара танцует на соревновании.
+4661134609,a group of men in yellow safety gear sweeping the street with brushes,contradiction,Мужчина идет по воде.
+4661134609,a group of men in yellow safety gear sweeping the street with brushes,neutral,Рабочие убирают после Дня Святого Патрика.
+4661134609,a group of men in yellow safety gear sweeping the street with brushes,entailment,Группа уборщиков после парада.
+4692746525,a man in a suit and tie standing in a crowd of people,entailment,Группа людей стоит снаружи.
+4692746525,a man in a suit and tie standing in a crowd of people,neutral,"Недовольный военный ветеран наблюдает за тем, как люди протестуют против войны."
+4692746525,a man in a suit and tie standing in a crowd of people,contradiction,"Человек смотрит на группу людей, участвующих в конкурсе на поедание хот-догов. "
+4713156011,a man jumping over a pole in a high jump,entailment,Парень подбросил себя в воздух.
+4713156011,a man jumping over a pole in a high jump,contradiction,Этот мужчина бежит за грабителем. 
+4713156011,a man jumping over a pole in a high jump,neutral,Человек выполняет трюк в цирке.
+4770171876,a young boy playing on a rope swing at a playground,entailment,Мальчик находится на игровой площадке.
+4770171876,a young boy playing on a rope swing at a playground,neutral,Этот мальчик катается на качелях после школы.
+4770171876,a young boy playing on a rope swing at a playground,contradiction,"Этот мальчик сидит в школьном автобусе, везущем его домой."
+4815043888,a group of people standing around a ice cream cart,neutral,Отец покупает своей дочери мороженое.
+4815043888,a group of people standing around a ice cream cart,contradiction,Пара ест в ресторане.
+4815043888,a group of people standing around a ice cream cart,entailment,Люди покупают еду у уличного торговца.
+482098572,a man in a yellow kayak in a river,neutral,Этот человек идет к водопаду.
+482098572,a man in a yellow kayak in a river,entailment,Этот человек находится на реке.
+482098572,a man in a yellow kayak in a river,contradiction,Этот человек находится на воздушном шаре.
+518230621,a man is selling food on a sidewalk,entailment,Мужчины продают еду на тротуаре.
+518230621,a man is selling food on a sidewalk,contradiction,Мужчины покупают еду на тротуаре.
+518230621,a man is selling food on a sidewalk,neutral,Мужчины продают хот-доги на тротуаре.
+5403972062,a girl jumping over a yellow box in the grass,neutral,"Девушка занимается спортом, в котором она прыгает через препятствия."
+5403972062,a girl jumping over a yellow box in the grass,entailment,Девушка прыгает через препятствие. 
+5403972062,a girl jumping over a yellow box in the grass,contradiction,"Девушка споткнулась через себя, прежде чем она попыталась прыгнуть через препятствие."
+571002259,a man spraying a tree with a hose,neutral,"Это дерево, судя по всему, мертво."
+571002259,a man spraying a tree with a hose,entailment,Этот человек носит защитное снаряжение на голове.
+571002259,a man spraying a tree with a hose,contradiction,Балерина взбирается на дерево.
+5727946383,a woman in a yellow dress is holding hands with a man,contradiction,Два мужчины танцуют вместе в центре.
+5727946383,a woman in a yellow dress is holding hands with a man,entailment,Женщина танцует с мужчиной рядом с другой танцующей парой.
+664470170,two boys playing with a baby in a high chair,entailment,Здесь два улыбающихся маленьких мальчика.
+664470170,two boys playing with a baby in a high chair,contradiction,Эти мальчики плачут.
+664470170,two boys playing with a baby in a high chair,neutral,"Эти мальчики, играющие друг с другом, братья."
+6651302933,a group of people flying kites in the ocean,entailment,Эти люди находятся на открытом воздухе.
+6651302933,a group of people flying kites in the ocean,neutral,Оба этих человека – мужчины.
+6651302933,a group of people flying kites in the ocean,contradiction,Один человек находится на открытом воздухе.
+686569442,a couple of people standing around a grill,contradiction,Эта пара готовит на своей домашней кухне.
+686569442,a couple of people standing around a grill,neutral,Пара на пикнике в парке.
+686569442,a couple of people standing around a grill,neutral,На гриле есть хот-доги и гамбургеры.
+764507,a group of people sitting on the floor around a plant,neutral,Две пары едят на кухонном полу.
+764507,a group of people sitting on the floor around a plant,contradiction,Две пары играют в бильярд в баре.
+764507,a group of people sitting on the floor around a plant,entailment,Группа людей принимает пищу.
+76607426,a man playing snooker on a pool table,neutral,Мужчина играет с друзьями.
+76607426,a man playing snooker on a pool table,entailment,Мужчина играет в бильярд.
+76607426,a man playing snooker on a pool table,contradiction,Мужчина играет в шашки.
+1420060118,a person in a ninja costume jumping in the air,contradiction,ребенок борется с медведями
+1420060118,a person in a ninja costume jumping in the air,entailment,Ребенок выполняет удар в прыжке
+1420060118,a person in a ninja costume jumping in the air,neutral,Ребенок в черном костюме ниндзя выполняет удар
+180506881,two people walking on the sidewalk with a skateboard,contradiction,Эти мужчины несут велосипеды.
+180506881,two people walking on the sidewalk with a skateboard,entailment,Оба мужчины идут.
+180506881,two people walking on the sidewalk with a skateboard,neutral,Эти мужчины идут в парк.
+1947351225,a group of kids standing around a group of children holding toys,contradiction,Двое мужчин несут рождественскую ель.
+1947351225,a group of kids standing around a group of children holding toys,entailment,"Дети, открывающие подарки."
+1947351225,a group of kids standing around a group of children holding toys,neutral,Маленькие дети открывают подарки под большой рождественской елью.
+203146155,two women laughing at a table in a restaurant,neutral,Женщина готовиться ударить.
+203146155,two women laughing at a table in a restaurant,neutral,"Женщина встает, чтобы попить воды."
+203146155,two women laughing at a table in a restaurant,entailment,Женщина встает со стула.
+213344147,people standing on a pier over the water,neutral,Рыбаки в доке
+213344147,people standing on a pier over the water,contradiction,"Женщины, совершающие покупки в торговом центре."
+213344147,people standing on a pier over the water,entailment,Люди снаружи
+2230885062,two women standing in a garden talking to each other,entailment,Два человека стоят на траве.
+2230885062,two women standing in a garden talking to each other,neutral,Две женщины в платьях готовятся к пикнику.
+2230885062,two women standing in a garden talking to each other,contradiction,Две женщины разговаривают в офисе.
+2245918465,a crowd of people standing around a man with his hand on his head,entailment,Этот мужчина кладет что-то на голову другого мужчины.
+2245918465,a crowd of people standing around a man with his hand on his head,contradiction,Эти женщины находятся в парке.
+2245918465,a crowd of people standing around a man with his hand on his head,neutral,Эти мужчины находятся в церкви.
+2311616095,a man in a kitchen preparing food on the stove,neutral,Мужчина собирается удивить свою жену ужином.
+2311616095,a man in a kitchen preparing food on the stove,entailment,Мужчина готовит что-нибудь поесть.
+2311616095,a man in a kitchen preparing food on the stove,contradiction,Мужчина сидит и смотрит телевизор.
+2373018323,a man doing a trick on a wall with a city in the background,entailment,Мужчина прыгает сальто со стены.
+2373018323,a man doing a trick on a wall with a city in the background,neutral,"Парень, одетый в мешковатую одежду, выполняет сальто со стены."
+2373018323,a man doing a trick on a wall with a city in the background,contradiction,"Парень в синей толстовке с капюшоном падает с невысокой стены, которая красиво разукрашена."
+2394003437,a young boy riding a segway on the street,neutral,Этот ребенок едет на велосипеде.
+2394003437,a young boy riding a segway on the street,contradiction,Этот ребенок спит.
+2394003437,a young boy riding a segway on the street,entailment,У ребенка есть руки.
+2424111022,a young boy sitting on the ground in the forest,entailment,В лесу находится мальчик.
+2424111022,a young boy sitting on the ground in the forest,entailment,В лесу находится маленький мальчик.
+2434440948,a crowd of people standing in a room with a man standing on a podium talking,entailment,Мужчина обращается к группе людей.
+2434440948,a crowd of people standing in a room with a man standing on a podium talking,neutral,Биржевой брокер выступает на конференции на Уолл-Стрит.
+2434440948,a crowd of people standing in a room with a man standing on a podium talking,contradiction,Парень едет по волне на своей доске для серфинга.
+2578161080,a group of people standing on a sidewalk at night,contradiction,Эти люди сидят.
+2578161080,a group of people standing on a sidewalk at night,entailment,Эти люди находятся снаружи.
+2578161080,a group of people standing on a sidewalk at night,neutral,Эти люди находятся в школе.
+2677109430,a group of people sitting in a church,neutral,На потолке этой церкви есть трещины.
+2677109430,a group of people sitting in a church,entailment,Эта церковь наполнена пением.
+2677109430,a group of people sitting in a church,contradiction,"Хор, поющий на бейсбольном матче."
+272471327,a man in a kitchen preparing food on a grill,entailment,Этот мужчина готовит еду.
+272471327,a man in a kitchen preparing food on a grill,neutral,Этот мужчина находится на кухне ресторана.
+272471327,a man in a kitchen preparing food on a grill,contradiction,Этот мужчина моет машину.
+273248777,a football player jumping to catch a ball during a game,entailment,Этот футболист находится под прессингом.
+273248777,a football player jumping to catch a ball during a game,entailment,"Этот игрок в американский футбол в желтом ловит мяч, находясь при этом под прессингом игрока в белом."
+273248777,a football player jumping to catch a ball during a game,contradiction,Этот баскетболист забивает трехочковый бросок.
+2863186021,a woman walking in a park with birds,entailment,Какой-то человек был рядом с группой птиц.
+2863186021,a woman walking in a park with birds,contradiction,Здесь внутри была собака.
+2863186021,a woman walking in a park with birds,entailment,Рядом с женщиной было несколько птиц.
+2907244809,a man riding a skateboard down the side of a ramp,neutral,Скейтбордист выполняет трюки для соревнования.
+2907244809,a man riding a skateboard down the side of a ramp,entailment,Скейтбордист выполняет трюк.
+2907244809,a man riding a skateboard down the side of a ramp,neutral,Скейтбордист фотографирует себя на свой телефон.
+3056595980,three people sitting on a bench looking out to the ocean,neutral,Эти три женщины – лучшие подруги.
+3056595980,three people sitting on a bench looking out to the ocean,contradiction,Эти три женщины смотрят в лес.
+3056595980,three people sitting on a bench looking out to the ocean,entailment,Эти женщины находятся на открытом воздухе.
+3160699,a man in a red jacket walking out of a door,entailment,"Мужчина в красной куртке открывает дверь, держа в руках ключи от своей машины."
+3160699,a man in a red jacket walking out of a door,neutral,Это мужчина придерживал дверь для своей девушки.
+3160699,a man in a red jacket walking out of a door,contradiction,Этот мужчина уронил ключи от своей машины в канализационную трубу.
+3199460792,two dogs playing with a frisbee on the beach,neutral,Эти собаки друзья.
+3199460792,two dogs playing with a frisbee on the beach,contradiction,Эти собаки не хотят делиться.
+3199460792,two dogs playing with a frisbee on the beach,entailment,Эта собака с шерстью золотистого оттенка играет в мяч с другой собакой на улице.
+3240570205,a group of people standing around a table with a camera,neutral,Кто-то записывает мальчика во время прохождения им проб для роли в кино.
+3240570205,a group of people standing around a table with a camera,contradiction,Мальчик жонглирует тремя красными мячами с завязанными глазами.
+3240570205,a group of people standing around a table with a camera,entailment,"Взрослый, использующий видеокамеру."
+3324056835,a group of dogs running on the beach,neutral,Они на Гавайях.
+3324056835,a group of dogs running on the beach,contradiction,На пляже находится только одна собака.
+3324056835,a group of dogs running on the beach,entailment,Здесь находится несколько собак.
+3425071001,a young boy hitting a tennis ball with a racket,contradiction,Девочка наносит удар по мячу.
+3425071001,a young boy hitting a tennis ball with a racket,neutral,Этот мальчик хорошо играет в теннис.
+3425071001,a young boy hitting a tennis ball with a racket,entailment,Мальчик ударяет по мячу
+3493244032,a little girl holding a barbie doll in her hand,neutral,Это маленькая девочка весело проводит время.
+3493244032,a little girl holding a barbie doll in her hand,contradiction,Эта маленькая девочка играет с гоночной машиной.
+3493244032,a little girl holding a barbie doll in her hand,entailment,Эта маленькая девочка играет с игрушкой.
+3720210639,a man doing a trick on a bike in the air,neutral,Этот мальчик падает со своего велосипеда.
+3720210639,a man doing a trick on a bike in the air,contradiction,"Этот мальчик боится кататься на своем велосипеде, поэтому он позволяет ему стоять без дела в гараже и ржаветь."
+3720210639,a man doing a trick on a bike in the air,entailment,Мальчик находится в воздухе на велосипеде.
+378336163,a man jumping in the snow next to a bike,entailment,Человек прыгает.
+378336163,a man jumping in the snow next to a bike,contradiction,Никто не прыгает.
+378336163,a man jumping in the snow next to a bike,neutral,Высокий человек прыгает.
+3783803365,three women talking to each other at a party,entailment,Три девочки разговаривают.
+3783803365,three women talking to each other at a party,contradiction,Три девочки сидят.
+3783803365,three women talking to each other at a party,neutral,Три девочки смеются.
+3881645432,a woman standing in a store looking at a shelf of books,neutral,Этот работник одет в голубую рубашку.
+3881645432,a woman standing in a store looking at a shelf of books,entailment,Этот работник находится внутри.
+3881645432,a woman standing in a store looking at a shelf of books,contradiction,Этот работник плавает в океане.
+4479482872,a man riding a wave on the beach next to a bird,neutral,"Мальчик плавает, в то время как чайка сидит на песке."
+4479482872,a man riding a wave on the beach next to a bird,entailment,Мальчик плавает.
+4479482872,a man riding a wave on the beach next to a bird,contradiction,"Мальчик плавает обнаженным, в то время как чайка ест его сэндвич с арахисовым маслом."
+4591228112,a man standing next to a sculpture of two snakes,contradiction,Этот мужчина молод.
+4591228112,a man standing next to a sculpture of two snakes,neutral,этот мужчина находится в художественной галерее.
+4591228112,a man standing next to a sculpture of two snakes,entailment,Этот мужчина старый.
+4626556918,a man holding a skateboard at a skate park,entailment,"Парень со скейтбордом осматривает парк, чтобы проехать на скейтборде."
+4626556918,a man holding a skateboard at a skate park,contradiction,Девушка с прической «конский хвост» катается на велосипеде в парке.
+4626556918,a man holding a skateboard at a skate park,neutral,Парень идет кататься на скейтборде сегодня.
+4684641618,two people walking down a sidewalk on a city street,neutral,"Эти женщины шли по улице в центре города, потому что была забастовка автобусов."
+4684641618,two people walking down a sidewalk on a city street,contradiction,Эти женщины собирали ягоды в сельской местности.
+4684641618,two people walking down a sidewalk on a city street,entailment,Эти женщины шли в центре города.
+4685056764,a group of soldiers standing next to a building with guns,entailment,Солдаты рядом со зданием вооружены.
+4685056764,a group of soldiers standing next to a building with guns,contradiction,Солдаты держат оружие в большой безликой пустыне.
+4685056764,a group of soldiers standing next to a building with guns,neutral,Солдаты держат оружие и выглядывают рядом со очень маленьким зданием.
+4685056764,a group of soldiers standing next to a building with guns,neutral,"Здесь люди, терпеливо ожидающие перестрелки."
+4685056764,a group of soldiers standing next to a building with guns,contradiction,"Здесь есть люди, избегающие пробок на оживленной улице Нью-Йорка."
+4685056764,a group of soldiers standing next to a building with guns,entailment,"Здесь есть люди, стоящие снаружи."
+4685056764,a group of soldiers standing next to a building with guns,neutral,"Солдаты стоят на страже, поскольку они ждут кого-то, кто должен украсть документы внутри здания."
+4685056764,a group of soldiers standing next to a building with guns,neutral,Солдатам сказали охранять здание.
+4692725862,two boys swimming in a pool with oars,contradiction,Эти два мальчика находятся в своей ванне.
+4692725862,two boys swimming in a pool with oars,entailment,Эти два мальчика плавают со своими досками для серфинга.
+4692725862,two boys swimming in a pool with oars,neutral,Эти два мальчика плавают и ловят волну.
+47529535,a young boy holding a baby in a sling,entailment,Мальчик катает своего брата.
+47529535,a young boy holding a baby in a sling,contradiction,Мальчик играет в монополию со своим братом.
+47529535,a young boy holding a baby in a sling,neutral,Мальчик катает своего брата на спине в парке.
+4774744625,three men sitting outside a building talking on their cell phones,neutral,Мужчины разговаривают снаружи.
+4774744625,three men sitting outside a building talking on their cell phones,contradiction,Трое мужчин сидят за кухонным столом.
+4774744625,three men sitting outside a building talking on their cell phones,entailment,Мужчины сидят снаружи.
+4796753895,a man walking down a city street with tall buildings,contradiction,"Этот мужчина одет в шорты и футболку, потому что он на пробежке."
+4796753895,a man walking down a city street with tall buildings,entailment,Этот мужчина двигается.
+4796753895,a man walking down a city street with tall buildings,entailment,Это мужчина одет в рабочий костюм и идет к себе на работу.
+4931700621,a group of people standing around a store with children,contradiction,"Семья, стреляющая по тарелочкам."
+4931700621,a group of people standing around a store with children,neutral,"Чернокожая семья, продающая свежие продукты на рынке под открытым небом."
+4931700621,a group of people standing around a store with children,entailment,Люди находятся на рынке под открытым небом.
+4969473643,a group of people standing in front of a house,neutral,Люди проводят время вместе.
+4969473643,a group of people standing in front of a house,neutral,Люди фотографируются.
+4969473643,a group of people standing in front of a house,contradiction,Люди в своем компьютере.
+509241560,a group of young children climbing on the roof of a building,neutral,Группа детей находится на свежем воздухе.
+509241560,a group of young children climbing on the roof of a building,contradiction,Группа детей смотрит телевизор в гостиной.
+509241560,a group of young children climbing on the roof of a building,neutral,Группа детей играет в городском парке.
+5226870137,a man riding a horse drawn carriage down a street,contradiction,Этот мужчина ведет лимузин.
+5226870137,a man riding a horse drawn carriage down a street,entailment,Этот мужчина ведет легкую двухместную коляску.
+5226870137,a man riding a horse drawn carriage down a street,neutral,Этот мужчина – амиш.
+5246144625,three young girls looking at a cell phone,contradiction,Температура – обжигающие 100 градусов по Фаренгейту.
+5246144625,three young girls looking at a cell phone,entailment,Эти маленькие девочки вместе.
+5246144625,three young girls looking at a cell phone,neutral,Эти камеры дешевые.
+535179217,people fishing on a dock on a river with boats,entailment,Люди стоят.
+535179217,people fishing on a dock on a river with boats,neutral,"Люди стоят у воды, по которой в их направлении движется большая синяя лодка."
+535179217,people fishing on a dock on a river with boats,contradiction,Люди стоят в очереди в ресторан.
+5523538212,a skier is jumping in the air on a ski slope,contradiction,Лыжник катается на лыжах вниз по дороге.
+5523538212,a skier is jumping in the air on a ski slope,entailment,Лыжник готовит трюк.
+5523538212,a skier is jumping in the air on a ski slope,neutral,Лыжник обучает других трюку.
+5922967014,three boys sitting on the rocks at the beach,entailment,Эти мальчики на пляже.
+5922967014,three boys sitting on the rocks at the beach,contradiction,Эти мальчики спят.
+5922967014,three boys sitting on the rocks at the beach,entailment,Эти мальчики молоды.
+611301340,a crowd of fans cheering at a soccer game,entailment,"Люди, одетые в оранжевое"
+611301340,a crowd of fans cheering at a soccer game,contradiction,"Группа трансвеститов, идущая по улице."
+611301340,a crowd of fans cheering at a soccer game,entailment,Фанаты подбадривают криками свою команду на важной игре.
+6309331514,the early november appearing at this event,neutral,Родители собрались на концерте местной старшей средней школы.
+6309331514,the early november appearing at this event,contradiction,"Толпа собирается, в то время как флейты напряженно играют."
+6309331514,the early november appearing at this event,contradiction,"Люди уходят, поскольку решено взимать плату за каждую ноту."
+6716031215,a woman throwing a bowling ball in a bowling alley,contradiction,Женщина одна в боулинге.
+6716031215,a woman throwing a bowling ball in a bowling alley,entailment,Женщина играет в игру.
+6716031215,a woman throwing a bowling ball in a bowling alley,entailment,Женщина находится в боулинге.
+74706256,a young boy sitting at a table playing with a toothbrush,entailment,Маленький мужчина в одежде с парой ножниц в руках.
+74706256,a young boy sitting at a table playing with a toothbrush,neutral,Светловолосый маленький мальчик вырезает маленькие звезды для своей младшей сестры.
+74706256,a young boy sitting at a table playing with a toothbrush,contradiction,Светловолосый маленький мальчик спит.
+142802798,a man riding a skateboard on a ramp,neutral,Длинноволосый парень едет на своем скейтборде в быстром темпе через каменную стену с граффити.
+142802798,a man riding a skateboard on a ramp,entailment,Парень едет на скейтборде на каменной стене.
+142802798,a man riding a skateboard on a ramp,contradiction,Мальчик в зеленой рубашке катается на роликах через тоннель.
+1457898867,a young boy guiding a herd of cows down a dirt road,neutral,Мальчик едет верхом на лошади возле двух коров.
+1457898867,a young boy guiding a herd of cows down a dirt road,entailment,"Мальчик, дорога и две коровы."
+1457898867,a young boy guiding a herd of cows down a dirt road,contradiction,Одна корова сама по себе.
+1970275389,a woman sitting on the grass taking a picture of flowers,neutral,Эта женщина – профессиональный фотограф.
+1970275389,a woman sitting on the grass taking a picture of flowers,contradiction,Этот цветок голубого цвета.
+1970275389,a woman sitting on the grass taking a picture of flowers,entailment,Женщина фотографирует.
+209605542,a man is climbing up a rock,contradiction,Альпинистка пытается втащить себя наверх.
+209605542,a man is climbing up a rock,entailment,Альпинист тащит себя наверх на скалы.
+209605542,a man is climbing up a rock,neutral,Альпинист тащит себя наверх на 5000 футов над лесом.
+209605542,a man is climbing up a rock,entailment,Мужчина находится на открытом воздухе.
+209605542,a man is climbing up a rock,neutral,У мужчины есть альпинистское снаряжение.
+209605542,a man is climbing up a rock,contradiction,Мужчина плавает в океане.
+2147876139,three women blowing out candles on a birthday cake,entailment,Несколько человек задувают свечи
+2147876139,three women blowing out candles on a birthday cake,entailment,Здесь три девочки и торт
+2147876139,three women blowing out candles on a birthday cake,contradiction,В саду находятся люди.
+216172386,a man riding a dirt bike on top of a rock,contradiction,Мужчина сидит в машине.
+216172386,a man riding a dirt bike on top of a rock,entailment,Человек стоит.
+216172386,a man riding a dirt bike on top of a rock,entailment,Мужчина сидит на своем мотоцикле.
+24053752,a person riding a tractor in the grass,contradiction,Человек в красном плывет на Олимпийских играх.
+24053752,a person riding a tractor in the grass,neutral,Человек в красном стрижет траву на моторе марки «Джон Дир».
+24053752,a person riding a tractor in the grass,entailment,Человек в красном косит траву на садовом тракторе.
+2503091968,a woman yelling out of a car window,neutral,"Ребенок кричит на человека, который чуть не сбил ее такси."
+2503091968,a woman yelling out of a car window,entailment,Ребенок находится внутри машины.
+2503091968,a woman yelling out of a car window,contradiction,Ребенок отдыхает дома.
+2508024651,a woman in a polka dot outfit standing in the street,contradiction,Обезьяна раздает апельсиновый сок посреди леса.
+2508024651,a woman in a polka dot outfit standing in the street,entailment,Человек в наряде в черно-белый горошек раздает апельсиновый сок позади опасной зоны.
+2508024651,a woman in a polka dot outfit standing in the street,neutral,Женщина одета в наряд в черно-белый горошек и раздает апельсиновый сок посреди опасного места происшествия.
+2512450458,a man in a kayak in the water,neutral,Над водой находятся два парня.
+2512450458,a man in a kayak in the water,neutral,Два парня находятся на озере.
+2578003921,a person riding a bike on a trail in the woods,neutral,Горный велосипедист участвует во внедорожной гонке.
+2578003921,a person riding a bike on a trail in the woods,contradiction,Мужчина едет на мотоцикле по шоссе.
+2578003921,a person riding a bike on a trail in the woods,neutral,Горный велосипедист наслаждается местной трассой.
+2581066814,a group of men and women riding bikes in a parade,entailment,"Человек, едущий на велосипеде."
+2581066814,a group of men and women riding bikes in a parade,contradiction,Мужчина в костюме идет по тротуару.
+2581066814,a group of men and women riding bikes in a parade,neutral,Обнаженный рыжеволосый мужчина на велосипеде на оживленной улице.
+2652311904,a crowd of people walking down a city street at night,entailment,На улице кипит жизнь.
+2652311904,a crowd of people walking down a city street at night,contradiction,Эта улица тихая и спокойная.
+2652311904,a crowd of people walking down a city street at night,neutral,В утренний час пик улицы заполнены занятыми людьми.
+2743046728,two little girls playing in the sand on the beach,entailment,Эти девочки счастливы.
+2743046728,two little girls playing in the sand on the beach,contradiction,Эти девочки дремлют.
+2743046728,two little girls playing in the sand on the beach,entailment,Эти девочки находятся на улице.
+2749755023,a crowd of people walking around a flea market,entailment,Женщина видит велосипед.
+2749755023,a crowd of people walking around a flea market,neutral,"Женщина, одетая в черное, подыскивает велосипед."
+2749755023,a crowd of people walking around a flea market,contradiction,Женщина в зеленом спит на диване.
+2866093652,three women are racing on skateboards on a rink,neutral,Четыре женщины наслаждаются катанием на роликах.
+2866093652,three women are racing on skateboards on a rink,entailment,Женщины катаются на роликах вокруг участка.
+2866093652,three women are racing on skateboards on a rink,contradiction,Четыре мужчины катаются на роликах.
+297285273,three young boys playing on rocks by the water,neutral,Эти дети играют в пятнашки.
+297285273,three young boys playing on rocks by the water,contradiction,Эти дети находятся в школе.
+297285273,three young boys playing on rocks by the water,entailment,Эти дети играют.
+3091754891,a man is sitting on the sidewalk next to a motorcycle with a bunch of items,entailment,Ближневосточный магазин.
+3091754891,a man is sitting on the sidewalk next to a motorcycle with a bunch of items,contradiction,Американский театр.
+3091754891,a man is sitting on the sidewalk next to a motorcycle with a bunch of items,entailment,Иностранный магазин.
+3110631369,a group of people standing around a box of food,contradiction,Несколько детей сжигают дотла стол.
+3110631369,a group of people standing around a box of food,neutral,Несколько детей смотрят на насекомое на кухонном столе.
+3110631369,a group of people standing around a box of food,entailment,Несколько детей пристально смотрят на что-то на столе.
+3167503189,a man is standing on a wall of a brick house,neutral,"Мальчик, держащийся за стену приподнятого фундамента старого кирпичного дома во время проведения строительных работ."
+3167503189,a man is standing on a wall of a brick house,contradiction,"девочка стоит, прислонившись к стене."
+3167503189,a man is standing on a wall of a brick house,entailment,мальчик находится напротив стены приподнятого фундамента
+3327761688,a car parked under a tunnel,neutral,Этот мужчина разговаривает по мобильному телефону.
+3327761688,a car parked under a tunnel,contradiction,Этот мужчина находится внутри машины.
+3327761688,a car parked under a tunnel,entailment,Дорогая машина припаркована.
+3329207492,a group of children playing with toys in front of a truck,contradiction,"Мальчик держит своего смеющегося племянника, пока его сестра обрызгивает его водой."
+3329207492,a group of children playing with toys in front of a truck,contradiction,"Эти три девушки держат парня, пока его девушка стреляет в него водой."
+3329207492,a group of children playing with toys in front of a truck,entailment,Здесь пять детей.
+3338217927,a dog running in the snow,neutral,Домашнее животное радуется игре в «брошенную тарелку» со своим хозяином.
+3338217927,a dog running in the snow,contradiction,Кот моет свою мордочку и усы передней лапой.
+3338217927,a dog running in the snow,entailment,Животное в холодную погоду на улице играет с пластиковой игрушкой.
+3414867566,a group of women are on a court with hula hoops,entailment,Гимнасты готовятся к соревнованию.
+3414867566,a group of women are on a court with hula hoops,contradiction,Футболисты тренируются.
+3414867566,a group of women are on a court with hula hoops,neutral,Гимнасты готовятся к крупнейшему соревнованию в их жизни.
+3433259846,a little girl dancing with a group of other children,contradiction,"Женщина преподает в балетном классе, состоящем из мужчин среднего возраста, держащих белые платки."
+3433259846,a little girl dancing with a group of other children,entailment,Женщина преподает в балетном классе.
+3433259846,a little girl dancing with a group of other children,neutral,"Женщина преподает в балетном классе, состоящем из маленьких детей, держащих зеленые и красные платочки."
+3455431229,a man painting a picture of a crowd of people,entailment,Художник создает картину.
+3455431229,a man painting a picture of a crowd of people,neutral,Человек воссоздает Мону Лизу на улице перед толпой.
+3486831913,a brown dog laying in the grass near a lake,neutral,Собака гонится за кроликом.
+3486831913,a brown dog laying in the grass near a lake,contradiction,Мужчина стреляет в кролика.
+3486831913,a brown dog laying in the grass near a lake,entailment,Коричневая собака бежит на улице.
+351765604,a woman kneeling down on the cracked mud of a desert,neutral,"Археолог в шляпе приседает, чтобы изучить место для раскопок."
+351765604,a woman kneeling down on the cracked mud of a desert,entailment,Сидящая на корточках женщина в шляпе трогает землю.
+351765604,a woman kneeling down on the cracked mud of a desert,contradiction,Женщина в шляпке от солнца сажает растения в саду.
+3550763985,a man doing a trick on a skateboard at a skate park,contradiction,Скейтбордист бежит трусцой по улице.
+3550763985,a man doing a trick on a skateboard at a skate park,neutral,Скейтбордист готовится к новому сезону.
+3550763985,a man doing a trick on a skateboard at a skate park,entailment,Скейтбордист находится на открытом воздухе.
+3696184025,a little girl standing on a blanket with a sucker in her mouth,entailment,Девочка стоит.
+3696184025,a little girl standing on a blanket with a sucker in her mouth,neutral,Девочка стоит снаружи.
+3696184025,a little girl standing on a blanket with a sucker in her mouth,contradiction,Все до одного сидят.
+390220229,a person standing in the snow with a shovel,neutral,Этот человек убирает снег до дороги
+390220229,a person standing in the snow with a shovel,entailment,На улице снег.
+390220229,a person standing in the snow with a shovel,contradiction,В пустыне течет дождь.
+3977104006,a group of musicians playing instruments to a group of people,neutral,Людям нравится музыка.
+3977104006,a group of musicians playing instruments to a group of people,contradiction,Эти мужчины смотрят спортивный канал.
+3977104006,a group of musicians playing instruments to a group of people,entailment,Эти мужчины играют музыку.
+4266278775,a young girl wearing a red coat and a white hat,neutral,Эта девушка находится на улице.
+4266278775,a young girl wearing a red coat and a white hat,contradiction,Эта девушка готова идти плавать.
+4337871573,a man sticking his head out the window of a white truck,entailment,Мужчина сидит в грузовике.
+4337871573,a man sticking his head out the window of a white truck,contradiction,Мужчина сидит в своем Порше.
+4337871573,a man sticking his head out the window of a white truck,neutral,Мужчина сидит в грузовике на газозаправочной станции.
+4643839937,a man looking into a telescope at night,neutral,Этот мужчина смотрит на звезды
+4643839937,a man looking into a telescope at night,contradiction,Этот мужчина одет в черную рубашку
+4643839937,a man looking into a telescope at night,entailment,Мужчина смотрит в телескоп
+4704668708,a young boy opening a gift box with tissue paper,entailment,ребенок стягивает красочную тонкую оберточную бумагу с подарочной коробки
+4704668708,a young boy opening a gift box with tissue paper,contradiction,"ребенок сражается с мешком, мешок побеждает"
+4704668708,a young boy opening a gift box with tissue paper,neutral,ребенок открывает подарок в свой день рождения
+4716175317,a group of people walking through a market in a city,neutral,"Эта толпа людей делает покупки на уличном рынке, на котором продают фрукты."
+4716175317,a group of people walking through a market in a city,contradiction,Эта толпа людей находится внутри торгового комплекса.
+4716175317,a group of people walking through a market in a city,entailment,Эта толпа людей совершает покупки.
+4733474874,a man wearing a tommy hilfiger hat sitting on a tour bus,entailment,Группа людей движется по дороге в кабриолете.
+4733474874,a man wearing a tommy hilfiger hat sitting on a tour bus,contradiction,Этот водитель был одет в фиолетовую рубашку.
+4733474874,a man wearing a tommy hilfiger hat sitting on a tour bus,neutral,Друзья едут вместе на автомобиле с открытым верхом.
+4774884519,people walking down an escalator in an airport,neutral,Люди поднимаются по эскалатору.
+4774884519,people walking down an escalator in an airport,contradiction,Люди заходят в лифт.
+4774884519,people walking down an escalator in an airport,entailment,Люди едут на эскалаторе.
+4923271886,a person laying on the ground in the grass,contradiction,Этот парень в желтом катается по траве.
+4923271886,a person laying on the ground in the grass,entailment,"Этот парень, одетый в голубую куртку лежит на зеленой траве."
+4923271886,a person laying on the ground in the grass,neutral,Этот парень в голубой куртке лежит на зеленой траве и дремлет.
+4923472130,a man is kneeling down on the sidewalk,entailment,Этот человек одет в красную рубашку.
+4923472130,a man is kneeling down on the sidewalk,neutral,Этот человек - женщина.
+4923472130,a man is kneeling down on the sidewalk,contradiction,Этот человек одет в зеленую рубашку.
+5012159302,two horses pulling a man on a plow in a field,contradiction,"Люди, одетые в шорты, стоят вокруг, ничего не делая."
+5012159302,two horses pulling a man on a plow in a field,entailment,"Мужчины в спецодежде работают, чтобы починить трактор."
+5012159302,two horses pulling a man on a plow in a field,entailment,"Люди, одетые в спецодежду работают, чтобы починить трактор."
+5012159302,two horses pulling a man on a plow in a field,contradiction,Овца тянет оборудование.
+5012159302,two horses pulling a man on a plow in a field,neutral,Обе лошади – коричневые.
+5012159302,two horses pulling a man on a plow in a field,entailment,Эти мужчины работают на фермерском имуществе.
+5221111799,a man is working on the roof of a house,neutral,Мужчина вколачивает последний гонт на крыше.
+5221111799,a man is working on the roof of a house,entailment,Рабочий помогает установить крышу на дом.
+5221111799,a man is working on the roof of a house,contradiction,Мальчик прыгает вверх и вниз.
+525338588,a group of people standing outside of a nightclub at night,neutral,"Эти люди беседуют, перед тем как войти в рабочее здание."
+525338588,a group of people standing outside of a nightclub at night,entailment,Эта группа людей находится не внутри здания.
+525338588,a group of people standing outside of a nightclub at night,contradiction,Эти люди сидят в лобби отеля.
+6160193920,a smiling woman wearing a green hijab and a blue shirt,neutral,Эта женщина молода.
+6160193920,a smiling woman wearing a green hijab and a blue shirt,entailment,Эта женщина очень счастлива.
+6160193920,a smiling woman wearing a green hijab and a blue shirt,contradiction,Эта женщина была застрелена.
+6357647385,a man running on a race track,neutral,Бегущий высокий человек.
+6357647385,a man running on a race track,entailment,Бегущий человек.
+6357647385,a man running on a race track,contradiction,Никто не бежит.
+6827875949,a man is kneeling next to a snowman,neutral,Снеговика фотографируют с его создателем.
+6827875949,a man is kneeling next to a snowman,contradiction,Снеговик фотографирует своих друзей.
+6827875949,a man is kneeling next to a snowman,entailment,Человек позирует для фото рядом со снеговиком.
+739944487,two people in a boat in the water with birds,contradiction,Группа людей внутри смотрит хоккейный матч. 
+739944487,two people in a boat in the water with birds,neutral,Компания людей находится в деревянном предмете на воде.
+739944487,two people in a boat in the water with birds,neutral,"Группа людей гребет к каким-то островам, пока один из них ловит рыбу."
+8227381437,a man sitting in a shoe shop with shoes on the floor,entailment,Этот сапожник находится внутри.
+8227381437,a man sitting in a shoe shop with shoes on the floor,contradiction,Этот сапожник готовится к своему шестнадцатилетию.
+8227381437,a man sitting in a shoe shop with shoes on the floor,neutral,Этот сапожник богат.
+93447586,a gymnast doing a trick on the beam in front of a crowd of spectators,neutral,Женщина выполняет стойку на руках на гимнастическом бревне.
+93447586,a gymnast doing a trick on the beam in front of a crowd of spectators,contradiction,Женщина дремлет в спортзале.
+93447586,a gymnast doing a trick on the beam in front of a crowd of spectators,entailment,Женщина использует гимнастическое оборудование.
+1354318519,two young boys sitting next to each other laughing,entailment,Мальчик в красном капюшоне счастлив.
+1354318519,two young boys sitting next to each other laughing,neutral,Этот мальчик не хочет смотреть на свое отражение.
+1354318519,two young boys sitting next to each other laughing,contradiction,Этот мальчик расстроен.
+1680409989,a woman painting a picture of a cat on a wall,neutral,Женщина пишет портрет своего лучшего друга.
+1680409989,a woman painting a picture of a cat on a wall,neutral,Женщина пишет портрет какого-то человека.
+1680409989,a woman painting a picture of a cat on a wall,contradiction,Женщина рисует изображение обезьяны.
+1680409989,a woman painting a picture of a cat on a wall,entailment,Здесь рисует женщина.
+1680409989,a woman painting a picture of a cat on a wall,neutral,Здесь женщина рисует ради развлечения.
+1680409989,a woman painting a picture of a cat on a wall,contradiction,Здесь мужчина шнурует свои ботинки.
+209088143,a group of people sitting on a couch,neutral,Несколько человек веселятся на краю плавательного бассейна 
+209088143,a group of people sitting on a couch,neutral,Несколько человек на картинке держат в руках пиво.
+209088143,a group of people sitting on a couch,neutral,Люди праздновали на тематической рождественской вечеринке.
+215978818,a group of children playing in a water fountain,entailment,Трое детей взаимодействуют с подсвеченным водяным арт-дисплеем.
+215978818,a group of children playing in a water fountain,neutral,Трое детей ругаются на подсвеченный водяной арт-дисплей.
+215978818,a group of children playing in a water fountain,contradiction,Дети играют в баскетбол в пруду.
+215978818,a group of children playing in a water fountain,entailment,Дети играют в воде.
+215978818,a group of children playing in a water fountain,neutral,Дети играют в фонтане в местном торговом центре.
+2280438093,a group of people standing on a stage,entailment,"Здесь больше женщин, чем мужчин."
+2280438093,a group of people standing on a stage,contradiction,Эти исполнители играют на волынках.
+2280438093,a group of people standing on a stage,neutral,Эти выступающие люди – участники хора.
+2338798208,three women in a kitchen holding a bowl of food,neutral,Три женщины делают капейки для продажи выпечки.
+2338798208,three women in a kitchen holding a bowl of food,entailment,Эти три женщины радуются приготовлению капкейков.
+2338798208,three women in a kitchen holding a bowl of food,contradiction,Три женщины идут в СПА.
+2407214681,two young boys brushing their teeth in a bathroom sink,entailment,Руки этих мальчиков были испачканы.
+2407214681,two young boys brushing their teeth in a bathroom sink,neutral,Они играли в футбол.
+2407214681,two young boys brushing their teeth in a bathroom sink,contradiction,Эти мальчики обнажены по пояс.
+2407214681,two young boys brushing their teeth in a bathroom sink,neutral,Эти мальчики только что выиграли футбольный матч.
+2407214681,two young boys brushing their teeth in a bathroom sink,entailment,Два мальчика моют свои руки.
+2407214681,two young boys brushing their teeth in a bathroom sink,contradiction,Эти мальчики одеты в командную униформу.
+2428086758,a large dog and a small dog standing next to a lake,contradiction,"Две кошки, стоящие рядом, одна большая и одна маленькая."
+2428086758,a large dog and a small dog standing next to a lake,entailment,"Большая собака, следящая за маленькой собакой."
+2428086758,a large dog and a small dog standing next to a lake,neutral,"Собака-мать, проверяющая своего щенка."
+2622986361,a crowd of people standing on top of a building,neutral,Толпа людей зовет кого-нибудь на помощь людям на крыше.
+2622986361,a crowd of people standing on top of a building,entailment,Толпа на земле смотрит на 3 людей на краю крыши.
+2622986361,a crowd of people standing on top of a building,contradiction,Три человека спускаются вниз по лестнице на здании.
+2721954475,a group of young women standing in a crowd,neutral,Группа людей ждет
+2721954475,a group of young women standing in a crowd,contradiction,Человек лежит на диване
+2721954475,a group of young women standing in a crowd,neutral,Группа людей стоит
+2737409349,a man sitting in a chair talking on his laptop in front of a large window,contradiction,Этот мужчина нервно шагает. 
+2737409349,a man sitting in a chair talking on his laptop in front of a large window,neutral,"Этот мужчина слышит, как идет строительство."
+2737409349,a man sitting in a chair talking on his laptop in front of a large window,entailment,Мужчина говорит по телефону.
+2938747424,a white dog running through the water in the ocean,neutral,Эта белая собака со своим хозяином.
+2938747424,a white dog running through the water in the ocean,entailment,Эта белая собака находится на пляже.
+2938747424,a white dog running through the water in the ocean,contradiction,Эта белая собака сидит на песке.
+2938747424,a white dog running through the water in the ocean,neutral,"Собака бежит через небольшое количество воды, чтобы поймать палку."
+2938747424,a white dog running through the water in the ocean,entailment,Собака бежит через небольшое количество воды.
+2938747424,a white dog running through the water in the ocean,contradiction,Собака бежит через поле.
+2946464027,a man playing with a child on the beach,neutral,Молодые мужчина и женщина взяли своего ребенка на пляж в первый раз.
+2946464027,a man playing with a child on the beach,contradiction,Семья в ресторане.
+2946464027,a man playing with a child on the beach,entailment,Семья на пляже.
+2965189317,a man in an office with a bunch of balloons on the floor,entailment,"Человек с длинным предметом стоит на одной стороне стены, а шар плывет в воздухе на другой стороне."
+2965189317,a man in an office with a bunch of balloons on the floor,neutral,"Хулиган пытается лопнуть воздушный шар, не будучи пойманным с поличным."
+2965189317,a man in an office with a bunch of balloons on the floor,contradiction,Мальчик спит на воздушном шаре.
+3020218156,two men on scaffolding painting the side of a building,entailment,Парень возле здания стоит рядом с двумя другими мужчинами.
+3020218156,two men on scaffolding painting the side of a building,contradiction,Две девушки идут через холл.
+3020218156,two men on scaffolding painting the side of a building,neutral,Занятой человек стоит с телохранителями.
+3065082909,a crowd of people are watching a parade,neutral,"Плакат, который держит женщина, гласит, что «Свобода не имеет ограничений»."
+3065082909,a crowd of people are watching a parade,entailment,Группа хорошо одетых людей идет вдоль жилого массива/блока и один из них держит плакат.
+3065082909,a crowd of people are watching a parade,contradiction,"Группа людей, одетых как клоуны, бредут в цирк Бигтоп, держа плакаты/таблички."
+314739483,a man walking past a building with a sign on it,entailment,Рядом со знаком есть мужчина.
+314739483,a man walking past a building with a sign on it,neutral,Этот мужчина работает в E.S.E. Electronics
+314739483,a man walking past a building with a sign on it,contradiction,Мужчина бежит мимо знака.
+314739483,a man walking past a building with a sign on it,entailment,Чернокожий мужчина позирует на фоне знака E.S.E. после совершения покупок в магазине.
+314739483,a man walking past a building with a sign on it,contradiction,Человек ломает камеру перед винным магазином.
+314739483,a man walking past a building with a sign on it,neutral,"Мужчина фотографируется с рекламодателем после покупки в магазине ликера своего бренда, который они продвигают."
+3259757648,a dog jumping over a jump in the grass,contradiction,Собака спит на столе.
+3259757648,a dog jumping over a jump in the grass,entailment,Собака прыгает через препятствие.
+3259757648,a dog jumping over a jump in the grass,neutral,Выставочная собака демонстрирует трюки судьям.
+3262801036,a group of skiers carrying a man on a stretcher in the snow,entailment,"шесть человек действуют сообща, чтобы доставить еще одного раненого мужчину на транспорте в снежной местности."
+3262801036,a group of skiers carrying a man on a stretcher in the snow,entailment,"Шесть человек действуют, чтобы спасти седьмого, который ранен. "
+3262801036,a group of skiers carrying a man on a stretcher in the snow,contradiction,"шесть человек собираются съесть седьмого, который получил травму."
+3399843227,a man and a woman holding a drink,contradiction,Пара смотрит порнофильм.
+3399843227,a man and a woman holding a drink,neutral,Эта пара позирует вместе.
+3399843227,a man and a woman holding a drink,entailment,Мужчина позирует с женщиной.
+3474406285,a brown dog running through a obstacle course,neutral,Эта собака – чихуахуа.
+3474406285,a brown dog running through a obstacle course,contradiction,Эта собака находится в бассейне.
+3474406285,a brown dog running through a obstacle course,entailment,Эта собака в воздухе.
+348223687,a man walking down the sidewalk on a city street,entailment,Мужчина гуляет снаружи.
+348223687,a man walking down the sidewalk on a city street,contradiction,Мужчина играет в гольф.
+348223687,a man walking down the sidewalk on a city street,neutral,Деловой человек идет прогуляться во время обеденного перерыва.
+3678098428,a man wearing a hat and looking down at something,neutral,"Мужчина, готовящийся играть в гольф."
+3678098428,a man wearing a hat and looking down at something,contradiction,"Мужчина, одетый в футбольную защитную экипировку."
+3678098428,a man wearing a hat and looking down at something,entailment,Мужчина в шляпе.
+3694071771,a man riding a bike with a red helmet,contradiction,Высокий мужчина сидит на детских качелях в заброшенном парке.
+3694071771,a man riding a bike with a red helmet,neutral,Этот мужчина в красном шлеме выигрывает велосипедную гонку.
+3694071771,a man riding a bike with a red helmet,entailment,Человек с номерами использует немоторизованное транспортное средство.
+3701226275,a young man holding a dumbbell in his hand,entailment,Человек держит инструмент.
+3701226275,a young man holding a dumbbell in his hand,neutral,Плотник веселится во время перерыва.
+3701226275,a young man holding a dumbbell in his hand,contradiction,Этот человек ест сэндвич.
+3749555902,a woman sitting on a couch applying nail polish to her toes,neutral,Эта женщина сидит рядом с кем-то.
+3749555902,a woman sitting on a couch applying nail polish to her toes,entailment,У этой женщины красные ногти.
+3749555902,a woman sitting on a couch applying nail polish to her toes,contradiction,Эта женщина стоит.
+3767684836,a man is jumping in the air while another man is photographing a man jumping,neutral,"Актеры, которые также являются экспертами в боевых искусствах, сходятся как противники в противоборстве с хорошим парнем в одежде коричневого и черного цветов и с плохим парнем, одетым в красное и в черной шляпе."
+3767684836,a man is jumping in the air while another man is photographing a man jumping,contradiction,"Две женщины, одетые в коричнево-черные и черно-красные цвета команд-противников дерутся в матче каратэ."
+3767684836,a man is jumping in the air while another man is photographing a man jumping,entailment,Двое мужчин увлечены боевыми искусствами.
+3856149623,two nurses looking at books in a hospital room,entailment,Доктор смотрит в книгу.
+3856149623,two nurses looking at books in a hospital room,contradiction,Мужчина ест арахисовую пасту и джем.
+3856149623,two nurses looking at books in a hospital room,neutral,Доктор изучает.
+3879971251,a group of children playing with a soccer ball,entailment,Гитарист играет на своем инструменте для детей.
+3879971251,a group of children playing with a soccer ball,contradiction,Гитарист сидит на сцене.
+3879971251,a group of children playing with a soccer ball,entailment,Человек снаружи с играющими детьми.
+4337751447,a man pushing a blue shopping cart full of bags on a street,entailment,У мужчины есть магазинная тележка.
+4337751447,a man pushing a blue shopping cart full of bags on a street,neutral,Мужчина собирает жестяные банки для переработки.
+4337751447,a man pushing a blue shopping cart full of bags on a street,contradiction,У богатого мужчины есть часы «Ролекс».
+4477683613,people walking down a busy city street in times square,neutral,На дороге много мотоциклистов.
+4477683613,people walking down a busy city street in times square,entailment,На улице города много пешеходов.
+4477683613,people walking down a busy city street in times square,neutral,"Пешеходы ждут парада, который пройдет через эту оживленную улицу."
+4526977553,a woman running across the street in the street,contradiction,Пожилая женщина с тростью сидит на стуле.
+4526977553,a woman running across the street in the street,entailment,Человек находится снаружи.
+4526977553,a woman running across the street in the street,neutral,Женщина идет к автобусной остановке.
+4589050600,a woman walking down the street looking at her cell phone,neutral,Эта женщина в черном уволена с работы посредством текстового сообщения.
+4589050600,a woman walking down the street looking at her cell phone,entailment,У этой женщины в черном есть работа.
+4589050600,a woman walking down the street looking at her cell phone,contradiction,Эта женщина в черном не идет на работу.
+4621091937,a group of men sitting on the side of a building,entailment,Мужчины сидят на обочине дороги.
+4621091937,a group of men sitting on the side of a building,contradiction,Обочина дороги пуста.
+4621091937,a group of men sitting on the side of a building,neutral,Мужчины разговаривают на обочине дороги.
+464542381,people sitting at tables in a park,neutral,Люди смотрят на эти цветущие цветы.
+464542381,people sitting at tables in a park,contradiction,Люди стоят на мостовой.
+464542381,people sitting at tables in a park,entailment,Люди сидят на стульях
+4735943244,a man sitting on a bench next to a suitcase,contradiction,Человек в красном плаще и шляпе с тремя перьями сидит сам по себе.
+4735943244,a man sitting on a bench next to a suitcase,neutral,Мужчина сидит сам по себе на празднике Марди Грас.
+4735943244,a man sitting on a bench next to a suitcase,entailment,Мужчина с тростью сидит сам по себе.
+4777826385,a man standing in front of a statue,neutral,Пожилой мужчина прислонился снаружи своего дома престарелых.
+4777826385,a man standing in front of a statue,contradiction,Молодой мужчина бегает трусцой.
+4777826385,a man standing in front of a statue,entailment,Пожилой мужчина облокотился снаружи возле дома.
+4796742329,a man walking down the street next to a car,neutral,Этот мужчина идет в класс.
+4796742329,a man walking down the street next to a car,entailment,У этого мужчины в руках есть что-то.
+4796742329,a man walking down the street next to a car,contradiction,Эта женщина читает книгу.
+484443289,a man and a woman standing in the shadows,entailment,На этом мужчине надета серая кепка.
+484443289,a man and a woman standing in the shadows,contradiction,На этом мужчине надета голубая кепка.
+484443289,a man and a woman standing in the shadows,neutral,Этот мужчина замерз.
+484443289,a man and a woman standing in the shadows,neutral,У пожилой женщины есть светлая джинсовая куртка.
+484443289,a man and a woman standing in the shadows,entailment,У пожилой женщины есть джинсовая куртка.
+484443289,a man and a woman standing in the shadows,contradiction,У пожилой женщины нет куртки.
+4906946,two construction workers working on a hole in the street,entailment,Два мужчины одеты в куртки лаймово-зеленого цвета.
+4906946,two construction workers working on a hole in the street,neutral,Двое мужчин размещают строительные конусы при подготовке к строительству нового трубопровода.
+4906946,two construction workers working on a hole in the street,contradiction,Женщина наказывает другого человека.
+5389902618,a girl in a blue dress holding a blue cloth,entailment,Индийские женщины выступают вместе в великолепных костюмах.
+5389902618,a girl in a blue dress holding a blue cloth,contradiction,собаки обнюхивают воздух
+5389902618,a girl in a blue dress holding a blue cloth,neutral,индийские женщины исполняют вместе религиозный обряд
+539493423,a man holding three flaming torches in a park,contradiction,Этот мужчина держит сумку.
+539493423,a man holding three flaming torches in a park,entailment,Здесь есть мужчина.
+539493423,a man holding three flaming torches in a park,neutral,Этот огонь большой.
+5730444205,two women in cowboy hats riding horses at a rodeo,entailment,Женщины на улице едут верхом на лошадях.
+5730444205,two women in cowboy hats riding horses at a rodeo,neutral,"Женщины на улице едут верхом на лошадях, в то время как их семьи смотрят на них с другой стороны фермы."
+5730444205,two women in cowboy hats riding horses at a rodeo,contradiction,"Женщины находятся на открытом воздухе на соревнованиях по верховой езде, где они смотрят, как соревнуются мужчины."
+5749795798,a group of men playing a game of frisbee,neutral,Группа людей играет в соревновательную игру фрисби.
+5749795798,a group of men playing a game of frisbee,entailment,Люди играют в фрисби на улице.
+5749795798,a group of men playing a game of frisbee,contradiction,Группа людей играет в футбол.
+6191516871,a group of men on the floor praying,entailment,На мужчине что-то надето.
+6191516871,a group of men on the floor praying,contradiction,На мужчине ничего не надето.
+6191516871,a group of men on the floor praying,neutral,Мужчина одет в голубую рубашку.
+6338544926,a football player is tackling another player on the field,neutral,Две команды из соперничающих университетов играют в четвертой четверти матча.
+6338544926,a football player is tackling another player on the field,contradiction,Несколько девушек играют в баскетбол.
+6338544926,a football player is tackling another player on the field,entailment,Университетский футбольный матч.
+6338544926,a football player is tackling another player on the field,neutral,"Нападающий форвард пытается остановить квотербека, несущего мяч, прежде чем он сделает победный тачдаун."
+6338544926,a football player is tackling another player on the field,contradiction,"Питчер бросает бейсбольный мяч бэттеру, в то время как тот пытается сделать что-то выдающееся."
+6338544926,a football player is tackling another player on the field,entailment,Идет футбольный матч.
+6979303317,three people standing next to a truck,neutral,трое мужчин идут на работу
+6979303317,three people standing next to a truck,entailment,трое мужчин смотрят в камеру
+6979303317,three people standing next to a truck,contradiction,три мужчины спят в палатке
+7113652429,a group of people sitting in the dark playing drums,entailment,Эти мужчины музыканты.
+7113652429,a group of people sitting in the dark playing drums,contradiction,Эти мужчины спят в мотеле.
+7113652429,a group of people sitting in the dark playing drums,entailment,Четыре мужчины играют на барабанах.
+7192379802,a young boy walking on a sidewalk with a skateboard,contradiction,Мальчик играет с баскетбольным мячом.
+7192379802,a young boy walking on a sidewalk with a skateboard,neutral,Малышка бежит во вьетнамках своей старшей сестры.
+7192379802,a young boy walking on a sidewalk with a skateboard,entailment,Малыш бежит.
+7523563426,a man is singing into a microphone and holding his hand up,neutral,Брюс Спрингстин из Флориды.
+7523563426,a man is singing into a microphone and holding his hand up,entailment,Брюс Спрингстин – певец.
+7523563426,a man is singing into a microphone and holding his hand up,neutral,Брюс Спрингстин - гей
+1384292980,two women walking down the street together,entailment,Девочки идут вдоль по улице.
+1384292980,two women walking down the street together,contradiction,Девочки присели на улице.
+1384292980,two women walking down the street together,neutral,Девочки шли в парк.
+1937262236,two dogs playing with a toy on the beach,neutral,Эти собаки находятся на заднем дворе.
+1937262236,two dogs playing with a toy on the beach,contradiction,Эти собаки едят из своих собачьих мисок.
+1937262236,two dogs playing with a toy on the beach,entailment,Эти собаки рядом с игрушкой.
+2015953389,a group of people on a scaffolding in front of a building,contradiction,Рабочие ушли с подъемника.
+2015953389,a group of people on a scaffolding in front of a building,contradiction,Рабочие идут домой с работы.
+2015953389,a group of people on a scaffolding in front of a building,entailment,Рабочие стоят на подъемнике.
+2096485764,a man sitting at a bar in a shop at night,entailment,Этот мужчина находится внутри.
+2096485764,a man sitting at a bar in a shop at night,neutral,Этот мужчина читает спортивную страницу.
+2096485764,a man sitting at a bar in a shop at night,contradiction,Этот мужчина взбирается на гору.
+2245916742,a man standing between two statues of faces in a field,entailment,Мужчина находится на острове Пасхи.
+2245916742,a man standing between two statues of faces in a field,contradiction,Ребенок охотится за пасхальными яйцами.
+2245916742,a man standing between two statues of faces in a field,neutral,"У туриста есть фотография, снятая на острове Пасхи."
+2412152032,a group of people climbing up a metal structure,neutral,"Эти дети – ученики, изучающие боевые искусства."
+2412152032,a group of people climbing up a metal structure,contradiction,Эти дети ползают в песке.
+2412152032,a group of people climbing up a metal structure,entailment,Дети в униформе взбираются на башню.
+2679565682,a man with a long beard is looking at another man,entailment,Мужчина находится рядом с другим мужчиной.
+2679565682,a man with a long beard is looking at another man,contradiction,Мужчина делает фотографию женщины.
+2679565682,a man with a long beard is looking at another man,neutral,Мужчина с ковбоем.
+2700147489,a man is doing a trick on a skateboard,contradiction,Чисто выбритый мужчина катается на скейтборде.
+2700147489,a man is doing a trick on a skateboard,entailment,Мужчина катается на скейтборде. 
+2700147489,a man is doing a trick on a skateboard,neutral,Мужчина с козлиной бородкой выполняет сальто назад на скейтборде.
+2770821714,a man and two children standing on top of a rock,entailment,Семья на отдыхе позирует.
+2770821714,a man and two children standing on top of a rock,entailment,Люди на открытом воздухе.
+2770821714,a man and two children standing on top of a rock,contradiction,Семья находится в своей машине.
+282741726,a group of people sitting at tables in a class room,entailment,Группа людей сидит за столами.
+282741726,a group of people sitting at tables in a class room,contradiction,"Группа людей сидит за столом, обедая вместе."
+282741726,a group of people sitting at tables in a class room,neutral,Во время текущей семейной встречи родственники сидят за столами и записывают адреса друг друга.
+2892843393,a person is standing next to a food cart,entailment,Человек находится рядом с кучей кокосовых орехов.
+2892843393,a person is standing next to a food cart,neutral,Человек продает кокосовые орехи.
+2892843393,a person is standing next to a food cart,contradiction,Человек жжет соломенную шляпу.
+2898810636,a young girl jumping in the air with a blue shirt on,contradiction,"Девочка, прыгающая через скакалку на Марсе."
+2898810636,a young girl jumping in the air with a blue shirt on,neutral,Прыгающая через скакалку девочка.
+2898810636,a young girl jumping in the air with a blue shirt on,neutral,Девочка прыгает высоко.
+2936881937,a man working on a bike in a bike shop,contradiction,Мужчина сломал велосипед.
+2936881937,a man working on a bike in a bike shop,entailment,"Мужчина смотрит, как ремонтируют велосипед."
+2936881937,a man working on a bike in a bike shop,neutral,Мужчина изучает ремонт велосипеда.
+2936881937,a man working on a bike in a bike shop,contradiction,Мужчина одет в красную рубашку.
+2936881937,a man working on a bike in a bike shop,entailment,Мужчина в черной рубашке
+2936881937,a man working on a bike in a bike shop,neutral,Мужчина решает какой велосипед купить.
+2936881937,a man working on a bike in a bike shop,entailment,Человек находится в гараже.
+2936881937,a man working on a bike in a bike shop,entailment,Мужчина ремонтирует велосипеды.
+2936881937,a man working on a bike in a bike shop,contradiction,Мужчина ждет снаружи гаража.
+295344517,a group of people walking down a sidewalk,neutral,Несколько человек идут с мужчиной в униформе.
+295344517,a group of people walking down a sidewalk,contradiction,Парикмахер стрижет волосы мужчины.
+295344517,a group of people walking down a sidewalk,entailment,Группа прогуливающихся людей.
+2954291559,a man standing on top of a building with an american flag,entailment,Человек находится наверху здания.
+2954291559,a man standing on top of a building with an american flag,contradiction,Этот безработный человек находится рядом со зданием.
+2954291559,a man standing on top of a building with an american flag,neutral,Мужчина находится наверху здания.
+300026912,a group of men playing baseball on a street,entailment,"Группа людей, смотрящих вверх."
+300026912,a group of men playing baseball on a street,contradiction,"Змея, поедающая мышь."
+300026912,a group of men playing baseball on a street,neutral,Группа тренеров показывает своей команде на табло.
+3036382555,a woman and two young girls in costumes running through autumn leaves,entailment,Девочки играют на свежем воздухе.
+3036382555,a woman and two young girls in costumes running through autumn leaves,contradiction,Две нарядные девочки играют внутри дома.
+3036382555,a woman and two young girls in costumes running through autumn leaves,neutral,Эти две девочки играют в игру «Осень».
+3046312861,two girls are doing gymnastics on a pole in a gym,entailment,Эта гимнастка тренируется.
+3046312861,two girls are doing gymnastics on a pole in a gym,contradiction,Эта гимнастка находится на пути в спортзал.
+3046312861,two girls are doing gymnastics on a pole in a gym,neutral,Эта гимнастка тренируется для Олимпийских игр.
+3096918227,a man doing a trick on a skateboard in the air,neutral,Скейтбордист находится в скейтпарке со своими друзьями и демонстрирует свои движения.
+3096918227,a man doing a trick on a skateboard in the air,entailment,Скейтбордист выполняет трюки в зоне с трамплинами.
+3096918227,a man doing a trick on a skateboard in the air,contradiction,"Скейтбордист находится на заднем дворе, сражаясь со своими друзьями."
+3126681108,a little girl playing in the snow in front of a house,contradiction,Женщина ест пасту в ресторане.
+3126681108,a little girl playing in the snow in front of a house,neutral,Эта женщина в куртке ищет свою потерянную собаку.
+3126681108,a little girl playing in the snow in front of a house,entailment,Эта девочка гуляет на улице.
+3262845042,two people on skis pulling a sled in the snow,neutral,Мужчина на лыжах на горе.
+3262845042,two people on skis pulling a sled in the snow,contradiction,Мужчина катается на сноуборде.
+3289817083,a woman holding a child petting a horse,neutral,"Мужчина, похитивший младенца, гладит пони."
+3289817083,a woman holding a child petting a horse,entailment,Мужчина с младенцем гладит пони.
+3289817083,a woman holding a child petting a horse,neutral,Мужчина и его дочь гладят пони.
+3316725440,a man riding a bike down a race track,entailment,Человек едет на велосипеде.
+3316725440,a man riding a bike down a race track,neutral,Этот велосипедист проигрывает гонку.
+3316725440,a man riding a bike down a race track,contradiction,Эта машина желтая.
+3335501468,a duck swimming in a body of water,contradiction,Эта птица летит над деревьями.
+3335501468,a duck swimming in a body of water,neutral,Эта утка плавает в озере.
+3410899419,a group of young children standing around a water fountain,entailment,Дети принимают ванну.
+3410899419,a group of young children standing around a water fountain,entailment,Эти дети не читают.
+3410899419,a group of young children standing around a water fountain,entailment,Эти дети мокрые.
+3544654074,a bride and groom are standing in front of a fence,entailment,Эта пара веселится.
+3544654074,a bride and groom are standing in front of a fence,entailment,Эта пара только что вступила в брак.
+3544654074,a bride and groom are standing in front of a fence,contradiction,Эта пара в разводе.
+3549277110,two young boys sitting on a bed reading comic books,neutral,"Два мальчика, читающие книгу про Человека-паука."
+3549277110,two young boys sitting on a bed reading comic books,contradiction,"Два мальчика, смотрящие шоу о супергероях."
+3549277110,two young boys sitting on a bed reading comic books,entailment,"Два мальчика, читающие литературное произведение."
+3551170666,a dog laying on the floor with a toy,neutral,Золотистый ретривер кормит щенков каких-то других собак.
+3551170666,a dog laying on the floor with a toy,entailment,Щенки рядом со своей матерью.
+3551170666,a dog laying on the floor with a toy,contradiction,Кошка кормит щенков.
+3604391853,a woman laying in the grass with her hand out to another person,neutral,Этот мужчина тянется к своей жене.
+3604391853,a woman laying in the grass with her hand out to another person,contradiction,"Этот мужчина загорает, и на нем нет ничего, кроме плавок."
+3604391853,a woman laying in the grass with her hand out to another person,entailment,Человек в красном протягивает руку.
+3610836768,a group of people pulling a rope by the water,neutral,Деревенские жители готовятся идти на рыбалку.
+3610836768,a group of people pulling a rope by the water,contradiction,Деревенские жители сидят вокруг лагерного костра.
+3610836768,a group of people pulling a rope by the water,entailment,"Здесь есть люди, толкающие лодку."
+3626642428,a group of dogs playing in a river,neutral,Шесть собак переплывают через реку.
+3626642428,a group of dogs playing in a river,entailment,Шесть собак находятся на свежем воздухе.
+3626642428,a group of dogs playing in a river,contradiction,Эти щенки сидят на диване.
+3639547922,a young child is on a purple slide,entailment,Девочка съезжает с горки.
+3639547922,a young child is on a purple slide,contradiction,Хмурый мальчик играет в футбол.
+3639547922,a young child is on a purple slide,neutral,Девочка с удовольствием использует оборудование на детской площадке.
+3720932219,a woman is talking to a group of girls,entailment,Женщина говорит с другими женщинами.
+3720932219,a woman is talking to a group of girls,entailment,"Светловолосый человек разговаривает с группой темноволосых студенток, несущих листы бумаги."
+3720932219,a woman is talking to a group of girls,contradiction,Мужчина заигрывает с женщиной.
+3720932219,a woman is talking to a group of girls,entailment,"Некто, раздающий бумагу."
+3720932219,a woman is talking to a group of girls,neutral,Эта женщина задает домашнее задание детям.
+3720932219,a woman is talking to a group of girls,contradiction,Женщина оставляет бумагу себе.
+4234824441,a group of people walking across a bridge,neutral,Члены большой семьи пошли вместе в поход во время семейной встречи.
+4234824441,a group of people walking across a bridge,contradiction,Эти трое мужчин сидят и разговаривают о своей жизни.
+4234824441,a group of people walking across a bridge,entailment,На улице три человека.
+42397423,a boy is standing on a pipe in the water,contradiction,Парень делает саб сэндвич у себя на кухне.
+42397423,a boy is standing on a pipe in the water,entailment,Парень гуляет снаружи.
+42397423,a boy is standing on a pipe in the water,neutral,Мальчик рискует упасть в воду.
+42397423,a boy is standing on a pipe in the water,contradiction,Никто не балансирует.
+42397423,a boy is standing on a pipe in the water,neutral,Умный человек сохраняет равновесие.
+42397423,a boy is standing on a pipe in the water,entailment,Какой-то человек балансирует.
+424506167,two dogs standing next to each other in a field,contradiction,Две собаки сидят на крыльце.
+424506167,two dogs standing next to each other in a field,neutral,"Две собаки, прячущиеся вместе во дворе."
+424506167,two dogs standing next to each other in a field,entailment,"Две собаки, стоящие вместе во дворе."
+4361879526,two men are climbing up a scaffolding on a building,entailment,Два человека взбираются на деревянный помост.
+4361879526,two men are climbing up a scaffolding on a building,contradiction,Две женщины взбираются на деревянный помост.
+4361879526,two men are climbing up a scaffolding on a building,neutral,Два грустных мужчины взбираются на деревянный помост.
+4480997710,a woman holding a red umbrella looking into a window at a store,contradiction,Эти две женщины стояли под черным зонтом.
+4480997710,a woman holding a red umbrella looking into a window at a store,entailment,Они стояли под зонтом.
+4480997710,a woman holding a red umbrella looking into a window at a store,neutral,Женатая пара стояла под зонтом.
+4647462263,a couple of men doing martial arts on a court,neutral,Два мужчины дерутся снаружи бара.
+4647462263,a couple of men doing martial arts on a court,contradiction,Женщина делает макияж.
+4647462263,a couple of men doing martial arts on a court,entailment,Один парень бьет другого.
+4836132337,a man walking in front of a building in a field,contradiction,Мужчина пишет свою спортивную историю.
+4836132337,a man walking in front of a building in a field,entailment,Мужчина смотрит на поле.
+4836132337,a man walking in front of a building in a field,contradiction,Мужчина сидит в казино.
+4963234016,a woman is preparing meat at a counter,neutral,Женщина работает на фабрике.
+4963234016,a woman is preparing meat at a counter,entailment,Женщина работает.
+4963234016,a woman is preparing meat at a counter,contradiction,Женщина спит.
+500665418,a man in a suit talking to a woman,contradiction,Мужчина крадет женскую сумочку в банке.
+500665418,a man in a suit talking to a woman,entailment,Мужчина болтает с женщиной.
+500665418,a man in a suit talking to a woman,neutral,Мужчина разговаривает с женщиной о погоде.
+5199580790,a group of people on a boat in a river,neutral,Несколько моряков садятся в шлюпку.
+5199580790,a group of people on a boat in a river,entailment,Несколько человек размещают что-то в лодке в месте с более чем одной лодкой.
+5199580790,a group of people on a boat in a river,contradiction,Человек уезжает в караване «Виннебаго».
+5479743540,a man riding a skateboard on a rail at a skate park,entailment,Молодой человек на скейтборде.
+5479743540,a man riding a skateboard on a rail at a skate park,contradiction,"Человек, рисующий дерево"
+5479743540,a man riding a skateboard on a rail at a skate park,neutral,"Мальчик, показывающий друзьям свои новые трюки на скейтборде."
+5479743540,a man riding a skateboard on a rail at a skate park,neutral,Он одет в застегнутую на все пуговицы рубашку.
+5479743540,a man riding a skateboard on a rail at a skate park,contradiction,Его лысая голова непокрыта.
+5479743540,a man riding a skateboard on a rail at a skate park,entailment,"Мужчина сидит, согнувшись на перилах."
+5840087663,a young boy sitting on the grass using a microscope,neutral,Этот мальчик на научной полевой экскурсии.
+5840087663,a young boy sitting on the grass using a microscope,contradiction,Эта маленькая девочка смотрит в телескоп.
+5840087663,a young boy sitting on the grass using a microscope,entailment,Этот мальчик смотрит в микроскоп.
+6878167613,a man is playing golf on a green field,entailment,Гольфист готовится загнать мяч в лунку.
+6878167613,a man is playing golf on a green field,entailment,"Этот гольфист собирается выполнить катящийся удар, загоняющий мяч в лунку, на фоне наблюдающей толпы."
+6878167613,a man is playing golf on a green field,contradiction,Этот гольфист бросил играть сегодня.
+7511707760,a pitcher on the mound throwing a baseball,entailment,Этот питчер бросает мяч.
+7511707760,a pitcher on the mound throwing a baseball,neutral,Этот питчер хочет вывести из игры последнего игрока команды.
+7511707760,a pitcher on the mound throwing a baseball,contradiction,Этот мальчик играет в баскетбол.
+7591663030,a man riding a motorcycle down a dirt road next to a pile of cars,neutral,"Мужчина совершает пробную поездку на мотоцикле, чтобы решить покупать ли его или нет."
+7591663030,a man riding a motorcycle down a dirt road next to a pile of cars,entailment,Мужчина едет на мотоцикле.
+7591663030,a man riding a motorcycle down a dirt road next to a pile of cars,contradiction,Мужчина сидит на припаркованном мотоцикле и ждет своего друга.
+766061382,a young boy playing in a water sprinkler,neutral,В воде находится раздевающийся ребенок.
+766061382,a young boy playing in a water sprinkler,neutral,В воде находится голый ребенок.
+766061382,a young boy playing in a water sprinkler,entailment,"Здесь есть раздетый по пояс ребенок, играющий в воде."
+8137819284,a jockey is riding a horse on a field,neutral,Лошадь споткнулась о камень.
+8137819284,a jockey is riding a horse on a field,contradiction,Эта лошадь галантно скачет через траву.
+8137819284,a jockey is riding a horse on a field,entailment,Этот жокей пытается не упасть с лошади.
+1910013808,a woman is taking a picture of a horse,entailment,Женщина делает фотографии лошади.
+1910013808,a woman is taking a picture of a horse,neutral,Фотографу платят за фотографии диких жеребцов.
+1910013808,a woman is taking a picture of a horse,contradiction,Обнаженная женщина фотографирует лошадь.
+2096686198,two men standing in a kitchen preparing food,neutral,Двое мужчин записывают обучающее видео по приготовлению пищи.
+2096686198,two men standing in a kitchen preparing food,entailment,Мужчина находится перед камерой.
+2096686198,two men standing in a kitchen preparing food,contradiction,Два мужчины находятся в бассейне.
+2098777590,a woman in a kitchen preparing food in a pot,neutral,Человек готовит ужин.
+2098777590,a woman in a kitchen preparing food in a pot,contradiction,Мужчина убирает кухню.
+2098777590,a woman in a kitchen preparing food in a pot,entailment,Женщина готовит еду.
+2101729860,a man drinking from a glass in the dark,entailment,Мужчина стоит в дверях дома.
+2101729860,a man drinking from a glass in the dark,contradiction,Этот мужчина сидит на столе.
+2101729860,a man drinking from a glass in the dark,neutral,Мужчина смотрит на лужайку перед домом с порога своего дома.
+2178064851,a young girl in the water in the ocean,entailment,Ребенок находится в океане
+2178064851,a young girl in the water in the ocean,entailment,Этот ребенок играет на пляже.
+2178064851,a young girl in the water in the ocean,neutral,Этот ребенок – мальчик.
+2249141510,a young boy jumping in the air on a playground,neutral,Маленький мальчик прыгает на замок из песка своего друга на детской площадке.
+2249141510,a young boy jumping in the air on a playground,entailment,Ребенок играет в песке.
+2249141510,a young boy jumping in the air on a playground,contradiction,Ребенок прыгает «бомбочкой» в бассейн.
+2289096282,a person riding a skateboard down a path in the woods,entailment,Два человека снаружи.
+2289096282,a person riding a skateboard down a path in the woods,contradiction,Человек не сводит глаз с пустого холма.
+2289096282,a person riding a skateboard down a path in the woods,neutral,Ребенок в повозке скатывается с холма.
+2348557363,a young boy climbing a spiral staircase in a library full of books,contradiction,Этот ребенок находится на крыльце школы
+2348557363,a young boy climbing a spiral staircase in a library full of books,entailment,Этот ребенок находится на ступенях.
+2348557363,a young boy climbing a spiral staircase in a library full of books,neutral,Этот ребенок находится на лестнице внутри библиотеки.
+2613920405,a man walking two cows down the side of a road,entailment,Мужчина идет со своей коровой.
+2613920405,a man walking two cows down the side of a road,contradiction,Мужчина гонится за своей собакой.
+2613920405,a man walking two cows down the side of a road,neutral,"Мужчина ведет корову, чтобы подоить ее."
+2832453252,a group of children playing in the water,neutral,Эти дети измазаны грязью.
+2832453252,a group of children playing in the water,entailment,Эти дети мокрые.
+2832453252,a group of children playing in the water,contradiction,Эти дети делают работу по дому.
+2832453252,a group of children playing in the water,entailment,Четыре девочки находятся в воде.
+2832453252,a group of children playing in the water,contradiction,В воде находятся мальчик и девочка.
+2832453252,a group of children playing in the water,neutral,Четыре девочки плавают.
+3047559556,a young child playing on a red slide at a park,neutral,Красная горка в патио расположена рядом с красными детскими качелями.
+3047559556,a young child playing on a red slide at a park,contradiction,Мальчик принимает ванну со своими резиновыми уточками.
+3047559556,a young child playing on a red slide at a park,entailment,Мальчик играет.
+3058627443,a person riding a wave on a surfboard in the ocean,contradiction,Человека падает со своего велосипеда.
+3058627443,a person riding a wave on a surfboard in the ocean,neutral,Серфер сброшен в волны после удара большим гребнем волны.
+3058627443,a person riding a wave on a surfboard in the ocean,entailment,Человек находится в воде.
+3128856481,a goose spreading its wings in the water,contradiction,"Эта утка относится к редкой породе, которую многие считали находящейся на грани вымирания уже многие годы."
+3128856481,a goose spreading its wings in the water,entailment,На этой картинке изображено одно животное.
+3128856481,a goose spreading its wings in the water,contradiction,"Эта утка беспробудно спит, держась на поверхности воды."
+3132708822,a group of people standing on a subway train,entailment,Толпа людей вместе.
+3132708822,a group of people standing on a subway train,contradiction,Один человек сидит одиноко в вагоне метро.
+3132708822,a group of people standing on a subway train,neutral,Толпа людей направляется на работу.
+3192645199,a group of people sitting on a bus,entailment,Два человека разговаривают.
+3192645199,a group of people sitting on a bus,contradiction,Три человека находятся на встрече.
+3192645199,a group of people sitting on a bus,neutral,Два человека обсуждают свои отношения.
+3202798691,a man riding a bike down a dirt road,contradiction,Этот мужчина едет верхом на лошади.
+3202798691,a man riding a bike down a dirt road,entailment,Этот мужчина едет на велосипеде.
+3202798691,a man riding a bike down a dirt road,neutral,Этот мужчина едет на велосипеде-внедорожнике. 
+3214333978,four women walking down a road in the snow,neutral,"Эта дорога опасна для этих четырех женщин, пытающихся по ней идти, поскольку она покрыта льдом."
+3214333978,four women walking down a road in the snow,entailment,Эти женщины идут по льду.
+3214333978,four women walking down a road in the snow,contradiction,Четыре женщины идут рядом с сухим шоссе.
+3344526059,a hockey player in a white jersey and a white helmet,neutral,Игроки одеты в шлемы.
+3344526059,a hockey player in a white jersey and a white helmet,contradiction,Эти игроки отдыхают.
+3344526059,a hockey player in a white jersey and a white helmet,neutral,Они играют в хоккей.
+3344578125,a group of people standing on a beach,entailment,"Группа людей, смотрящих на статую."
+3344578125,a group of people standing on a beach,contradiction,Красивая статуя мужчины.
+3344578125,a group of people standing on a beach,neutral,"Люди, одетые в одежду для прохладной погоды из-за чрезмерного ветра."
+3364026240,a person riding skis down a snow covered slope,entailment,Заснеженное поле и сноубордист на нем
+3364026240,a person riding skis down a snow covered slope,neutral,Сноубордист скользит по заснеженному полю
+3364026240,a person riding skis down a snow covered slope,neutral,Снегоход в снежной буре
+3411022255,people crossing the street at a cross walk,contradiction,"Люди с младенцем, едущие в автобусе."
+3411022255,people crossing the street at a cross walk,entailment,Люди с младенцем переходят улицу.
+3411022255,people crossing the street at a cross walk,neutral,"Люди с младенцем переходят улицу по пешеходному переходу, чтобы попасть домой."
+3439087390,a group of people sitting at a table with dogs laying on the floor,neutral,Эта пара ест стейк.
+3439087390,a group of people sitting at a table with dogs laying on the floor,entailment,Несколько животных спят.
+3439087390,a group of people sitting at a table with dogs laying on the floor,contradiction,"Здесь есть пара, выгуливающая своих собак."
+3446484702,a woman walking down a street with a basket on her head,neutral,"Женщина, удерживающая корзину на голове, направляется к дому соседей."
+3446484702,a woman walking down a street with a basket on her head,entailment,Пожилая женщина удерживает что-то на голове во время разговора.
+3693415584,a woman is weaving on a loom with a stick,neutral,Женщина одета в ярко-оранжевую блузу и зеленую шляпу.
+3693415584,a woman is weaving on a loom with a stick,contradiction,Женщина гладит красные брюки.
+3693415584,a woman is weaving on a loom with a stick,entailment,Женщина ткет.
+3941241861,a group of men sitting at a bar with drinks,entailment,Группа друзей сидит за столом.
+3941241861,a group of men sitting at a bar with drinks,contradiction,Группа друзей спит.
+3941241861,a group of men sitting at a bar with drinks,entailment,группа друзей сидит.
+4183662919,a little girl sitting on the floor with shoes and a bottle,neutral,"Ребенок играет с ботинками своего отца, в то время как он находится на работе."
+4183662919,a little girl sitting on the floor with shoes and a bottle,entailment,Ребенок играет.
+4183662919,a little girl sitting on the floor with shoes and a bottle,contradiction,Ребенок играет с туфлями своей матери.
+4326517877,a man standing next to a hot dog cart,contradiction,Мужчина и его семья едят пиццу.
+4326517877,a man standing next to a hot dog cart,neutral,Мужчина и женщина едят хот-дог на бейсбольном матче.
+4326517877,a man standing next to a hot dog cart,entailment,Мужчина и женщина вместе едят хот-дог.
+4421399995,two men standing in a kitchen preparing food,entailment,"Этот мужчина смотрит, как другой чистит рыбу."
+4421399995,two men standing in a kitchen preparing food,neutral,"Этот мужчина чистит рыбу, которую он поймал, чтобы приготовить ее."
+4421399995,two men standing in a kitchen preparing food,contradiction,"Этот мужчина в оранжевой рубашке смотрит, как другой мужчина моет посуду."
+4499295511,three people sitting on a bench in a subway station,contradiction,Несколько человек стоят вокруг.
+4499295511,three people sitting on a bench in a subway station,contradiction,Люди бегут вместе.
+4499295511,three people sitting on a bench in a subway station,entailment,Люди ждут на станции.
+4525101035,a man leaning on a rail with his arms outstretched,neutral,Этот молодой мужчина находится в доме своей бабушки.
+4525101035,a man leaning on a rail with his arms outstretched,neutral,Эти перила/ограда расположены перед замерзшим озером.
+4525101035,a man leaning on a rail with his arms outstretched,entailment,"Этот мужчина разводит свои руки, стоя у перил."
+4525101035,a man leaning on a rail with his arms outstretched,neutral,Мужчина был одет в куртку зимой.
+4525101035,a man leaning on a rail with his arms outstretched,contradiction,"Некто, одетый в хлопковую рубашку, смотрит на зеленую расческу для волос."
+4525101035,a man leaning on a rail with his arms outstretched,entailment,"Мужчина, одетый в куртку, держал расческу."
+4525101035,a man leaning on a rail with his arms outstretched,neutral,Этот мужчина молит о пощаде.
+4525101035,a man leaning on a rail with his arms outstretched,entailment,Этот мужчина стоит прямо.
+4525101035,a man leaning on a rail with his arms outstretched,contradiction,"Этот мужчина сидит, скрестив ноги на полу."
+4679111230,a group of firemen are walking down a street,neutral,Трое пожарных тушат пожар внутри станции метрополитена.
+4679111230,a group of firemen are walking down a street,entailment,Трое пожарных появились из станции метро.
+4679111230,a group of firemen are walking down a street,contradiction,Трое пожарных играют в карты внутри пожарной станции.
+4692456296,a woman and a little girl walking on a bridge,neutral,Мать и дочь идут домой.
+4692456296,a woman and a little girl walking on a bridge,contradiction,Мать и дочь едят спагетти на кухне.
+4692456296,a woman and a little girl walking on a bridge,entailment,Мать и дочь идут.
+4705094483,a man holding up meat in a kitchen,neutral,"Человек в черной рубашке на предприятии общественного питания, держащий старое мясо, которое он достал из пакета."
+4705094483,a man holding up meat in a kitchen,contradiction,"Женщина в черной рубашке на предприятии общественного питания, держащая мясо, которое она достала из пакета."
+4705094483,a man holding up meat in a kitchen,entailment,"Мужчина в рубашке на предприятии общественного питания, держащий мясо, которое он достал из пакета."
+4731413904,people sitting at a bar watching a football game on the tv,entailment,Несколько мужчин смотрят телевизор в баре.
+4731413904,people sitting at a bar watching a football game on the tv,neutral,Мужчины в спортбаре пьют пиво.
+4731413904,people sitting at a bar watching a football game on the tv,contradiction,Эти мужчины находятся на бейсбольном матче.
+4801146545,a woman sitting on a wall looking at a crowd of people in the street,contradiction,"Толпа людей, одетых в черное, идет по улице"
+4801146545,a woman sitting on a wall looking at a crowd of people in the street,neutral,По улице идет много мужчин в белом и красном.
+4801146545,a woman sitting on a wall looking at a crowd of people in the street,entailment,Толпа людей идет по улице.
+4814763982,a man with dreadlocks is standing on a boat,entailment,Мужчина совершает действия с палочкой.
+4814763982,a man with dreadlocks is standing on a boat,contradiction,Мужчина подбрасывает в воздух банан.
+4814763982,a man with dreadlocks is standing on a boat,neutral,Мужчина прилагает максимум усилий на национальном чемпионате по эстафете.
+4886223475,a man riding a bike while talking on a cell phone,neutral,Этот мужчина проверяет велосипед.
+4886223475,a man riding a bike while talking on a cell phone,contradiction,Этот мужчина ведет грузовой автомобиль.
+4886223475,a man riding a bike while talking on a cell phone,entailment,Этот мужчина едет на велосипеде.
+4968358093,a man speaking into a megaphone with a cell phone,entailment,На пляже есть объявление.
+4968358093,a man speaking into a megaphone with a cell phone,neutral,Это объявление на пляже - предупреждение.
+4968358093,a man speaking into a megaphone with a cell phone,contradiction,На пляже сотни акул.
+4970594489,an old woman walking down the street with a car,contradiction,Мужчина-азиат читает газету.
+4970594489,an old woman walking down the street with a car,entailment,Мужчина-азиат толкает свою тележку по улице.
+4970594489,an old woman walking down the street with a car,neutral,Мужчина-азиат продает еду.
+524105255,a woman overlooking the seattle city skyline,neutral,Турист осматривает Сиэтл.
+524105255,a woman overlooking the seattle city skyline,entailment,"Некто, осматривающий вид на «Космическую иглу»."
+524105255,a woman overlooking the seattle city skyline,contradiction,"Мужчина, наслаждающийся видом на мост «Золотые ворота»."
+6208501317,a young girl playing a video game at an arcade,contradiction,Этот ребенок спит.
+6208501317,a young girl playing a video game at an arcade,entailment,Этот ребенок играет.
+6208501317,a young girl playing a video game at an arcade,neutral,Этот ребенок играет в игру для развлечения.
+6320815265,a woman running in a race in the street,contradiction,На улицах есть дети.
+6320815265,a woman running in a race in the street,entailment,На улице есть люди.
+6320815265,a woman running in a race in the street,contradiction,Эти улицы безлюдны.
+6332384430,two men in karate uniforms are fighting on a red mat,neutral,Эти мужчины - новички в боевых искусствах.
+6332384430,two men in karate uniforms are fighting on a red mat,contradiction,Эти мужчины – обладатели черных поясов.
+6332384430,two men in karate uniforms are fighting on a red mat,entailment,Мужчина в красном поясе.
+6526219567,a statue in a museum with people looking at it,neutral,"Эта статуя оскорбительна, и люди рассержены из-за того, что ее экспонируют."
+6526219567,a statue in a museum with people looking at it,entailment,"Здесь есть статуя, которая, по-видимому, интересует очень немногих."
+6526219567,a statue in a museum with people looking at it,contradiction,Множество людей собралось вокруг статуи.
+6753255813,the football team is lined up on the field before a game,neutral,У популярной футбольной команды много фанатов в Калифорнии.
+6753255813,the football team is lined up on the field before a game,neutral,Команда «Форти Найнерс» готова играть против своих соперников.
+6753255813,the football team is lined up on the field before a game,contradiction,Футбольный матч был отменен и поле пустое.
+7024547367,a group of people sitting around a table,neutral,Эти люди уникальны.
+7024547367,a group of people sitting around a table,neutral,Эти люди творческие
+7024547367,a group of people sitting around a table,contradiction,Эти люди спорят о политике.
+7236594962,a man holding a gun in the middle of a field,contradiction,Мужчина стреляет из лука со стрелами в дождливый день.
+7236594962,a man holding a gun in the middle of a field,entailment,Мужчина стреляет из ружья по мишеням в хороший день.
+7236594962,a man holding a gun in the middle of a field,neutral,Мужчина стреляет из ружья на улице со своими друзьями.
+7249180494,a man walking out of the water in a wet suit,entailment,Человек плавает.
+7249180494,a man walking out of the water in a wet suit,contradiction,Пловец ест жареный маршмеллоу.
+7249180494,a man walking out of the water in a wet suit,neutral,"Пловец чуть не утонул после того, как его засосало быстрым течением."
+7249180494,a man walking out of the water in a wet suit,neutral,"Мужчина в гидрокостюме выходит из воды, неся доску для серфинга."
+7249180494,a man walking out of the water in a wet suit,entailment,Человек выходит из воды.
+7249180494,a man walking out of the water in a wet suit,contradiction,Мужчина лежит на пляже.
+759822302,a man holding a newspaper,contradiction,На его голове надета газета.
+759822302,a man holding a newspaper,neutral,Он читает газету.
+759822302,a man holding a newspaper,neutral,Он еврей.
+7995263133,a young boy sleeping on a striped pillow,contradiction,Мальчик играет в футбол.
+7995263133,a young boy sleeping on a striped pillow,neutral,Мальчик спит во время ночевки у друга.
+7995263133,a young boy sleeping on a striped pillow,entailment,Мальчик спит на подушке.
+1434151732,a woman is eating a cup of food,entailment,Женщина получает удовольствие от подарка.
+1434151732,a woman is eating a cup of food,neutral,Эта азиатская женщина есть мороженое.
+1434151732,a woman is eating a cup of food,contradiction,Деловой человек спешит на работу.
+145282619,a man cooking on a frying pan with fire,contradiction,Мужчина расчищает двор.
+145282619,a man cooking on a frying pan with fire,neutral,Мужчина готовит для своих друзей.
+145282619,a man cooking on a frying pan with fire,entailment,Человек готовит еду.
+145282619,a man cooking on a frying pan with fire,entailment,Мужчина готовит со множеством кастрюль.
+145282619,a man cooking on a frying pan with fire,neutral,Мужчина готовит ужин для своей семьи во множестве кастрюль.
+145282619,a man cooking on a frying pan with fire,contradiction,Мужчина готовит с множеством печей.
+2004326408,a woman riding a bike down a street,entailment,Женщина на велосипеде.
+2004326408,a woman riding a bike down a street,neutral,Женщина едет на велосипеде на работу.
+2004326408,a woman riding a bike down a street,contradiction,Женщина ведет машину.
+2168723623,a woman in a red dress standing in front of an airplane,contradiction,Пустое поле фотографируют.
+2168723623,a woman in a red dress standing in front of an airplane,entailment,Самолет летит в небе.
+2168723623,a woman in a red dress standing in front of an airplane,entailment,Происходит военное мероприятие.
+2286270205,a dog walking in the snow drinking water from a puddle,contradiction,Кошка лежит на диване.
+2286270205,a dog walking in the snow drinking water from a puddle,entailment,Животное находится на улице.
+2286270205,a dog walking in the snow drinking water from a puddle,neutral,"Эта собака думает о том, чтобы пойти искупаться."
+2330536645,children playing in a river,neutral,Эти дети находятся в лагере.
+2330536645,children playing in a river,neutral,Несколько детей плещутся в воде и общаются друг с другом.
+2330536645,children playing in a river,contradiction,Эти дети играют в мини-гольф.
+2330536645,children playing in a river,contradiction,Эти дети поют в хоре.
+2330536645,children playing in a river,entailment,Эти дети находятся в глубокой воде.
+2330536645,children playing in a river,neutral,Они одеты в спасательные жилеты.
+2400461120,a woman walking down a street in front of a building,entailment,"Женщина, стоящая на углу улицы снаружи, рядом с тремя разными магазинами, в двух из которых находятся красивые произведения искусства, а на третьем есть знак Ларго."
+2400461120,a woman walking down a street in front of a building,neutral,"Женщина стоит на углу улицы снаружи двух художественных салонов, решая в какой из них зайти."
+2400461120,a woman walking down a street in front of a building,contradiction,"Женщина, сидящая снаружи возле знака автобусной остановки рядом с туалетом на остановке."
+2508019949,a man in a costume pushing a stroller,contradiction,Женщина сидит на скамейке в парке.
+2508019949,a man in a costume pushing a stroller,neutral,Старая женщина везет детскую коляску по оживленной улице.
+2508019949,a man in a costume pushing a stroller,entailment,Человек снаружи везет детскую коляску.
+2592711202,a little girl sitting on the ground eating a piece of cake,neutral,Эта девушка ест голубую сахарную вату на карнавале.
+2592711202,a little girl sitting on the ground eating a piece of cake,neutral,Эта девочка в синем платье держит букет невесты во время свадьбы.
+2592711202,a little girl sitting on the ground eating a piece of cake,entailment,Эта босая девочка ест.
+2638054798,two young boys sitting on a sidewalk next to a fire hydrant,contradiction,Два ребенка спят в детском саду.
+2638054798,two young boys sitting on a sidewalk next to a fire hydrant,neutral,Два ребенка сидят внутри без рубашек.
+2638054798,two young boys sitting on a sidewalk next to a fire hydrant,neutral,"Два маленьких ребенка играют друг с другом и хихикают, играя с маркерами."
+264460711,a group of people sitting at a table,neutral,Люди на вечеринке сели поужинать на лужайке.
+264460711,a group of people sitting at a table,entailment,Люди разговаривают под навесом.
+264460711,a group of people sitting at a table,contradiction,Люди кричат на матче по боксу.
+290650302,a woman sitting in an airplane looking at something,entailment,Женщина сидит в комнате с другими людьми.
+290650302,a woman sitting in an airplane looking at something,neutral,"Женщина, разговаривающая по телефону, сидит в комнате."
+290650302,a woman sitting in an airplane looking at something,contradiction,Мужчина ремонтирует свою машину.
+2972268289,a cowboy on a horse pulling a calf in a rodeo arena,neutral,Начинающий ковбой упал со своей лошади.
+2972268289,a cowboy on a horse pulling a calf in a rodeo arena,contradiction,Мужчина успешно заарканил теленка.
+2973269132,a lion chasing a wildebeest in a field,entailment,львица охотится
+2973269132,a lion chasing a wildebeest in a field,neutral,львица голодна
+2973269132,a lion chasing a wildebeest in a field,contradiction,львица спит
+3284887033,a dog playing with a soccer ball in the grass,entailment,Собака гонится за мячом.
+3284887033,a dog playing with a soccer ball in the grass,neutral,Собака находится в парке со своим хозяином.
+3284887033,a dog playing with a soccer ball in the grass,contradiction,Собака гонится за кошкой.
+3312455265,a man singing into a microphone with a guitar,neutral,"Этот музыкант, поющий песню – азиат."
+3312455265,a man singing into a microphone with a guitar,entailment,Этот музыкант поет.
+3312455265,a man singing into a microphone with a guitar,contradiction,Этот музыкант играет на барабанах.
+3330935489,a dog holding a large stick in its mouth,neutral,Эта собака играет в «перетягивание каната» с палкой.
+3330935489,a dog holding a large stick in its mouth,entailment,Эта собака тащит палку.
+3330935489,a dog holding a large stick in its mouth,contradiction,Эта собака дремлет в парке.
+3419238351,a group of people watching a baby in a bath tub,neutral,Мама ребенка со своими друзьями смотрит на своего сына.
+3419238351,a group of people watching a baby in a bath tub,entailment,Люди находятся в доме.
+3419238351,a group of people watching a baby in a bath tub,contradiction,Этот ребенок спит.
+3437522515,a man in a garden with a basket,contradiction,Эта женщина готовит ужин
+3437522515,a man in a garden with a basket,neutral,Эта женщина пропалывает свой сад.
+3437522515,a man in a garden with a basket,entailment,У этой женщины есть сад
+350630236,a group of men dragging a fishing net on the beach,neutral,Эти мужчины поймали много рыбы.
+350630236,a group of men dragging a fishing net on the beach,contradiction,"Эти мужчины не пошли сегодня на работу, а вместо этого играли в бридж."
+350630236,a group of men dragging a fishing net on the beach,entailment,Эти мужчины заканчивают свой рабочий день.
+3621649810,a woman standing on the beach with her hands in the air as the sun sets,neutral,женщина наслаждается пляжем Флориды
+3621649810,a woman standing on the beach with her hands in the air as the sun sets,contradiction,женщина спит у огня
+3621649810,a woman standing on the beach with her hands in the air as the sun sets,neutral,женщина на пляже
+3827316480,a young girl running in a field next to a man,contradiction,Мальчик врезался в стену.
+3827316480,a young girl running in a field next to a man,entailment,Загорелая девочка пробегает над каким-то объектом.
+3827316480,a young girl running in a field next to a man,neutral,"Мужчина смотрит, как прыгает его дочь."
+384577800,a dog running in the snow,neutral,Собака берет что-то для своего хозяина.
+384577800,a dog running in the snow,entailment,Собака несет что-то.
+384577800,a dog running in the snow,contradiction,Собака несет какой-то предмет по покрытой травой стороне.
+407008823,a man riding a snowboard down a snow covered slope,neutral,"Некоторые люди выглядят так, словно боятся прыгать. "
+407008823,a man riding a snowboard down a snow covered slope,entailment,Люди прыгают снаружи.
+407008823,a man riding a snowboard down a snow covered slope,contradiction,Люди съезжают через горную расщелину по склону.
+435966316,a group of men in a small boat in the water,entailment,Три человека находятся на лодке.
+435966316,a group of men in a small boat in the water,neutral,"Трое спасателей свесились с лодки, пытаясь спасти тонущую собаку."
+435966316,a group of men in a small boat in the water,contradiction,"4 рыбака свисают с лодки, пытаясь погладить акулу."
+4460943467,three young men standing in front of a street,contradiction,Три человека с непокрытой головой сидят на оживленной улице.
+4460943467,three young men standing in front of a street,entailment,Три человека в капюшонах позируют для фото.
+4460943467,three young men standing in front of a street,entailment,Три человека в капюшонах стоят на улице.
+4479330885,a group of people sitting on a ledge in front of a fountain,neutral,"Несколько молодых людей, сидящие снаружи."
+4479330885,a group of people sitting on a ledge in front of a fountain,contradiction,несколько молодых людей сидят в аудитории.
+4479330885,a group of people sitting on a ledge in front of a fountain,neutral,несколько молодых людей сидят в школьном дворе.
+4569008208,a person laying on the ground with firefighters,neutral,Этот человек под покрывалом мертв.
+4569008208,a person laying on the ground with firefighters,contradiction,Эти пожарные тушат пожар.
+4569008208,a person laying on the ground with firefighters,entailment,Эти пожарные закончили работу.
+4678920190,people walking down a busy city street at night,contradiction,Люди обедают в ресторане.
+4678920190,people walking down a busy city street at night,entailment,Люди идут по городу.
+4678920190,people walking down a busy city street at night,contradiction,Люди находятся в парке на улице.
+4705275413,a group of children posing on the beach,entailment,Четверо детей позируют на пляже.
+4705275413,a group of children posing on the beach,neutral,Четыре ребенка позируют во время летних каникул.
+4705275413,a group of children posing on the beach,contradiction,Мужчина перемешивает тушеное блюдо.
+4791890474,a man holding a paper bag standing in front of a building,entailment,Мужчина позирует перед рекламным объявлением.
+4791890474,a man holding a paper bag standing in front of a building,neutral,Мужчина позирует перед рекламой пива.
+4791890474,a man holding a paper bag standing in front of a building,contradiction,Мужчина проходит мимо рекламного объявления.
+4848911761,a man doing a handstand on a crowd of people,entailment,Человек делает трюки перед толпой.
+4848911761,a man doing a handstand on a crowd of people,entailment,"Трюки выполняются человеком в красной куртке, в то время как люди смотрят на него."
+4848911761,a man doing a handstand on a crowd of people,contradiction,"Человек, который одет в красную куртку, попал в аварию."
+4859630545,a woman taking a picture of two people in a fountain,contradiction,"Мужчину и женщину сфотографировали в профиль и анфас, перед тем как арестовать их."
+4859630545,a woman taking a picture of two people in a fountain,neutral,"Мужчина и женщина делают селфи, в то время как женщина проходит мимо них и осуждает их."
+4859630545,a woman taking a picture of two people in a fountain,entailment,Мужчина и женщина делают селфи.
+4926115712,a man and a woman playing with balls on a field,neutral,Пожилая женщина преследует мужчину.
+4926115712,a man and a woman playing with balls on a field,contradiction,Два человека спят в поезде.
+4951049912,an older man sitting on a bench holding a large gun,entailment,"Рядом со стеной есть место, чтобы присесть."
+4951049912,an older man sitting on a bench holding a large gun,neutral,Человек сидит снаружи
+4951049912,an older man sitting on a bench holding a large gun,contradiction,Человек лежит дома.
+4967328828,a woman laying on a towel in the pool,contradiction,Эта женщина одета в платье для выпускного вечера.
+4967328828,a woman laying on a towel in the pool,neutral,Эта женщина – супермодель. 
+4967328828,a woman laying on a towel in the pool,entailment,Женщина в бикини лежит у воды.
+5001895034,two women in a field preparing food in a red bowl,contradiction,Эти женщины сидят на полу.
+5001895034,two women in a field preparing food in a red bowl,neutral,Эти женщины занимаются кикбоксингом.
+5001895034,two women in a field preparing food in a red bowl,entailment,Эти две женщины находятся снаружи.
+5400154,two men standing on a boat in the ocean,contradiction,Несколько мужчин стоит на крыше автомобиля.
+5400154,two men standing on a boat in the ocean,neutral,Несколько мужчин рыбачат на лодке.
+5400154,two men standing on a boat in the ocean,entailment,Несколько человек находится в лодке.
+561179890,a man standing in front of a river and a bridge,neutral,Этот мужчина делал фотографии природы.
+561179890,a man standing in front of a river and a bridge,contradiction,Этот мужчина сидел внутри и смотрел телевизор.
+5732157460,three young children working on a computer in a classroom,neutral,Этим детям нравится наука.
+5732157460,three young children working on a computer in a classroom,entailment,Эти дети смотрят в микроскоп.
+5732157460,three young children working on a computer in a classroom,contradiction,Эти дети смотрят в телескоп.
+6082587848,a woman is playing a violin in a group of people,contradiction,Девушка стирает кучу белья.
+6082587848,a woman is playing a violin in a group of people,entailment,Девочка играет на музыкальном инструменте.
+6082587848,a woman is playing a violin in a group of people,neutral,Группа людей играет в симфоническом оркестре.
+6082587848,a woman is playing a violin in a group of people,neutral,Женщина играет концерт.
+6082587848,a woman is playing a violin in a group of people,entailment,Женщина играет на скрипке.
+6082587848,a woman is playing a violin in a group of people,contradiction,Мужчина смотрит в телескоп.
+6218407324,a group of people on a raft in the river,entailment,Несколько человек находятся в надувной лодке.
+6218407324,a group of people on a raft in the river,contradiction,Этот мужчина выпал из лодки.
+6218407324,a group of people on a raft in the river,neutral,Семеро мужчин и женщин находятся в желтой лодке.
+6757018587,a young girl is playing a game of baseball,neutral,Этот игрок красивый.
+6757018587,a young girl is playing a game of baseball,contradiction,Этот игрок пилотирует самолеты
+6757018587,a young girl is playing a game of baseball,entailment,игрок ожидает
+6966309732,a group of men playing a game of soccer,entailment,Эта футбольная команда в синем играет в футбол.
+6966309732,a group of men playing a game of soccer,neutral,Футбольная команда в голубом играет первую игру сезона.
+6966309732,a group of men playing a game of soccer,contradiction,Футбольная команда весело проводит время в раздевалке.
+7165193566,a woman standing in front of a painting with a drink,contradiction,Эта девушка находится в ванне.
+7165193566,a woman standing in front of a painting with a drink,neutral,Эта девушка пьет алкогольный напиток.
+7165193566,a woman standing in front of a painting with a drink,entailment,У этой девушки есть напиток.
+7700080224,a group of people playing volleyball on a court,entailment,Эти женщины отбивают мяч руками.
+7700080224,a group of people playing volleyball on a court,entailment,Это не похоже на футбол.
+7700080224,a group of people playing volleyball on a court,entailment,Группа женщина играет в волейбол.
+7700080224,a group of people playing volleyball on a court,entailment,Идет волейбольный матч между женщинами.
+7700080224,a group of people playing volleyball on a court,neutral,12 женщин играют в волейбол
+7700080224,a group of people playing volleyball on a court,contradiction,десять парней играют в крикет.
+7981322255,a baseball player throwing a ball on a field,entailment,Питчер играет в бейсбол на стадионе.
+7981322255,a baseball player throwing a ball on a field,entailment,Питчер играет в бейсбол.
+7981322255,a baseball player throwing a ball on a field,contradiction,"Мужчина жонглирует бейсбольными мячами, в то время как фанаты смотрят расстроенно."
+847782643,two girls laying on the floor next to a row of wooden blocks,neutral,Двое детей строят печь для обжига кирпича.
+847782643,two girls laying on the floor next to a row of wooden blocks,contradiction,Два ребенка играют в мяч в парке.
+847782643,two girls laying on the floor next to a row of wooden blocks,entailment,Два ребенка на коврике.
+862177617,a woman with blue hair wearing a hat and sunglasses,neutral,Человек получает удовольствие от спортивного состязания.
+862177617,a woman with blue hair wearing a hat and sunglasses,contradiction,Человек танцует и поет.
+862177617,a woman with blue hair wearing a hat and sunglasses,entailment,Человек стоит снаружи.
+944860697,a person is looking out the window of a red truck,entailment,"Мужчина со скрытыми чертами лица находится в режиме транспортировки, используемом на службе."
+944860697,a person is looking out the window of a red truck,neutral,Грабитель в полицейской машине.
+944860697,a person is looking out the window of a red truck,contradiction,Женщина показывает свою голову во время езды на лошади.
+2529226054,a man walking past a building with graffiti on it,neutral,"Этот мужчина, одетый в красный жилет, идет по улице."
+2529226054,a man walking past a building with graffiti on it,entailment,Мужчина одет в жилет.
+2529226054,a man walking past a building with graffiti on it,contradiction,"Этот мужчина, одетый в жилет, сидит на диване."
+2652382453,a woman looking at her cell phone next to a yellow truck,entailment,Люди бесцельно передвигаются по городу.
+2652382453,a woman looking at her cell phone next to a yellow truck,contradiction,Эти люди наблюдают за происходящим.
+2652382453,a woman looking at her cell phone next to a yellow truck,entailment,Люди ведут предпринимательскую деятельность в городе.
+2957660840,a group of men and women in a room talking to a soldier in uniform,entailment,Мужчина в армейской форме встречает кого-то.
+2957660840,a group of men and women in a room talking to a soldier in uniform,neutral,Человек в военной форме встречает иностранного мирного жителя в зоне боевых действий.
+2957660840,a group of men and women in a room talking to a soldier in uniform,contradiction,Мужчина в морской форме встречает свою жену.
+3013469764,a man riding a dirt bike in the dirt,neutral,Это человек участвует в гонке.
+3013469764,a man riding a dirt bike in the dirt,entailment,Этот человек едет на квадроцикле.
+3013469764,a man riding a dirt bike in the dirt,neutral,Этот человек едет на большом колесном транспортном средстве.
+311907717,a group of young men looking at a white refrigerator,neutral,Пятеро мужчин смотрят телевизор.
+311907717,a group of young men looking at a white refrigerator,neutral,Несколько парней находятся в гостиной.
+311907717,a group of young men looking at a white refrigerator,contradiction,Несколько человек на работе.
+3638783842,a man and woman dressed up in costumes at a museum,entailment,Две лысые женщины.
+3638783842,a man and woman dressed up in costumes at a museum,neutral,Две лысые женщины в очках.
+3638783842,a man and woman dressed up in costumes at a museum,contradiction,Две длинноволосые молодые женщины.
+4000148666,a group of young boys playing soccer on a field,contradiction,Молодые парни бросают бейсбольный мяч на бейсбольном поле.
+4000148666,a group of young boys playing soccer on a field,neutral,"Молодые парни, ожидающие своего футбольного матча."
+4000148666,a group of young boys playing soccer on a field,entailment,Молодые парни перебрасывают футбольный мяч.
+4114589329,an old car driving down the street in front of a bus,entailment,"Трое пешеходов переходят улицу позади машины, поворачивающей направо."
+4114589329,an old car driving down the street in front of a bus,neutral,"Машина-«седан» поворачивала за угол в то время, как пешеходы переходили улицу."
+4114589329,an old car driving down the street in front of a bus,entailment,Здесь три мальчика
+4114589329,an old car driving down the street in front of a bus,contradiction,Здесь три девочки
+4114589329,an old car driving down the street in front of a bus,entailment,Эти мальчики находятся на улице
