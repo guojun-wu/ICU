@@ -1,5 +1,6 @@
 # Purpose: load model and data based on task and language
-from model.nli import NLI, MR
+from model.nli import MR
+from model.XVNLI.zero_shot import ZERO_SHOT_NLI
 import pandas as pd
 
 
@@ -10,10 +11,10 @@ class Loader(object):
 
     def load(self):
         if self.task == "nli":
-            model = NLI()
+            model = ZERO_SHOT_NLI()
             df = pd.read_csv("data/xvNLI/" + self.lang + "/test.csv", sep=",", header=0)
             data = df[["label", "caption", "hypothesis"]]
-            export_path = "data/xvNLI/" + self.lang + "/prediction.csv"
+            export_path = "data/xvNLI/" + self.lang + "/prediction_0shot.csv"
 
         elif self.task == "mr":
             model = MR()

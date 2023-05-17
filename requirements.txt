@@ -1,6 +1,7 @@
-pandas
-
-# mDeBERTa
-transformers
-protobuf==3.20.0
-sentencepiece
+numpy==1.24.3
+pandas==2.0.1
+torch==2.0.1
+transformers==4.29.2
+sentencepiece==0.1.96
+protobuf==3.20.1
+```
