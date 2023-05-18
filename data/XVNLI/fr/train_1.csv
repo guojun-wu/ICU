@@ -1,0 +1,4 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air est debout devant les passagers.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air fait une démonstration des procédures de sécurité avant le décollage.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Une femme prépare des boissons dans un avion.

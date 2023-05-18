@@ -1,0 +1,18 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air est debout devant les passagers.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air fait une démonstration des procédures de sécurité avant le décollage.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Une femme prépare des boissons dans un avion.
+2536991887,a line of blue bags on the side of a train station,contradiction,Des travailleurs sont assis dans un train.
+2536991887,a line of blue bags on the side of a train station,neutral,Des travailleurs en orange sont sur le point de réparer des voies ferrées.
+2536991887,a line of blue bags on the side of a train station,entailment,Les travailleurs se tiennent debout à l'extérieur.
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe d'hommes et de femmes regardent les salades romaines sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,entailment,Des gens regardant des produits sur un marché.
+3360178782,a group of people standing around a market with vegetables,contradiction,Une meute de chien regarde les salades vertes sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un groupe de personnes jettent des bananes sur un marché.
+3360178782,a group of people standing around a market with vegetables,entailment,Les acheteurs achetant des légumes dans un marché fréquenté.
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe de personnes est filmé en achetant des légumes pour la publicité d'un marché.
+3897974076,a group of people are climbing up a tall tower,neutral,Une femme et ses enfants montent des escaliers.
+3897974076,a group of people are climbing up a tall tower,entailment,Une femme et deux enfants montent des escaliers.
+4868221344,a man and a woman sitting on the ground,entailment,L'homme et la femme sont assis.
+4868221344,a man and a woman sitting on the ground,contradiction,L'homme et la femme se tiennent debout.
+4868221344,a man and a woman sitting on the ground,neutral,L'homme et la femme sont mariés.

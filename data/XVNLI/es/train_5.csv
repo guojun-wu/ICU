@@ -1,0 +1,18 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está de pie en frente de los pasajeros.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está demostrando los procedimientos de seguridad antes del despegue.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Una mujer está preparando las bebidas en un avión.
+2536991887,a line of blue bags on the side of a train station,contradiction,Trabajadores están sentados conduciendo un tren.
+2536991887,a line of blue bags on the side of a train station,neutral,Trabajadores vestidos de color naranja están a punto de reparar las vías del tren.
+2536991887,a line of blue bags on the side of a train station,entailment,Trabajadores están afuera.
+3360178782,a group of people standing around a market with vegetables,neutral,Un grupo de hombres y mujeres miran lechuga fresca romana en el mercadillo local de la calle.
+3360178782,a group of people standing around a market with vegetables,entailment,Gente viendo los productos en el mercado.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un grupo de perros mirando lechuga fresca en un mercadillo de la calle local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Grupo de personas tirando plátanos en el mercado.
+3360178782,a group of people standing around a market with vegetables,entailment,Compradores comprando verduras en un mercado de calle muz transitado.
+3360178782,a group of people standing around a market with vegetables,neutral,Grupo de personas siendo filmados comprando verduras para el anuncio de mercado.
+3897974076,a group of people are climbing up a tall tower,neutral,Una mujer y sus hijos suben las escaleras.
+3897974076,a group of people are climbing up a tall tower,entailment,Una mujer y dos niños suben las escaleras.
+4868221344,a man and a woman sitting on the ground,entailment,El hombre y la mujer están sentados.
+4868221344,a man and a woman sitting on the ground,contradiction,El hombre y la mujer están de pie.
+4868221344,a man and a woman sitting on the ground,neutral,El hombre y la mujer están casados.

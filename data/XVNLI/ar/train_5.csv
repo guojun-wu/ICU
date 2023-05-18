@@ -1,0 +1,18 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران وافقة أمام مسافرين.
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران ترتدي الأصفر تشرح إجراءات السلامة قبل الاقلاع.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,امرأة تعد مشروبات في الطيارة.
+2536991887,a line of blue bags on the side of a train station,contradiction,العمال يجلسون ويركبون القطار.
+2536991887,a line of blue bags on the side of a train station,neutral,العمال الذين يرتدون البرتقالي، على وشك إصلاح مسارات السكك الحديدية.
+2536991887,a line of blue bags on the side of a train station,entailment,العمال يقفون بالخارج.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الرجال و النساء ينظرون الى خس رومين طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,entailment,الناس ينظرون الى بضاعة في سوق.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الكلاب تنظر الى خس طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الناس يرمون الموز في سوق.
+3360178782,a group of people standing around a market with vegetables,entailment,المتبضعون يشترون الخضروات في سوق عام مزدحم.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الناس يتم تصويرهم و هم يشترون الخضروات لإعلان السوق.
+3897974076,a group of people are climbing up a tall tower,neutral,امرأة و أطفالها يصعدون السلالم.
+3897974076,a group of people are climbing up a tall tower,entailment,امرأة وطفلين يصعدون السلالم.
+4868221344,a man and a woman sitting on the ground,entailment,رجل وامرأة يجلسان.
+4868221344,a man and a woman sitting on the ground,contradiction,رجل وامرأة يقفان.
+4868221344,a man and a woman sitting on the ground,neutral,رجل وامرأة متزوجان.

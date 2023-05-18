@@ -1,0 +1,39 @@
+image_id,caption,label,hypothesis
+1814086703,two dogs running together in a field,entailment,كلبان يجريان.
+1814086703,two dogs running together in a field,contradiction,الكلبان ينامان على كومة من أوراق الشجر.
+1814086703,two dogs running together in a field,neutral,الكلبان يجريان ليلعبا في أوراق الشجر.
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران وافقة أمام مسافرين.
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران ترتدي الأصفر تشرح إجراءات السلامة قبل الاقلاع.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,امرأة تعد مشروبات في الطيارة.
+2536991887,a line of blue bags on the side of a train station,contradiction,العمال يجلسون ويركبون القطار.
+2536991887,a line of blue bags on the side of a train station,neutral,العمال الذين يرتدون البرتقالي، على وشك إصلاح مسارات السكك الحديدية.
+2536991887,a line of blue bags on the side of a train station,entailment,العمال يقفون بالخارج.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الرجال و النساء ينظرون الى خس رومين طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,entailment,الناس ينظرون الى بضاعة في سوق.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الكلاب تنظر الى خس طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الناس يرمون الموز في سوق.
+3360178782,a group of people standing around a market with vegetables,entailment,المتبضعون يشترون الخضروات في سوق عام مزدحم.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الناس يتم تصويرهم و هم يشترون الخضروات لإعلان السوق.
+3897974076,a group of people are climbing up a tall tower,neutral,امرأة و أطفالها يصعدون السلالم.
+3897974076,a group of people are climbing up a tall tower,entailment,امرأة وطفلين يصعدون السلالم.
+4485090958,a woman standing in front of a building,neutral,المرأة لديها اجتماع مهم في البناية اليوم.
+4485090958,a woman standing in front of a building,contradiction,كلب يجري صاعدا درج البناية.
+4485090958,a woman standing in front of a building,entailment,هناك عدة أشخاص خارج البناية.
+4485090958,a woman standing in front of a building,contradiction,الأب ينظر إلى زوجته وابنه.
+4485090958,a woman standing in front of a building,entailment,شخص يتحدث مع طفل بينما شخص اخر يشاهد.
+4485090958,a woman standing in front of a building,neutral,امرأة تنظر إلى أم تتحدث ابنها الصغير.
+4846892973,a group of people standing on a pier by the ocean,neutral,يذهبون إلى الصيد.
+4846892973,a group of people standing on a pier by the ocean,entailment,ستة أو سبعة أشخاص يقفون على رصيف بحري.
+4846892973,a group of people standing on a pier by the ocean,contradiction,هم في مركب.
+4868221344,a man and a woman sitting on the ground,entailment,رجل وامرأة يجلسان.
+4868221344,a man and a woman sitting on the ground,contradiction,رجل وامرأة يقفان.
+4868221344,a man and a woman sitting on the ground,neutral,رجل وامرأة متزوجان.
+4914029409,a little boy riding a bike down a street,neutral,أم وابنها يركوبون دراجات مع آخرين في شارع.
+4914029409,a little boy riding a bike down a street,contradiction,مجموعة من الناس تغيير إطارات الدراجة.
+4914029409,a little boy riding a bike down a street,entailment,مجموعة من الناس تركب الدراجات معا في شارع.
+4914029409,a little boy riding a bike down a street,neutral,مجموعة من الأصدقاء تركب دراجات في الشارع وكلهم يرتدون الخوذ.
+4914029409,a little boy riding a bike down a street,contradiction,مجموعة من الأصدقاء تأخذ دراجاتهم يستعدون لركوب الدراجات في الصباح.
+4914029409,a little boy riding a bike down a street,entailment,مجموعة من راكبي الدراجات في شارع بالخارج.
+4928783075,a young boy flying a kite in a field,entailment,ولد صغير يلعب في ملعب.
+4928783075,a young boy flying a kite in a field,neutral,ولد صغير يلعب في الملعب لأن أمه طردته من البيت.
+4928783075,a young boy flying a kite in a field,contradiction,ولد صغير يلعب العاب الكترونية داخل البيت.

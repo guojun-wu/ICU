@@ -1,0 +1,4 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está de pie en frente de los pasajeros.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está demostrando los procedimientos de seguridad antes del despegue.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Una mujer está preparando las bebidas en un avión.

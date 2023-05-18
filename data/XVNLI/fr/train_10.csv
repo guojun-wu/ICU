@@ -1,0 +1,39 @@
+image_id,caption,label,hypothesis
+1814086703,two dogs running together in a field,entailment,Deux chiens courent.
+1814086703,two dogs running together in a field,contradiction,Les deux chiens dorment sur le tas de feuilles.
+1814086703,two dogs running together in a field,neutral,Les deux chiens courent pour jouer dans les feuilles.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air est debout devant les passagers.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air fait une démonstration des procédures de sécurité avant le décollage.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Une femme prépare des boissons dans un avion.
+2536991887,a line of blue bags on the side of a train station,contradiction,Des travailleurs sont assis dans un train.
+2536991887,a line of blue bags on the side of a train station,neutral,Des travailleurs en orange sont sur le point de réparer des voies ferrées.
+2536991887,a line of blue bags on the side of a train station,entailment,Les travailleurs se tiennent debout à l'extérieur.
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe d'hommes et de femmes regardent les salades romaines sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,entailment,Des gens regardant des produits sur un marché.
+3360178782,a group of people standing around a market with vegetables,contradiction,Une meute de chien regarde les salades vertes sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un groupe de personnes jettent des bananes sur un marché.
+3360178782,a group of people standing around a market with vegetables,entailment,Les acheteurs achetant des légumes dans un marché fréquenté.
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe de personnes est filmé en achetant des légumes pour la publicité d'un marché.
+3897974076,a group of people are climbing up a tall tower,neutral,Une femme et ses enfants montent des escaliers.
+3897974076,a group of people are climbing up a tall tower,entailment,Une femme et deux enfants montent des escaliers.
+4485090958,a woman standing in front of a building,neutral,La femme a une réunion importante dans l'immeuble aujourd'hui.
+4485090958,a woman standing in front of a building,contradiction,Un chien monte les marches d'un immeuble en courant.
+4485090958,a woman standing in front of a building,entailment,Il y a plusieurs personnes à l'extérieur d'un immeuble.
+4485090958,a woman standing in front of a building,contradiction,Un père regarde sa femme et son fils.
+4485090958,a woman standing in front of a building,entailment,Une personne parle à un enfant pendant qu'une autre personne les regarde.
+4485090958,a woman standing in front of a building,neutral,Une femme regarde une mère parler à son jeune fils.
+4846892973,a group of people standing on a pier by the ocean,neutral,Ils vont à la pêche.
+4846892973,a group of people standing on a pier by the ocean,entailment,Six ou sept personnes sont debout sur une jetée.
+4846892973,a group of people standing on a pier by the ocean,contradiction,Ils sont dans un bateau.
+4868221344,a man and a woman sitting on the ground,entailment,L'homme et la femme sont assis.
+4868221344,a man and a woman sitting on the ground,contradiction,L'homme et la femme se tiennent debout.
+4868221344,a man and a woman sitting on the ground,neutral,L'homme et la femme sont mariés.
+4914029409,a little boy riding a bike down a street,neutral,Une mère et son fils font du vélo dans une rue avec d'autres personnes.
+4914029409,a little boy riding a bike down a street,contradiction,Un groupe de personnes change un pneu de vélo.
+4914029409,a little boy riding a bike down a street,entailment,Un groupe de personnes fait du vélo ensemble dans une rue.
+4914029409,a little boy riding a bike down a street,neutral,"Un groupe d'amis fait du vélo dans une rue, tous portant leurs casques."
+4914029409,a little boy riding a bike down a street,contradiction,"Un groupe d'amis attrape leurs vélos, se préparant pour le tour de vélo matinal."
+4914029409,a little boy riding a bike down a street,entailment,Un groupe de cyclistes se trouve dans une rue à l'extérieur.
+4928783075,a young boy flying a kite in a field,entailment,Un petit garçon joue dans un champ.
+4928783075,a young boy flying a kite in a field,neutral,Un petit garçon joue dans le champ parce que sa mère l'a viré de la maison.
+4928783075,a young boy flying a kite in a field,contradiction,Un petit garçon joue aux jeux vidéo à l'intérieur.

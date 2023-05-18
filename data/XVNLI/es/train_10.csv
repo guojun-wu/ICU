@@ -1,0 +1,39 @@
+image_id,caption,label,hypothesis
+1814086703,two dogs running together in a field,entailment,Dos perros corriendo.
+1814086703,two dogs running together in a field,contradiction,Los dos perros durmiendo en una pila de hojas.
+1814086703,two dogs running together in a field,neutral,Los dos perros corren a jugar en las hojas.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está de pie en frente de los pasajeros.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está demostrando los procedimientos de seguridad antes del despegue.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Una mujer está preparando las bebidas en un avión.
+2536991887,a line of blue bags on the side of a train station,contradiction,Trabajadores están sentados conduciendo un tren.
+2536991887,a line of blue bags on the side of a train station,neutral,Trabajadores vestidos de color naranja están a punto de reparar las vías del tren.
+2536991887,a line of blue bags on the side of a train station,entailment,Trabajadores están afuera.
+3360178782,a group of people standing around a market with vegetables,neutral,Un grupo de hombres y mujeres miran lechuga fresca romana en el mercadillo local de la calle.
+3360178782,a group of people standing around a market with vegetables,entailment,Gente viendo los productos en el mercado.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un grupo de perros mirando lechuga fresca en un mercadillo de la calle local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Grupo de personas tirando plátanos en el mercado.
+3360178782,a group of people standing around a market with vegetables,entailment,Compradores comprando verduras en un mercado de calle muz transitado.
+3360178782,a group of people standing around a market with vegetables,neutral,Grupo de personas siendo filmados comprando verduras para el anuncio de mercado.
+3897974076,a group of people are climbing up a tall tower,neutral,Una mujer y sus hijos suben las escaleras.
+3897974076,a group of people are climbing up a tall tower,entailment,Una mujer y dos niños suben las escaleras.
+4485090958,a woman standing in front of a building,neutral,La mujer tiene una hoy reunión importante en el edificio.
+4485090958,a woman standing in front of a building,contradiction,Un perro corriendo por las escaleras de edificio.
+4485090958,a woman standing in front of a building,entailment,Hay varias personas fuera de edificio.
+4485090958,a woman standing in front of a building,contradiction,Un padre mirando a su mujer e hijo.
+4485090958,a woman standing in front of a building,entailment,Una persona está hablando con otra mientras otra está mirando.
+4485090958,a woman standing in front of a building,neutral,Una mujer mira a la madre halando con su hijo joven.
+4846892973,a group of people standing on a pier by the ocean,neutral,Ellos van a pescar.
+4846892973,a group of people standing on a pier by the ocean,entailment,Seis o siete personas están de pie en un muelle.
+4846892973,a group of people standing on a pier by the ocean,contradiction,Ellos están en un bote.
+4868221344,a man and a woman sitting on the ground,entailment,El hombre y la mujer están sentados.
+4868221344,a man and a woman sitting on the ground,contradiction,El hombre y la mujer están de pie.
+4868221344,a man and a woman sitting on the ground,neutral,El hombre y la mujer están casados.
+4914029409,a little boy riding a bike down a street,neutral,Una madre y su hijo montan en la bicicleta con otros ciclistas por la calle.
+4914029409,a little boy riding a bike down a street,contradiction,Un grupo de personas está cambiando el neumático de la bicicleta.
+4914029409,a little boy riding a bike down a street,entailment,Un grupo de personas está montando en bici junto por la calle.
+4914029409,a little boy riding a bike down a street,neutral,Un grupo de amigos están montando en bici por la calle todo llevando cascos.
+4914029409,a little boy riding a bike down a street,contradiction,Un grupo de amigos cogiendo las bicicletas preparándose por el paseo en bicicletas por la mañana.
+4914029409,a little boy riding a bike down a street,entailment,Un grupo de ciclistas esta por la calle afuera.
+4928783075,a young boy flying a kite in a field,entailment,Un niño joven está jugando en el campo.
+4928783075,a young boy flying a kite in a field,neutral,Un niño joven está jugando en el campo porque su madre lo ha echado fuera de casa.
+4928783075,a young boy flying a kite in a field,contradiction,Un niño joven está jugando dentro con los videos juegos.

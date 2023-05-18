@@ -1,0 +1,18 @@
+image_id,caption,label,hypothesis
+2487069642,a woman wearing a life jacket on an airplane,neutral,Бортпроводник стоит перед пассажирами.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Бортпроводник демонстрирует правила техники безопасности перед взлетом.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Женщина готовит напитки в самолете.
+2536991887,a line of blue bags on the side of a train station,contradiction,Рабочие сидят и едут в поезде.
+2536991887,a line of blue bags on the side of a train station,neutral,"Рабочие, одетые в оранжевое, собираются ремонтировать рельсы."
+2536991887,a line of blue bags on the side of a train station,entailment,Рабочие стоят снаружи.
+3360178782,a group of people standing around a market with vegetables,neutral,Группа мужчин и женщин смотрят на свежий салат ромэн на местном уличном рынке.
+3360178782,a group of people standing around a market with vegetables,entailment,"Люди, смотрящие на продукты на рынке."
+3360178782,a group of people standing around a market with vegetables,contradiction,Группа собак смотрит на свежий салат на местном уличном рынке.
+3360178782,a group of people standing around a market with vegetables,contradiction,"Группа людей, бросающих бананы на рынке."
+3360178782,a group of people standing around a market with vegetables,entailment,"Покупатели, приобретающие овощи на оживленном городском рынке."
+3360178782,a group of people standing around a market with vegetables,neutral,Группу людей снимали во время покупки овощей для рекламы рынка.
+3897974076,a group of people are climbing up a tall tower,neutral,Женщина и ее дети поднимаются вверх по ступеням.
+3897974076,a group of people are climbing up a tall tower,entailment,Женщина и двое детей поднимаются вверх по ступеням.
+4868221344,a man and a woman sitting on the ground,entailment,Эти мужчина и женщина сидят.
+4868221344,a man and a woman sitting on the ground,contradiction,Эти мужчина и женщина стоят.
+4868221344,a man and a woman sitting on the ground,neutral,Эти мужчина и женщина женаты.
