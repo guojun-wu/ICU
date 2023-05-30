@@ -1,6 +1,5 @@
-from model.nli import MR
-from model.XVNLI.zero_shot import ZERO_SHOT_NLI
-from model.XVNLI.few_shot import FEW_SHOT_NLI
+from model.dual import MR
+from model.XVNLI.nli import NLI
 import pandas as pd
 
 
@@ -16,25 +15,14 @@ class Loader(object):
             if self.lang not in ["ar", "fr", "es", "ru"]:
                 raise ValueError("Language not supported")
 
-            if self.shot == 0:
-                model = ZERO_SHOT_NLI()
-                export_path = f"data/XVNLI/{self.lang}/prediction_0_shot.csv"
-            elif self.shot > 0:
-                model = FEW_SHOT_NLI(self.shot, self.lang)
-                export_path = f"data/XVNLI/{self.lang}/prediction_{self.shot}_shot.csv"
+            model = NLI(self.shot, self.lang)
+            if self.shot > 0:
+                model.train()
 
-            df = pd.read_csv(f"data/XVNLI/{self.lang}/test.csv", sep=",", header=0)
-            data = df[["label", "caption", "hypothesis"]]
+            export_path = f"result/XVNLI/{self.lang}/prediction_{self.shot}_shot.csv"
 
-        elif self.task == "mr":
-            model = MR()
-            df = pd.read_csv(
-                "data/MaRVL/" + self.lang + "/reframed.csv", sep=";", header=0
-            )
-            data = df[["label", "description", "caption"]]
-            export_path = "data/MaRVL/" + self.lang + "/prediction.csv"
-
+        #elif self.task == "mr":
         else:
             raise ValueError("Task not supported")
 
-        return model, data, export_path
+        return model, export_path

@@ -9,7 +9,7 @@ import numpy as np
 import os
 
 
-class FINE_TUNE_NLI:
+class NLI:
     def __init__(self, shot, lang):
         self.shot = shot
         self.lang = lang
@@ -133,9 +133,10 @@ class FINE_TUNE_NLI:
 
     def evaluate(self):
         trained_model = self.model.to(self.device)
-        trained_model.load_state_dict(
-            torch.load("model/XVNLI/fine_tune_nli/pytorch_model.bin")
-        )
+        if self.shot > 0:
+            trained_model.load_state_dict(
+                torch.load("model/XVNLI/fine_tune_nli/pytorch_model.bin")
+            )
         trained_model.eval()
 
         predictions, true_vals = [], []
@@ -172,3 +173,10 @@ class FINE_TUNE_NLI:
         predictions = np.array([np.argmax(pred) for pred in predictions])
         accuracy = np.mean(predictions == true_vals).__float__()
         print(f"{self.lang} Accuracy: {accuracy}")
+
+        # convert to labels
+        label_map = {0: "entailment", 1: "neutral", 2: "contradiction"}
+        predictions = [label_map[pred] for pred in predictions]
+
+        # return predictions
+        return predictions

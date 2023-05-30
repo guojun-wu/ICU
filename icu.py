@@ -15,15 +15,15 @@ class ICU:
 
         # load model and data based on task and language and shot
         loader = Loader(args.task, args.lang, args.shot)
-        model, data, export_path = loader.load()
+        model, export_path = loader.load()
 
         # predict and export
-        prediction = model.predict(data.iloc[:, [1, 2]])
-        pd.DataFrame({"prediction": prediction}).to_csv(export_path, index=False)
+        predictions = model.evaluate()
+        pd.DataFrame({"prediction": predictions}).to_csv(export_path, index=False)
 
         # evaluate
-        evaluater = Evaluater(args.task)
-        accuracy = evaluater.evaluate(data["label"], prediction)
+        evaluater = Evaluater(args.task, args.lang)
+        accuracy = evaluater.evaluate(predictions)
         print("task:", args.task, "language:", args.lang, "accuracy:", accuracy)
 
     if __name__ == "__main__":
