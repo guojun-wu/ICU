@@ -3,6 +3,7 @@ import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import pandas as pd
 import os
+import random
 
 
 class FEW_SHOT_NLI:
@@ -18,9 +19,8 @@ class FEW_SHOT_NLI:
         model_path = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
-        self.model.to(self.device)
         self.data = self.load_data()
-        self.num_epochs = 5
+        self.num_epochs = 2
         self.train()
 
     def load_data(self):
@@ -38,14 +38,32 @@ class FEW_SHOT_NLI:
         return data
 
     def train(self):
+        # Set random seed
+        seed = 42
+        random.seed(seed)
+        torch.manual_seed(seed)
+
+        # Set model to training mode
+        self.model.train()
+
         # define optimizer and loss function
-        optimizer = torch.optim.Adam(self.model.parameters(), lr=0.00001)
+        optimizer = torch.optim.Adam(
+            self.model.parameters(),
+            lr=1e-5,
+            weight_decay=0.01,
+            betas=(0.9, 0.999),
+        )
         loss_fn = torch.nn.CrossEntropyLoss()
 
         class_to_idx = {"entailment": 0, "neutral": 1, "contradiction": 2}
 
         # training loop for few-shot learning
         for epoch in range(self.num_epochs):
+            print(f"Language {self.lang} Epoch {epoch+1}")
+            # shuffle data
+            self.data = self.data.sample(frac=1, random_state=seed).reset_index(
+                drop=True
+            )
             for premise, hypothesis, label in self.data.values:
                 # zero the parameter gradients
                 optimizer.zero_grad()
@@ -53,7 +71,7 @@ class FEW_SHOT_NLI:
                 # encode premise and hypothesis
                 encoded_input = self.tokenizer(
                     premise, hypothesis, return_tensors="pt", truncation=True
-                ).to(self.device)
+                )
 
                 # get prediction
                 outputs = self.model(**encoded_input)
@@ -63,20 +81,30 @@ class FEW_SHOT_NLI:
                 # convert label to index
                 numerical_label = class_to_idx[label]
 
-                target = (
-                    F.one_hot(torch.tensor([numerical_label]), num_classes=3)
-                    .squeeze()
-                    .to(self.device)
-                )
+                epsilon = 0.1  # Label smoothing factor
+
+                # Create the smoothed target distribution
+                num_classes = 3  # Number of classes
+                smoothed_labels = (1 - epsilon) * torch.eye(num_classes)[
+                    numerical_label
+                ] + epsilon / num_classes
 
                 # calculate loss
                 loss = loss_fn(
                     prediction,
-                    target.to(torch.float32),
+                    smoothed_labels.to(torch.float32),
                 )
+
+                max_gradient_norm = 1.0  # max gradient norm
 
                 # backward pass and optimization
                 loss.backward()
+
+                # clip gradients
+                torch.nn.utils.clip_grad_norm_(
+                    self.model.parameters(), max_gradient_norm
+                )
+
                 optimizer.step()
 
         # print training finished
@@ -115,6 +143,7 @@ class FEW_SHOT_NLI:
             prediction = self.label[prediction.index(max(prediction))]
             predictions.append(prediction)
 
-        # rmove the trained model from device
+        # rmove the trained model from memory
         os.remove(f"model/XVNLI/{self.lang}_{self.shot}_shot_checkpoint.pth")
+        del trained_model
         return predictions

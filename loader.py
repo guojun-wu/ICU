@@ -18,12 +18,12 @@ class Loader(object):
 
             if self.shot == 0:
                 model = ZERO_SHOT_NLI()
-                export_path = f"data/xvNLI/{self.lang}/prediction_0_shot.csv"
+                export_path = f"data/XVNLI/{self.lang}/prediction_0_shot.csv"
             elif self.shot > 0:
                 model = FEW_SHOT_NLI(self.shot, self.lang)
-                export_path = f"data/xvNLI/{self.lang}/prediction_{self.shot}_shot.csv"
+                export_path = f"data/XVNLI/{self.lang}/prediction_{self.shot}_shot.csv"
 
-            df = pd.read_csv(f"data/xvnli/{self.lang}/test.csv", sep=",", header=0)
+            df = pd.read_csv(f"data/XVNLI/{self.lang}/test.csv", sep=",", header=0)
             data = df[["label", "caption", "hypothesis"]]
 
         elif self.task == "mr":
