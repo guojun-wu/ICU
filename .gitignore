@@ -1,5 +1,4 @@
 __pycache__/
 .vscode/
 .DS_Store/
-model/XVNLI/fine_tune_nli/
-result/
+model/XVNLI/few_shot_nli/

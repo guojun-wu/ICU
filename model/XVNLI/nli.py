@@ -1,12 +1,9 @@
-# fine tune nli
-
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from torch.utils.data import DataLoader, TensorDataset, RandomSampler
 from transformers import get_linear_schedule_with_warmup
 import pandas as pd
 import numpy as np
-import os
 
 
 class NLI:
@@ -23,7 +20,7 @@ class NLI:
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
         self.num_epochs = 3
 
-    def load_data(self, data_path, batch_size):
+    def load_data(self, data_path, batch_size, shuffle=True):
         df = pd.read_csv(data_path, header=0)
         df = df[["caption", "hypothesis", "label"]]
 
@@ -47,6 +44,15 @@ class NLI:
         labels = torch.tensor(df["label"].values)
 
         dataset = TensorDataset(input_ids, attention_masks, labels)
+
+        if not shuffle:
+            dataloader = DataLoader(
+                dataset,
+                sampler=None,
+                batch_size=batch_size,
+            )
+            return dataloader
+        
         dataloader = DataLoader(
             dataset,
             sampler=RandomSampler(dataset),
@@ -73,9 +79,15 @@ class NLI:
             betas=(0.9, 0.999),
         )
 
+        data_path = f"data/XVNLI/{self.lang}/train_{self.shot}.csv"
+
+        # when shot > 48, we need to load the mixing dataset
+        if self.shot > 48:
+            data_path = f"data/XVNLI/mixing.csv"
+
         # create data loader
         dataloader = self.load_data(
-            f"data/XVNLI/{self.lang}/train_{self.shot}.csv", batch_size=8
+            data_path=data_path, batch_size=8
         )
 
         # setup scheduler
@@ -127,22 +139,27 @@ class NLI:
                 # update learning rate
                 scheduler.step()
 
-        # save model
-        self.model.save_pretrained("model/XVNLI/fine_tune_nli")
-        self.tokenizer.save_pretrained("model/XVNLI/fine_tune_nli")
+            # reload data for next epoch (shuffle)
+            dataloader = self.load_data(
+                data_path=data_path, batch_size=8
+            )
 
-    def evaluate(self):
+        # save model
+        self.model.save_pretrained("model/XVNLI/few_shot_nli")
+        self.tokenizer.save_pretrained("model/XVNLI/few_shot_nli")
+
+    def evaluate(self, lang):
         trained_model = self.model.to(self.device)
         if self.shot > 0:
             trained_model.load_state_dict(
-                torch.load("model/XVNLI/fine_tune_nli/pytorch_model.bin")
+                torch.load("model/XVNLI/few_shot_nli/pytorch_model.bin")
             )
         trained_model.eval()
 
         predictions, true_vals = [], []
 
         # load test data
-        dataloader = self.load_data(f"data/XVNLI/{self.lang}/test.csv", batch_size=32)
+        dataloader = self.load_data(f"data/XVNLI/{lang}/test.csv", batch_size=32, shuffle=False)
 
         # test loop
         for batch in dataloader:
@@ -171,8 +188,6 @@ class NLI:
         # calculate accuracy
         # convert to label ids
         predictions = np.array([np.argmax(pred) for pred in predictions])
-        accuracy = np.mean(predictions == true_vals).__float__()
-        print(f"{self.lang} Accuracy: {accuracy}")
 
         # convert to labels
         label_map = {0: "entailment", 1: "neutral", 2: "contradiction"}

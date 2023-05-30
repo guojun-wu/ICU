@@ -1,0 +1,653 @@
+image_id,caption,label,hypothesis
+1814086703,two dogs running together in a field,entailment,كلبان يجريان.
+1814086703,two dogs running together in a field,contradiction,الكلبان ينامان على كومة من أوراق الشجر.
+1814086703,two dogs running together in a field,neutral,الكلبان يجريان ليلعبا في أوراق الشجر.
+1891462514,a woman kneeling in a hole in the sand,contradiction,الخنازير تأكل الكلاب
+1891462514,a woman kneeling in a hole in the sand,entailment,سيدة تحفر في الأرض
+1891462514,a woman kneeling in a hole in the sand,neutral,سيدة تحفر في الأرض للذهب.
+2074244690,a crowd of people watching a show with their hands up,contradiction,مجموعة من الأصدقاء نائمون.
+2074244690,a crowd of people watching a show with their hands up,neutral,مجموعة من البشر تنظر إلى نفس الاتجاه.
+2074244690,a crowd of people watching a show with their hands up,neutral,مجموعة من الأصدقاء تشاهد حفلة موسيقية بالليل.
+2142631327,a woman and a child standing next to a chalkboard,neutral,امرأة تقف مع طفلها.
+2142631327,a woman and a child standing next to a chalkboard,contradiction,كلب ينبح بصوت عال.
+2142631327,a woman and a child standing next to a chalkboard,entailment,امرأة تقف مع طفل.
+2344969116,two young boys in red robes holding black bowls,contradiction,ولد صغير يجري خلال حقل الذرة.
+2344969116,two young boys in red robes holding black bowls,neutral,ولد صغير يمسك غلاية التي ستملأ قريبا بالصلصا.
+2344969116,two young boys in red robes holding black bowls,entailment,ولد صغير يمسك غلاية التي ستملأ قريبا.
+2353088412,a black dog running with a toy in its mouth,contradiction,كلب مطارد من قط.
+2353088412,a black dog running with a toy in its mouth,neutral,كلب أسود مع لعبة مطارد من كلب البني.
+2353088412,a black dog running with a toy in its mouth,entailment,الكلب يجري و مطارد من قبل كلب آخر.
+2416244705,a woman is brushing a horse,entailment,بنت تمشط حصانا.
+2416244705,a woman is brushing a horse,neutral,بنت تمشط حصانا بعد العودة من ركوب الخيل في الثلج.
+2416244705,a woman is brushing a horse,contradiction,بنت تجلس على مقعد الحديقة تحمل جروا.
+2425411995,a woman running on a tennis court holding a racket,entailment,امرأة تلعب التنس.
+2425411995,a woman running on a tennis court holding a racket,neutral,تلعب سيرينا ويليامز التنس.
+2425411995,a woman running on a tennis court holding a racket,contradiction,يلعب بيت سامبراس التنس.
+2464311348,two men standing on a dock with a fish,neutral,رجلان يرجعان من صيد السمك طوال اليوم.
+2464311348,two men standing on a dock with a fish,entailment,رجلان ينظفان سمكهم.
+2464311348,two men standing on a dock with a fish,contradiction,رجلان يجلسان في قارب مع صنارات الصيد الخاصة بهم.
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران وافقة أمام مسافرين.
+2487069642,a woman wearing a life jacket on an airplane,neutral,مضيفة طيران ترتدي الأصفر تشرح إجراءات السلامة قبل الاقلاع.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,امرأة تعد مشروبات في الطيارة.
+2507831979,a woman sitting at a table with a cup of coffee,contradiction,المرأة صامتة.
+2507831979,a woman sitting at a table with a cup of coffee,neutral,المرأة تدردش مع صديقها.
+2507831979,a woman sitting at a table with a cup of coffee,entailment,امرأة تجري دردشة.
+2536991887,a line of blue bags on the side of a train station,contradiction,العمال يجلسون ويركبون القطار.
+2536991887,a line of blue bags on the side of a train station,neutral,العمال الذين يرتدون البرتقالي، على وشك إصلاح مسارات السكك الحديدية.
+2536991887,a line of blue bags on the side of a train station,entailment,العمال يقفون بالخارج.
+2537683592,a group of construction workers working on a wall,entailment,رجال يعملون بالقرب من الجدار.
+2537683592,a group of construction workers working on a wall,contradiction,رجال يقفزون في حمام السباحة.
+2537683592,a group of construction workers working on a wall,neutral,رجال يعملون بالقرب من الجدار و بدأت تمطر.
+2713036593,a man is sitting on the ground on the sidewalk,contradiction,رجل مستلق، و نائم.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,رجل ينام على الأرض.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,شاب نائم في وضعية الجلوس.
+2737097000,two men and a woman planting flowers around a pole,neutral,النباتات سرخس.
+2737097000,two men and a woman planting flowers around a pole,entailment,البالغون شباب.
+2737097000,two men and a woman planting flowers around a pole,contradiction,البالغون عواجيز.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,مجموعة من الناس تلعب في المحيط.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,مجموعة من الناس تقف معا.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,مجموعة من الناس تجلس على الشاطئ.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,موجة على وشك أن تصطدم ببعض الأولاد.
+2747436384,three men are sitting in the ocean in front of a wave,contradiction,موجة تجنبت الأولاد.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,موجة عملاقة على وشك أن تتحطم على بعض الأولاد.
+288351324,a group of people dancing at a party,entailment,الناس ترقص.
+288351324,a group of people dancing at a party,neutral,هم يرقصون رقصة التانغو.
+288351324,a group of people dancing at a party,contradiction,لا أحد يرقص.
+294074951,three men are playing guitars in a room,entailment,ثلاثة رجال يعزفون مقطوعات موسيقية مع الأسلاك والمعدات في جميع أنحاء خشبة المسرح، و يمسكون غيتار فريد كألة.
+294074951,three men are playing guitars in a room,contradiction,كان الرجال الثلاثة يقولون النكات على خشبة المسرح للترفيه عن الجمهور.
+294074951,three men are playing guitars in a room,neutral,كان الرجال الثلاثة في فرقة معا.
+3329289652,two young boys playing with toys at a table,entailment,أولاد يلعبون.
+3329289652,two young boys playing with toys at a table,neutral,أولاد يلعبون بالخارج.
+3329289652,two young boys playing with toys at a table,contradiction,أولاد يلعبون الشطرنج.
+3344175369,two people with backpacks hiking in the snow,neutral,اثنين من الناس يذهبان للعمل في عاصفة ثلجية.
+3344175369,two people with backpacks hiking in the snow,entailment,الرجل الذي بالقميص الأزرق يحمل حزمة يسلك طريقه من خلال الثلوج.
+3344175369,two people with backpacks hiking in the snow,contradiction,رجلان يلعبان مع رجل الثلج.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الرجال و النساء ينظرون الى خس رومين طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,entailment,الناس ينظرون الى بضاعة في سوق.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الكلاب تنظر الى خس طازج في سوق الشارع المحلي.
+3360178782,a group of people standing around a market with vegetables,contradiction,مجموعة من الناس يرمون الموز في سوق.
+3360178782,a group of people standing around a market with vegetables,entailment,المتبضعون يشترون الخضروات في سوق عام مزدحم.
+3360178782,a group of people standing around a market with vegetables,neutral,مجموعة من الناس يتم تصويرهم و هم يشترون الخضروات لإعلان السوق.
+3462454965,a group of dogs running in a field,entailment,ثلاثة كلاب يجرون.
+3462454965,a group of dogs running in a field,contradiction,الكلاب يأكلون.
+3462454965,a group of dogs running in a field,neutral,ثلاثة كلاب يجرون في النهار.
+3494151850,three people on an orange boat in the ocean,neutral,الرجال في طريقهم إلى الإنقاذ.
+3494151850,three people on an orange boat in the ocean,contradiction,يقاتل الرجال النار.
+3494151850,three people on an orange boat in the ocean,entailment,الرجال بالخارج.
+3537218226,a man is rock climbing on a rock wall,neutral,الخوذة لديها شريط عليها.
+3537218226,a man is rock climbing on a rock wall,entailment,شخص لديه خوذة صفراء.
+3537218226,a man is rock climbing on a rock wall,contradiction,خوذة سوداء.
+3572548523,a man and a woman walking down a sidewalk,entailment,زوجان يمشيان معا.
+3572548523,a man and a woman walking down a sidewalk,neutral,الزوجان متزوجان.
+3572548523,a man and a woman walking down a sidewalk,contradiction,زوجان يجلسان على مقعد.
+3610460852,a woman standing at the bar of a bar,entailment,المرأة واقفة.
+3610460852,a woman standing at the bar of a bar,neutral,شعر المرأة مسحوبا للخلف على شكل كعكة.
+3610460852,a woman standing at the bar of a bar,contradiction,تجلس المرأة على منشفة الشاطئ.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,contradiction,بنات تتحدثن بجانب الحمام.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,entailment,الناس يتحدثون بجانب خزانات.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,neutral,بنات تتحدثن عن مشاكلهن بجانب خزانات.
+3746285587,a woman is laying on the ground on a street,neutral,امرأة تحتج في الشارع.
+3746285587,a woman is laying on the ground on a street,entailment,امرأة على الأرض بالخارج.
+3746285587,a woman is laying on the ground on a street,contradiction,امرأة تركب دراجة.
+3815355917,a car with a luggage rack on top of it,entailment,السيارة لديها الاشياء على القمة.
+3815355917,a car with a luggage rack on top of it,neutral,السيارة تسير في رحلة.
+3815355917,a car with a luggage rack on top of it,contradiction,السيارة قابلة للتحويل.
+3897974076,a group of people are climbing up a tall tower,neutral,امرأة و أطفالها يصعدون السلالم.
+3897974076,a group of people are climbing up a tall tower,entailment,امرأة وطفلين يصعدون السلالم.
+4115261994,a large crowd of people standing around a fire,entailment,مجموعة من الناس تمشي في الميدان.
+4115261994,a large crowd of people standing around a fire,neutral,مجموعة من الناس تمشي خلال الغاز المسيل للدموع.
+4115261994,a large crowd of people standing around a fire,contradiction,مجموعة من الناس ترقص بالنهار.
+4485090958,a woman standing in front of a building,neutral,المرأة لديها اجتماع مهم في البناية اليوم.
+4485090958,a woman standing in front of a building,contradiction,كلب يجري صاعدا درج البناية.
+4485090958,a woman standing in front of a building,entailment,هناك عدة أشخاص خارج البناية.
+4485090958,a woman standing in front of a building,contradiction,الأب ينظر إلى زوجته وابنه.
+4485090958,a woman standing in front of a building,entailment,شخص يتحدث مع طفل بينما شخص اخر يشاهد.
+4485090958,a woman standing in front of a building,neutral,امرأة تنظر إلى أم تتحدث ابنها الصغير.
+4581834644,a man and a girl sitting at a table,contradiction,زوجان يأكلان بالداخل على طاولة وهو يشير الى شيء.
+4581834644,a man and a girl sitting at a table,neutral,الرجل يشير إلى خاطف المحفظة.
+4581834644,a man and a girl sitting at a table,entailment,الناس تأكل على طاولة بالخارج.
+4696008531,a man is kicking a soccer ball on a field,contradiction,الرجل يسير بعيدا.
+4696008531,a man is kicking a soccer ball on a field,entailment,الرجل في تي شيرت أسود.
+4696008531,a man is kicking a soccer ball on a field,neutral,الرجل يرمي شيئا لابنه.
+4702657446,a woman is standing in front of a washing machine,entailment,شخص يجفف ملابس .
+4702657446,a woman is standing in front of a washing machine,contradiction,لا أحد يجفف ملابس.
+4715587253,a woman singing on a microphone with a child,entailment,امرأة تغني.
+4715587253,a woman singing on a microphone with a child,contradiction,امرأة تلقي الشعر على المنصة.
+4715587253,a woman singing on a microphone with a child,neutral,امرأة شقراء تغني وترقص على المنصة.
+481355454,a group of children running after a soccer ball on a field,contradiction,هم يلعبون كرة القدم.
+481355454,a group of children running after a soccer ball on a field,entailment,خمسة أطفال يلعبون.
+481355454,a group of children running after a soccer ball on a field,contradiction,هناك إجمالي عشرة أطفال يلعبون.
+4846892973,a group of people standing on a pier by the ocean,neutral,يذهبون إلى الصيد.
+4846892973,a group of people standing on a pier by the ocean,entailment,ستة أو سبعة أشخاص يقفون على رصيف بحري.
+4846892973,a group of people standing on a pier by the ocean,contradiction,هم في مركب.
+4868221344,a man and a woman sitting on the ground,entailment,رجل وامرأة يجلسان.
+4868221344,a man and a woman sitting on the ground,contradiction,رجل وامرأة يقفان.
+4868221344,a man and a woman sitting on the ground,neutral,رجل وامرأة متزوجان.
+4914029409,a little boy riding a bike down a street,neutral,أم وابنها يركوبون دراجات مع آخرين في شارع.
+4914029409,a little boy riding a bike down a street,contradiction,مجموعة من الناس تغيير إطارات الدراجة.
+4914029409,a little boy riding a bike down a street,entailment,مجموعة من الناس تركب الدراجات معا في شارع.
+4914029409,a little boy riding a bike down a street,neutral,مجموعة من الأصدقاء تركب دراجات في الشارع وكلهم يرتدون الخوذ.
+4914029409,a little boy riding a bike down a street,contradiction,مجموعة من الأصدقاء تأخذ دراجاتهم يستعدون لركوب الدراجات في الصباح.
+4914029409,a little boy riding a bike down a street,entailment,مجموعة من راكبي الدراجات في شارع بالخارج.
+4923272200,a man playing a saxophone in the street,entailment,رجل يعزف آلة موسيقية في الشارع بجانب أشخاص أخرين.
+4923272200,a man playing a saxophone in the street,neutral,رجل يحاول كسب المال عن طريق العزف لناس اخرين في الشارع.
+4923272200,a man playing a saxophone in the street,contradiction,امرأة تحلق عبر البلاد.
+4928783075,a young boy flying a kite in a field,entailment,ولد صغير يلعب في ملعب.
+4928783075,a young boy flying a kite in a field,neutral,ولد صغير يلعب في الملعب لأن أمه طردته من البيت.
+4928783075,a young boy flying a kite in a field,contradiction,ولد صغير يلعب العاب الكترونية داخل البيت.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,رجلان يجلسان في الهواء الطلق في منطقة حضرية.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,أقنع هذين الرجلين الأميين الكلب لكتابة لافتة الاستجداء لهم.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,يقوم اثنان من علماء البحوث بإجراء بحث في التمويه.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,الكلب هو تشيهواهوا.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,ناس مع كلب.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,رجلان مشردان مستندان على حائط مع كلب.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,رجلان يمتلكان بيوتا.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,صديقان يجلسان أمام حائط مع كلبهم الأليف.
+5716554915,a woman laying on a yoga mat in a yoga room,neutral,فنانة تستريح في ستوديوخاص بها.
+5716554915,a woman laying on a yoga mat in a yoga room,entailment,هناك شخص في الغرفة.
+5716554915,a woman laying on a yoga mat in a yoga room,contradiction,امرأة نائمة بينما ضوء القمر يمر خلال الشباك.
+6073765731,two women working in a laboratory with a sink,neutral,أم تساعد طفلتها أن تكمل التجربة.
+6073765731,two women working in a laboratory with a sink,entailment,امرأة تساعد بنتا.
+6073765731,two women working in a laboratory with a sink,contradiction,سيدة نائمة على الأريكة.
+6073765731,two women working in a laboratory with a sink,entailment,سيدة تساعد امرأة أخرى أن تعمل.
+6073765731,two women working in a laboratory with a sink,neutral,امرأتان تحاولان أن تنهيا أوامر الطبيب.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,الرجل آسيوي.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,الرجل يلعب.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,الرجل في البيت نائما.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,رجل يعمل سندويتش بينما يشهق الجمهور في روع.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,جمهور يشاهد شخصا يلعب كرة السلة.
+6935146937,a basketball player slam dunking a ball in a hoop,neutral,لاعب دوري كرة السلة الأمريكية المشهور يلعب كرة بالشارع أمام جمهور .
+7206615914,a group of people standing on a stage playing music,entailment,الناس يلعبون الكمان على خشبة المسرح.
+7206615914,a group of people standing on a stage playing music,contradiction,الناس يلعبون الهارمونيكا وقوفا على السطح.
+85306246,a man sitting on the ground cutting a cake,entailment,رجل لديه أدوات.
+85306246,a man sitting on the ground cutting a cake,neutral,رجل يصلح السد.
+85306246,a man sitting on the ground cutting a cake,contradiction,الرجل في مبنى المكاتب.
+1814086703,two dogs running together in a field,entailment,Dos perros corriendo.
+1814086703,two dogs running together in a field,contradiction,Los dos perros durmiendo en una pila de hojas.
+1814086703,two dogs running together in a field,neutral,Los dos perros corren a jugar en las hojas.
+1891462514,a woman kneeling in a hole in the sand,contradiction,Los cerdos comen los perros.
+1891462514,a woman kneeling in a hole in the sand,entailment,La señora cava en el suelo.
+1891462514,a woman kneeling in a hole in the sand,neutral,La señora cava en el suelo por el oro.
+2074244690,a crowd of people watching a show with their hands up,contradiction,El grupo de amigos durmiendo.
+2074244690,a crowd of people watching a show with their hands up,neutral,Un grupo de personas está mirando en la misma dirección.
+2074244690,a crowd of people watching a show with their hands up,neutral,Un grupo de amigos de noche mirando un concertó de música.
+2142631327,a woman and a child standing next to a chalkboard,neutral,Una mujer de pie con su hijo.
+2142631327,a woman and a child standing next to a chalkboard,contradiction,Un perro ladrando fuerte.
+2142631327,a woman and a child standing next to a chalkboard,entailment,Una mujer de pie con un niño.
+2344969116,two young boys in red robes holding black bowls,contradiction,Un niño pequeño corriendo en un campo.
+2344969116,two young boys in red robes holding black bowls,neutral,Un niño pequeño sosteniendo una caldera que pronto será llena de salsa.
+2344969116,two young boys in red robes holding black bowls,entailment,Un niño pequeño sosteniendo una caldera que pronto será llena.
+2353088412,a black dog running with a toy in its mouth,contradiction,Un perro está perseguido por un gato.
+2353088412,a black dog running with a toy in its mouth,neutral,Un perro negro con un juguete está basado a lado de un perro marón.
+2353088412,a black dog running with a toy in its mouth,entailment,Pero está corriendo y está perseguido por el otro perro.
+2416244705,a woman is brushing a horse,entailment,Una chica está cepillando un caballo.
+2416244705,a woman is brushing a horse,neutral,Una chica está cepillando un caballo después haber vuelto de paseo en la nieve.
+2416244705,a woman is brushing a horse,contradiction,Una chica está sentada en un banco teniendo un cachorro.
+2425411995,a woman running on a tennis court holding a racket,entailment,Una mujer jugando al tenis.
+2425411995,a woman running on a tennis court holding a racket,neutral,Serena Williams jugando al tenis.
+2425411995,a woman running on a tennis court holding a racket,contradiction,Pete Sampras jugando al tenis.
+2464311348,two men standing on a dock with a fish,neutral,Dos hombres acaban de entrar después haber pescado todo el día.
+2464311348,two men standing on a dock with a fish,entailment,Dos hombres están limpiando sus peces.
+2464311348,two men standing on a dock with a fish,contradiction,Dos hombres están sentados en la canoa con sus cañas de pescar.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está de pie en frente de los pasajeros.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Una azafata está demostrando los procedimientos de seguridad antes del despegue.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Una mujer está preparando las bebidas en un avión.
+2507831979,a woman sitting at a table with a cup of coffee,contradiction,La mujer está en silencio.
+2507831979,a woman sitting at a table with a cup of coffee,neutral,Una mujer charlando con su amiga.
+2507831979,a woman sitting at a table with a cup of coffee,entailment,Una mujer está teniendo una conversación.
+2536991887,a line of blue bags on the side of a train station,contradiction,Trabajadores están sentados conduciendo un tren.
+2536991887,a line of blue bags on the side of a train station,neutral,Trabajadores vestidos de color naranja están a punto de reparar las vías del tren.
+2536991887,a line of blue bags on the side of a train station,entailment,Trabajadores están afuera.
+2537683592,a group of construction workers working on a wall,entailment,Chics trabajan a lado de un muro
+2537683592,a group of construction workers working on a wall,contradiction,Chicos saltan en la piscina.
+2537683592,a group of construction workers working on a wall,neutral,Chicos están trabajando a lado de un muro cuando empieza a llover.
+2713036593,a man is sitting on the ground on the sidewalk,contradiction,"Un hombre acostado, durmiendo."
+2713036593,a man is sitting on the ground on the sidewalk,entailment,Un hombre durmiendo por el suelo.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,Un hombre joven durmiendo en la posición sentada.
+2737097000,two men and a woman planting flowers around a pole,neutral,Las plantas son helechos.
+2737097000,two men and a woman planting flowers around a pole,entailment,Los adultos son jóvenes.
+2737097000,two men and a woman planting flowers around a pole,contradiction,Los adultos son viejos.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Un grupo de personas jugando en el océano.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Un grupo de personas esta juntos.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Un grupo de personas sentados en la playa.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Una ola está a punto de golpear algunos chicos.
+2747436384,three men are sitting in the ocean in front of a wave,contradiction,La ola ha pasado de los chicos.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Una ola gigante está a punto de golpear ad algunos chicos.
+288351324,a group of people dancing at a party,entailment,La gente está bailando.
+288351324,a group of people dancing at a party,neutral,Ellos están ejecutando un tango.
+288351324,a group of people dancing at a party,contradiction,Nadie no está bailando.
+294074951,three men are playing guitars in a room,entailment,Tres hombres actuando un set de música con los cables y equipaje por todo el escenario mientras ellos sostengan las guitarras únicas como los instrumentos.
+294074951,three men are playing guitars in a room,contradiction,Los tres hombres estaban contando chistes en un escenario para entretener la multitud.
+294074951,three men are playing guitars in a room,neutral,Los tres hombres fueron en el grupo musical juntos.
+3329289652,two young boys playing with toys at a table,entailment,Niños están jugando.
+3329289652,two young boys playing with toys at a table,neutral,Niños están jugando afuera.
+3329289652,two young boys playing with toys at a table,contradiction,Niños están jugando ajedrez.
+3344175369,two people with backpacks hiking in the snow,neutral,Dos personas van a trabajar en la tormenta de nieve.
+3344175369,two people with backpacks hiking in the snow,entailment,Un chico con la camiseta azul lleva un paquete haciendo su camino en la nieve.
+3344175369,two people with backpacks hiking in the snow,contradiction,Dos hombres jugando con el monigote de nieve.
+3360178782,a group of people standing around a market with vegetables,neutral,Un grupo de hombres y mujeres miran lechuga fresca romana en el mercadillo local de la calle.
+3360178782,a group of people standing around a market with vegetables,entailment,Gente viendo los productos en el mercado.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un grupo de perros mirando lechuga fresca en un mercadillo de la calle local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Grupo de personas tirando plátanos en el mercado.
+3360178782,a group of people standing around a market with vegetables,entailment,Compradores comprando verduras en un mercado de calle muz transitado.
+3360178782,a group of people standing around a market with vegetables,neutral,Grupo de personas siendo filmados comprando verduras para el anuncio de mercado.
+3462454965,a group of dogs running in a field,entailment,Tres perros corriendo.
+3462454965,a group of dogs running in a field,contradiction,Tres perros comiendo
+3462454965,a group of dogs running in a field,neutral,Tres perros corriendo de día.
+3494151850,three people on an orange boat in the ocean,neutral,Los hombres están en camino por rescatar.
+3494151850,three people on an orange boat in the ocean,contradiction,Los hombres están combatiendo fuegos.
+3494151850,three people on an orange boat in the ocean,entailment,Los hombres están afuera.
+3537218226,a man is rock climbing on a rock wall,neutral,EL casco tiene una raya encima.
+3537218226,a man is rock climbing on a rock wall,entailment,una persona tiene el casco amarillo.
+3537218226,a man is rock climbing on a rock wall,contradiction,El casco es negro.
+3572548523,a man and a woman walking down a sidewalk,entailment,Una pareja está caminando juntos.
+3572548523,a man and a woman walking down a sidewalk,neutral,La pareja está casada.
+3572548523,a man and a woman walking down a sidewalk,contradiction,Una pareja está sentada en un banco.
+3610460852,a woman standing at the bar of a bar,entailment,La mujer está de pie.
+3610460852,a woman standing at the bar of a bar,neutral,La mujer con su pelo tirado hacia atrás en un bollo de pelo.
+3610460852,a woman standing at the bar of a bar,contradiction,La mujer está sentada en una toalla de playa
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,contradiction,Una chica hablando a lado de los aseos.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,entailment,Gente hablando cerca de taquillas.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,neutral,Chicas hablando de sus problemas a lado de las taquillas.
+3746285587,a woman is laying on the ground on a street,neutral,Una mujer está protestando por la calle.
+3746285587,a woman is laying on the ground on a street,entailment,Una mujer está por el suelo afuera.
+3746285587,a woman is laying on the ground on a street,contradiction,Una mujer está montando en bicicleta.
+3815355917,a car with a luggage rack on top of it,entailment,EL coche tiene cosas encima.
+3815355917,a car with a luggage rack on top of it,neutral,El coche va de viaje.
+3815355917,a car with a luggage rack on top of it,contradiction,El coche es un convertible.
+3897974076,a group of people are climbing up a tall tower,neutral,Una mujer y sus hijos suben las escaleras.
+3897974076,a group of people are climbing up a tall tower,entailment,Una mujer y dos niños suben las escaleras.
+4115261994,a large crowd of people standing around a fire,entailment,Un grupo de gente caminando en la plaza.
+4115261994,a large crowd of people standing around a fire,neutral,Un grupo de personas caminando a través de gases lacrimógenos.
+4115261994,a large crowd of people standing around a fire,contradiction,Un grupo de personas bailando en el día.
+4485090958,a woman standing in front of a building,neutral,La mujer tiene una hoy reunión importante en el edificio.
+4485090958,a woman standing in front of a building,contradiction,Un perro corriendo por las escaleras de edificio.
+4485090958,a woman standing in front of a building,entailment,Hay varias personas fuera de edificio.
+4485090958,a woman standing in front of a building,contradiction,Un padre mirando a su mujer e hijo.
+4485090958,a woman standing in front of a building,entailment,Una persona está hablando con otra mientras otra está mirando.
+4485090958,a woman standing in front of a building,neutral,Una mujer mira a la madre halando con su hijo joven.
+4581834644,a man and a girl sitting at a table,contradiction,Una pareja está comiendo en una mesa dentro y él está apuntando a algo.
+4581834644,a man and a girl sitting at a table,neutral,Un hombre está apuntando a un ladrón de monederos.
+4581834644,a man and a girl sitting at a table,entailment,La gente está comiendo en una mesa en la terraza
+4696008531,a man is kicking a soccer ball on a field,contradiction,El hombre está alejándose.
+4696008531,a man is kicking a soccer ball on a field,entailment,El hombre está llevando una camiseta negra.
+4696008531,a man is kicking a soccer ball on a field,neutral,El hombre está tirando algo a su hijo.
+4702657446,a woman is standing in front of a washing machine,entailment,Una persona está secando la ropa.
+4702657446,a woman is standing in front of a washing machine,contradiction,Nadie no está secando la ropa.
+4715587253,a woman singing on a microphone with a child,entailment,Una mujer está cantando.
+4715587253,a woman singing on a microphone with a child,contradiction,Una mujer está recitando poesía en el escenario.
+4715587253,a woman singing on a microphone with a child,neutral,Una mujer rubia está cantando y bailando en el escenario.
+481355454,a group of children running after a soccer ball on a field,contradiction,Ellos están jugando el fútbol.
+481355454,a group of children running after a soccer ball on a field,entailment,Cinco niños están jugando.
+481355454,a group of children running after a soccer ball on a field,contradiction,Ahí tienes diez niños jugando.
+4846892973,a group of people standing on a pier by the ocean,neutral,Ellos van a pescar.
+4846892973,a group of people standing on a pier by the ocean,entailment,Seis o siete personas están de pie en un muelle.
+4846892973,a group of people standing on a pier by the ocean,contradiction,Ellos están en un bote.
+4868221344,a man and a woman sitting on the ground,entailment,El hombre y la mujer están sentados.
+4868221344,a man and a woman sitting on the ground,contradiction,El hombre y la mujer están de pie.
+4868221344,a man and a woman sitting on the ground,neutral,El hombre y la mujer están casados.
+4914029409,a little boy riding a bike down a street,neutral,Una madre y su hijo montan en la bicicleta con otros ciclistas por la calle.
+4914029409,a little boy riding a bike down a street,contradiction,Un grupo de personas está cambiando el neumático de la bicicleta.
+4914029409,a little boy riding a bike down a street,entailment,Un grupo de personas está montando en bici junto por la calle.
+4914029409,a little boy riding a bike down a street,neutral,Un grupo de amigos están montando en bici por la calle todo llevando cascos.
+4914029409,a little boy riding a bike down a street,contradiction,Un grupo de amigos cogiendo las bicicletas preparándose por el paseo en bicicletas por la mañana.
+4914029409,a little boy riding a bike down a street,entailment,Un grupo de ciclistas esta por la calle afuera.
+4923272200,a man playing a saxophone in the street,entailment,Un hombre está tocando un instrumento en la calle cerca de otra gente.
+4923272200,a man playing a saxophone in the street,neutral,Un hombre está tentando de ganar dinero tocando por la gente que está en la calle.
+4923272200,a man playing a saxophone in the street,contradiction,Una mujer está volando a campo traviesa.
+4928783075,a young boy flying a kite in a field,entailment,Un niño joven está jugando en el campo.
+4928783075,a young boy flying a kite in a field,neutral,Un niño joven está jugando en el campo porque su madre lo ha echado fuera de casa.
+4928783075,a young boy flying a kite in a field,contradiction,Un niño joven está jugando dentro con los videos juegos.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Dos hombres sentados afuera en una zona urbana.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Esos dos hombres iliteratos han convencidos perro para que escribir una señal por mendigar por ellos.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Dos investigadores científicos están conduciendo una investigación disfrazadas.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,El perro es un chihuahua.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Gente con el perro.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Dos hombres sin techos apozados contra una pared con un perro.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Dos hombres poseen casas.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Dos amigos sentados contra una pared con su perro mascota.
+5716554915,a woman laying on a yoga mat in a yoga room,neutral,Un artista relajándose en su estudio.
+5716554915,a woman laying on a yoga mat in a yoga room,entailment,Esta una persona en la cama.
+5716554915,a woman laying on a yoga mat in a yoga room,contradiction,Una mujer está durmiendo mientras la luna se filtra en la ventana.
+6073765731,two women working in a laboratory with a sink,neutral,Una mujer está ayudando a su hija de completar el experimento.
+6073765731,two women working in a laboratory with a sink,entailment,Una mujer está ayudando a la niña.
+6073765731,two women working in a laboratory with a sink,contradiction,Una mujer está durmiendo en el sofá.
+6073765731,two women working in a laboratory with a sink,entailment,Una mujer está ayudando otra a trabajar.
+6073765731,two women working in a laboratory with a sink,neutral,Dos mujeres están intentando terminar los pedidos de doctor.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,El hombre es asiático.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,El hombre está jugando.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,El hombre está en casa durmiendo.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,Un hombre está preparándose un bocadillo mientras la multitud suspira de asombro.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,Una multitud está mirando ad alquilen jugar al básquet.
+6935146937,a basketball player slam dunking a ball in a hoop,neutral,Un jugador famoso de NBA está jugando el básquet callejero en frente de la multitud.
+7206615914,a group of people standing on a stage playing music,entailment,La gente tocando el violín en el escenario.
+7206615914,a group of people standing on a stage playing music,contradiction,La gente tocando armónica mientras de pie en el techo.
+85306246,a man sitting on the ground cutting a cake,entailment,EL hombre tiene herramientas.
+85306246,a man sitting on the ground cutting a cake,neutral,El hombre reparando la presa.
+85306246,a man sitting on the ground cutting a cake,contradiction,EL hombre está en un edifico de oficinas.
+1814086703,two dogs running together in a field,entailment,Deux chiens courent.
+1814086703,two dogs running together in a field,contradiction,Les deux chiens dorment sur le tas de feuilles.
+1814086703,two dogs running together in a field,neutral,Les deux chiens courent pour jouer dans les feuilles.
+1891462514,a woman kneeling in a hole in the sand,contradiction,Les porcs mangent des chiens
+1891462514,a woman kneeling in a hole in the sand,entailment,La dame creuse dans le sol
+1891462514,a woman kneeling in a hole in the sand,neutral,La dame creuse dans le sol pour de l'or.
+2074244690,a crowd of people watching a show with their hands up,contradiction,Le groupe d'amis dort.
+2074244690,a crowd of people watching a show with their hands up,neutral,Un groupe d'humains regarde dans la même direction.
+2074244690,a crowd of people watching a show with their hands up,neutral,Un groupe d'amis regarde le concert de musique la nuit.
+2142631327,a woman and a child standing next to a chalkboard,neutral,Une femme se tient avec son enfant
+2142631327,a woman and a child standing next to a chalkboard,contradiction,Un chien aboie fort
+2142631327,a woman and a child standing next to a chalkboard,entailment,Une femme se tient avec un enfant
+2344969116,two young boys in red robes holding black bowls,contradiction,Un petit garçon court à travers le champ de maïs.
+2344969116,two young boys in red robes holding black bowls,neutral,Un petit garçon tient une bouilloire qui sera bientôt remplie avec une sauce.
+2344969116,two young boys in red robes holding black bowls,entailment,Un petit garçon tient une bouilloire qui sera bientôt remplie.
+2353088412,a black dog running with a toy in its mouth,contradiction,Un chien est poursuivi par un chat.
+2353088412,a black dog running with a toy in its mouth,neutral,Un chien noir avec un jouet est poursuivi par un chien marron.
+2353088412,a black dog running with a toy in its mouth,entailment,Un chien court et il est poursuivi par un autre chien.
+2416244705,a woman is brushing a horse,entailment,Une fille brosse un cheval.
+2416244705,a woman is brushing a horse,neutral,Une fille brosse un cheval après être revenu d'un tour dans la neige.
+2416244705,a woman is brushing a horse,contradiction,Une fille est assise sur le banc d’un parc tenant un chiot.
+2425411995,a woman running on a tennis court holding a racket,entailment,Une femme joue au tennis.
+2425411995,a woman running on a tennis court holding a racket,neutral,Serena Williams joue au tennis.
+2425411995,a woman running on a tennis court holding a racket,contradiction,Pete Sampras joue au tennis.
+2464311348,two men standing on a dock with a fish,neutral,Deux hommes viennent de rentrer de la journée de pêche.
+2464311348,two men standing on a dock with a fish,entailment,Deux hommes nettoient leur poisson
+2464311348,two men standing on a dock with a fish,contradiction,Deux hommes sont assis dans un canot avec leurs cannes à pêche
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air est debout devant les passagers.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Une hôtesse de l'air fait une démonstration des procédures de sécurité avant le décollage.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Une femme prépare des boissons dans un avion.
+2507831979,a woman sitting at a table with a cup of coffee,contradiction,La femme est silencieuse.
+2507831979,a woman sitting at a table with a cup of coffee,neutral,La femme papote avec sa copine.
+2507831979,a woman sitting at a table with a cup of coffee,entailment,Une femme papote.
+2536991887,a line of blue bags on the side of a train station,contradiction,Des travailleurs sont assis dans un train.
+2536991887,a line of blue bags on the side of a train station,neutral,Des travailleurs en orange sont sur le point de réparer des voies ferrées.
+2536991887,a line of blue bags on the side of a train station,entailment,Les travailleurs se tiennent debout à l'extérieur.
+2537683592,a group of construction workers working on a wall,entailment,Des gars travaillent près d'un mur.
+2537683592,a group of construction workers working on a wall,contradiction,Des gars sautent dans la piscine.
+2537683592,a group of construction workers working on a wall,neutral,Les gars travaillent près d'un mur et il commence à pleuvoir.
+2713036593,a man is sitting on the ground on the sidewalk,contradiction,Un homme est allongé et dort.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,Un homme dort sur le sol.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,Un jeune homme dort dans la position assise.
+2737097000,two men and a woman planting flowers around a pole,neutral,Les plantes sont des fougères
+2737097000,two men and a woman planting flowers around a pole,entailment,Les adultes sont jeunes
+2737097000,two men and a woman planting flowers around a pole,contradiction,Les adultes sont vieux
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Un groupe de personnes joue dans l'océan.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Un groupe de personnes se tient debout ensemble.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Un groupe de personnes est assis sur la plage.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Une vague est sur le point de frapper des garçons.
+2747436384,three men are sitting in the ocean in front of a wave,contradiction,La vague a manqué les garçons.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Une vague géante est sur le point de s'écraser sur des garçons.
+288351324,a group of people dancing at a party,entailment,Les gens dansent.
+288351324,a group of people dancing at a party,neutral,Ils dansent le tango.
+288351324,a group of people dancing at a party,contradiction,Personne ne danse.
+294074951,three men are playing guitars in a room,entailment,Trois hommes préparent une scène musicale avec des fils et de l'équipement et ils tiennent une guitare unique comme instruments.
+294074951,three men are playing guitars in a room,contradiction,Les trois hommes disaient des blagues sur la scène pour amuser la foule.
+294074951,three men are playing guitars in a room,neutral,Les trois hommes jouaient dans un groupe ensemble.
+3329289652,two young boys playing with toys at a table,entailment,Les garçons jouent.
+3329289652,two young boys playing with toys at a table,neutral,Les garçons jouent dehors.
+3329289652,two young boys playing with toys at a table,contradiction,Les garçons jouent aux échecs.
+3344175369,two people with backpacks hiking in the snow,neutral,Deux personnes vont travailler pendant qu’il y a une tempête
+3344175369,two people with backpacks hiking in the snow,entailment,Un gars avec un haut bleu porte un sac et trace son chemin à travers la neige.
+3344175369,two people with backpacks hiking in the snow,contradiction,Deux hommes jouent avec un bonhomme de neige
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe d'hommes et de femmes regardent les salades romaines sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,entailment,Des gens regardant des produits sur un marché.
+3360178782,a group of people standing around a market with vegetables,contradiction,Une meute de chien regarde les salades vertes sur le marché de rue local.
+3360178782,a group of people standing around a market with vegetables,contradiction,Un groupe de personnes jettent des bananes sur un marché.
+3360178782,a group of people standing around a market with vegetables,entailment,Les acheteurs achetant des légumes dans un marché fréquenté.
+3360178782,a group of people standing around a market with vegetables,neutral,Un groupe de personnes est filmé en achetant des légumes pour la publicité d'un marché.
+3462454965,a group of dogs running in a field,entailment,Trois chiens courent.
+3462454965,a group of dogs running in a field,contradiction,Les chiens mangent
+3462454965,a group of dogs running in a field,neutral,Trois chiens courent pendant la journée.
+3494151850,three people on an orange boat in the ocean,neutral,Les hommes vont au secours.
+3494151850,three people on an orange boat in the ocean,contradiction,Les hommes combattent le feu.
+3494151850,three people on an orange boat in the ocean,entailment,Les hommes sont dehors.
+3537218226,a man is rock climbing on a rock wall,neutral,Le casque a une bande dessus.
+3537218226,a man is rock climbing on a rock wall,entailment,Une personne a un casque jaune.
+3537218226,a man is rock climbing on a rock wall,contradiction,Le casque est noir.
+3572548523,a man and a woman walking down a sidewalk,entailment,Un couple marche ensemble.
+3572548523,a man and a woman walking down a sidewalk,neutral,Le couple est marié.
+3572548523,a man and a woman walking down a sidewalk,contradiction,Un couple est assis sur un banc.
+3610460852,a woman standing at the bar of a bar,entailment,La femme est debout.
+3610460852,a woman standing at the bar of a bar,neutral,La femme a ses cheveux tirés en arrière en chignon.
+3610460852,a woman standing at the bar of a bar,contradiction,La femme est assise sur une serviette de plage.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,contradiction,Les filles parlant à côté des toilettes.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,entailment,Les gens parlant à côté des casiers.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,neutral,Les filles parlant de leurs problèmes à côté des casiers.
+3746285587,a woman is laying on the ground on a street,neutral,Une femme proteste dans la rue.
+3746285587,a woman is laying on the ground on a street,entailment,Une femme est sur le sol dehors.
+3746285587,a woman is laying on the ground on a street,contradiction,Une femme fait du vélo.
+3815355917,a car with a luggage rack on top of it,entailment,La voiture a des trucs sur le toit.
+3815355917,a car with a luggage rack on top of it,neutral,La voiture part en voyage.
+3815355917,a car with a luggage rack on top of it,contradiction,La voiture est un cabriolet.
+3897974076,a group of people are climbing up a tall tower,neutral,Une femme et ses enfants montent des escaliers.
+3897974076,a group of people are climbing up a tall tower,entailment,Une femme et deux enfants montent des escaliers.
+4115261994,a large crowd of people standing around a fire,entailment,Un groupe de personnes marche sur une place.
+4115261994,a large crowd of people standing around a fire,neutral,Un groupe de personnes marche à travers le gaz lacrymogène.
+4115261994,a large crowd of people standing around a fire,contradiction,Un groupe de personnes danse pendant la journée.
+4485090958,a woman standing in front of a building,neutral,La femme a une réunion importante dans l'immeuble aujourd'hui.
+4485090958,a woman standing in front of a building,contradiction,Un chien monte les marches d'un immeuble en courant.
+4485090958,a woman standing in front of a building,entailment,Il y a plusieurs personnes à l'extérieur d'un immeuble.
+4485090958,a woman standing in front of a building,contradiction,Un père regarde sa femme et son fils.
+4485090958,a woman standing in front of a building,entailment,Une personne parle à un enfant pendant qu'une autre personne les regarde.
+4485090958,a woman standing in front of a building,neutral,Une femme regarde une mère parler à son jeune fils.
+4581834644,a man and a girl sitting at a table,contradiction,Un couple mange à l'intérieur à une table et pointe quelque chose du doigt.
+4581834644,a man and a girl sitting at a table,neutral,L'homme pointe un voleur à la tire.
+4581834644,a man and a girl sitting at a table,entailment,Les gens mangent dehors à une table.
+4696008531,a man is kicking a soccer ball on a field,contradiction,L’homme s’en va.
+4696008531,a man is kicking a soccer ball on a field,entailment,L’homme est dans une chemise noire.
+4696008531,a man is kicking a soccer ball on a field,neutral,L'homme lance quelque chose à son fils.
+4702657446,a woman is standing in front of a washing machine,entailment,Une personne séchant des vêtements
+4702657446,a woman is standing in front of a washing machine,contradiction,Personne ne sèche des vêtements.
+4715587253,a woman singing on a microphone with a child,entailment,Une femme chante.
+4715587253,a woman singing on a microphone with a child,contradiction,Une femme récite de la poésie sur scène.
+4715587253,a woman singing on a microphone with a child,neutral,Une femme blonde chante et danse sur scène.
+481355454,a group of children running after a soccer ball on a field,contradiction,Ils jouent au foot.
+481355454,a group of children running after a soccer ball on a field,entailment,Cinq enfants jouent.
+481355454,a group of children running after a soccer ball on a field,contradiction,Il y a au total dix enfants qui jouent.
+4846892973,a group of people standing on a pier by the ocean,neutral,Ils vont à la pêche.
+4846892973,a group of people standing on a pier by the ocean,entailment,Six ou sept personnes sont debout sur une jetée.
+4846892973,a group of people standing on a pier by the ocean,contradiction,Ils sont dans un bateau.
+4868221344,a man and a woman sitting on the ground,entailment,L'homme et la femme sont assis.
+4868221344,a man and a woman sitting on the ground,contradiction,L'homme et la femme se tiennent debout.
+4868221344,a man and a woman sitting on the ground,neutral,L'homme et la femme sont mariés.
+4914029409,a little boy riding a bike down a street,neutral,Une mère et son fils font du vélo dans une rue avec d'autres personnes.
+4914029409,a little boy riding a bike down a street,contradiction,Un groupe de personnes change un pneu de vélo.
+4914029409,a little boy riding a bike down a street,entailment,Un groupe de personnes fait du vélo ensemble dans une rue.
+4914029409,a little boy riding a bike down a street,neutral,"Un groupe d'amis fait du vélo dans une rue, tous portant leurs casques."
+4914029409,a little boy riding a bike down a street,contradiction,"Un groupe d'amis attrape leurs vélos, se préparant pour le tour de vélo matinal."
+4914029409,a little boy riding a bike down a street,entailment,Un groupe de cyclistes se trouve dans une rue à l'extérieur.
+4923272200,a man playing a saxophone in the street,entailment,Un homme joue d'un instrument dans la rue près d'autres personnes.
+4923272200,a man playing a saxophone in the street,neutral,Un homme essaie de gagner de l'argent en jouant pour d'autres personnes dans la rue.
+4923272200,a man playing a saxophone in the street,contradiction,Une femme vole à travers le pays.
+4928783075,a young boy flying a kite in a field,entailment,Un petit garçon joue dans un champ.
+4928783075,a young boy flying a kite in a field,neutral,Un petit garçon joue dans le champ parce que sa mère l'a viré de la maison.
+4928783075,a young boy flying a kite in a field,contradiction,Un petit garçon joue aux jeux vidéo à l'intérieur.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Deux hommes sont assis en plein air dans une zone urbaine.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Ces deux hommes analphabètes ont convaincu leur chien d’écrire un panneau de mendiant pour eux.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Deux chercheurs scientifiques déguisés effectuent des recherches.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Le chien est un chihuahua
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Des gens avec un chien
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Deux SDF s'appuient sur un mur avec un chien.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Deux hommes sont propriétaires de maison.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Deux amis sont assis contre un mur avec leur chien de compagnie.
+5716554915,a woman laying on a yoga mat in a yoga room,neutral,Une artiste se détend dans son atelier.
+5716554915,a woman laying on a yoga mat in a yoga room,entailment,Il y a une personne dans une pièce.
+5716554915,a woman laying on a yoga mat in a yoga room,contradiction,Une femme dort pendant que le clair de lune filtre par la fenêtre.
+6073765731,two women working in a laboratory with a sink,neutral,Une mère aide son enfant à réaliser l’expérience.
+6073765731,two women working in a laboratory with a sink,entailment,Une femme aide une fille.
+6073765731,two women working in a laboratory with a sink,contradiction,Une dame dort sur un canapé.
+6073765731,two women working in a laboratory with a sink,entailment,Une dame aide une autre femme à travailler
+6073765731,two women working in a laboratory with a sink,neutral,Deux femmes essaient de finaliser les commandes d'un médecin
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,l'homme est asiatique
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,l'homme joue
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,l'homme dort dans sa maison
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,Un homme fait un sandwich tandis qu'une foule a le souffle coupé.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,Une foule regarde quelqu'un jouer au basket-ball.
+6935146937,a basketball player slam dunking a ball in a hoop,neutral,Un joueur célèbre de NBA joue au basket de rue devant une foule.
+7206615914,a group of people standing on a stage playing music,entailment,Les gens jouent du violon sur scène.
+7206615914,a group of people standing on a stage playing music,contradiction,Des gens jouent de l'harmonica en se tenant debout sur un toit.
+85306246,a man sitting on the ground cutting a cake,entailment,Un homme a des outils.
+85306246,a man sitting on the ground cutting a cake,neutral,Un homme répare un barrage.
+85306246,a man sitting on the ground cutting a cake,contradiction,L’homme est dans un immeuble d’affaires.
+1814086703,two dogs running together in a field,entailment,Две собаки бегут.
+1814086703,two dogs running together in a field,contradiction,Эти две собаки спят на куче листьев.
+1814086703,two dogs running together in a field,neutral,"Эти две собаки бегут, чтобы поиграть в листьях."
+1891462514,a woman kneeling in a hole in the sand,contradiction,эти свиньи едят собак
+1891462514,a woman kneeling in a hole in the sand,entailment,Эта женщина роется в земле
+1891462514,a woman kneeling in a hole in the sand,neutral,Эта женщина роется в земле ради золота
+2074244690,a crowd of people watching a show with their hands up,contradiction,Группа друзей спит.
+2074244690,a crowd of people watching a show with their hands up,neutral,Группа людей смотрит в одном и том же направлении.
+2074244690,a crowd of people watching a show with their hands up,neutral,Группа друзей смотрит музыкальный концерт вечером.
+2142631327,a woman and a child standing next to a chalkboard,neutral,женщина стоит со своим ребенком
+2142631327,a woman and a child standing next to a chalkboard,contradiction,собака громко лает
+2142631327,a woman and a child standing next to a chalkboard,entailment,женщина стоит с ребенком
+2344969116,two young boys in red robes holding black bowls,contradiction,Маленький мальчик бежит через кукурузное поле.
+2344969116,two young boys in red robes holding black bowls,neutral,"Маленький мальчик держит чайник, который скоро наполнят соусом «сальса»."
+2344969116,two young boys in red robes holding black bowls,entailment,"Маленький мальчик держит чайник, который скоро будет наполнен."
+2353088412,a black dog running with a toy in its mouth,contradiction,Кошка гонится за собакой.
+2353088412,a black dog running with a toy in its mouth,neutral,Коричневая собака гонится за черной собакой с игрушкой.
+2353088412,a black dog running with a toy in its mouth,entailment,"Собака бежит, преследуемая другой собакой."
+2416244705,a woman is brushing a horse,entailment,Девушка чистит лошадь.
+2416244705,a woman is brushing a horse,neutral,Девушка чистит лошадь после возвращения из поездки по снегу.
+2416244705,a woman is brushing a horse,contradiction,"Девушка сидит на скамейке в парке, держа щенка."
+2425411995,a woman running on a tennis court holding a racket,entailment,Женщина играет в теннис.
+2425411995,a woman running on a tennis court holding a racket,neutral,Серена Уильямс играет в теннис.
+2425411995,a woman running on a tennis court holding a racket,contradiction,Пит Сампрас играет в теннис.
+2464311348,two men standing on a dock with a fish,neutral,"Два мужчины только что вернулись с рыбалки, на которой провели весь день."
+2464311348,two men standing on a dock with a fish,entailment,Два мужчины чистят рыбу.
+2464311348,two men standing on a dock with a fish,contradiction,Два мужчины сидят в каноэ с удочками.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Бортпроводник стоит перед пассажирами.
+2487069642,a woman wearing a life jacket on an airplane,neutral,Бортпроводник демонстрирует правила техники безопасности перед взлетом.
+2487069642,a woman wearing a life jacket on an airplane,contradiction,Женщина готовит напитки в самолете.
+2507831979,a woman sitting at a table with a cup of coffee,contradiction,Эта женщина молчит.
+2507831979,a woman sitting at a table with a cup of coffee,neutral,Эта женщина болтает со своим другом.
+2507831979,a woman sitting at a table with a cup of coffee,entailment,Женщина болтает.
+2536991887,a line of blue bags on the side of a train station,contradiction,Рабочие сидят и едут в поезде.
+2536991887,a line of blue bags on the side of a train station,neutral,"Рабочие, одетые в оранжевое, собираются ремонтировать рельсы."
+2536991887,a line of blue bags on the side of a train station,entailment,Рабочие стоят снаружи.
+2537683592,a group of construction workers working on a wall,entailment,Парни работают у стены.
+2537683592,a group of construction workers working on a wall,contradiction,Парни прыгают в бассейн.
+2537683592,a group of construction workers working on a wall,neutral,"Парни работают у стены, а в это время начинается дождь."
+2713036593,a man is sitting on the ground on the sidewalk,contradiction,Мужчина лежит и спит.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,Мужчина спит на полу.
+2713036593,a man is sitting on the ground on the sidewalk,entailment,"Молодой мужчина спит, находясь в сидячем положении."
+2737097000,two men and a woman planting flowers around a pole,neutral,Эти растения – папоротниковые.
+2737097000,two men and a woman planting flowers around a pole,entailment,Эти совершеннолетние люди молоды.
+2737097000,two men and a woman planting flowers around a pole,contradiction,Эти совершеннолетние люди стары.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Группа людей играет в океане.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Группа людей стоит вместе.
+2747436384,three men are sitting in the ocean in front of a wave,neutral,Группа людей сидит на пляже.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Волна сейчас ударит несколько мальчиков.
+2747436384,three men are sitting in the ocean in front of a wave,contradiction,Эта волна прошла мимо мальчиков.
+2747436384,three men are sitting in the ocean in front of a wave,entailment,Гигантская волна готовится обрушиться на нескольких мальчиков.
+288351324,a group of people dancing at a party,entailment,Люди танцуют.
+288351324,a group of people dancing at a party,neutral,Они танцуют танго.
+288351324,a group of people dancing at a party,contradiction,Никто не танцует.
+294074951,three men are playing guitars in a room,entailment,"Три мужчины играют музыкальный сет с проводами и оборудованием по всей сцене, и они держат уникальные похожие на гитары инструменты"
+294074951,three men are playing guitars in a room,contradiction,"Эти три мужчины рассказывали шутки на сцене для того, чтобы развлечь толпу."
+294074951,three men are playing guitars in a room,neutral,Эти три мужчины были вместе в одной музыкальной группе.
+3329289652,two young boys playing with toys at a table,entailment,Мальчики играют.
+3329289652,two young boys playing with toys at a table,neutral,Мальчики играют на улице.
+3329289652,two young boys playing with toys at a table,contradiction,Мальчики играют в шахматы.
+3344175369,two people with backpacks hiking in the snow,neutral,Два человека идут на работу в метель
+3344175369,two people with backpacks hiking in the snow,entailment,парень в голубой верхней одежде несет пакет и идет своим путем через снег
+3344175369,two people with backpacks hiking in the snow,contradiction,Два мужчины играют со снеговиком.
+3360178782,a group of people standing around a market with vegetables,neutral,Группа мужчин и женщин смотрят на свежий салат ромэн на местном уличном рынке.
+3360178782,a group of people standing around a market with vegetables,entailment,"Люди, смотрящие на продукты на рынке."
+3360178782,a group of people standing around a market with vegetables,contradiction,Группа собак смотрит на свежий салат на местном уличном рынке.
+3360178782,a group of people standing around a market with vegetables,contradiction,"Группа людей, бросающих бананы на рынке."
+3360178782,a group of people standing around a market with vegetables,entailment,"Покупатели, приобретающие овощи на оживленном городском рынке."
+3360178782,a group of people standing around a market with vegetables,neutral,Группу людей снимали во время покупки овощей для рекламы рынка.
+3462454965,a group of dogs running in a field,entailment,Три собаки бегут
+3462454965,a group of dogs running in a field,contradiction,Эти собаки едят
+3462454965,a group of dogs running in a field,neutral,Три собаки бегут днем.
+3494151850,three people on an orange boat in the ocean,neutral,Эти мужчины находятся на пути к своему спасению.
+3494151850,three people on an orange boat in the ocean,contradiction,Эти мужчины борются с огнем.
+3494151850,three people on an orange boat in the ocean,entailment,Эти мужчины находятся снаружи.
+3537218226,a man is rock climbing on a rock wall,neutral,На этом шлеме есть полоса.
+3537218226,a man is rock climbing on a rock wall,entailment,У человека есть желтый шлем.
+3537218226,a man is rock climbing on a rock wall,contradiction,Этот шлем черный.
+3572548523,a man and a woman walking down a sidewalk,entailment,Пара гуляет вместе.
+3572548523,a man and a woman walking down a sidewalk,neutral,Эта пара жената.
+3572548523,a man and a woman walking down a sidewalk,contradiction,Пара сидит на скамейке.
+3610460852,a woman standing at the bar of a bar,entailment,Эта женщина стоит.
+3610460852,a woman standing at the bar of a bar,neutral,Эта женщина зачесала волосы в пучок.
+3610460852,a woman standing at the bar of a bar,contradiction,Эта женщина сидит на пляжном полотенце.
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,contradiction,"Девочки, разговаривающие рядом с туалетом."
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,entailment,"Люди, разговаривающие у шкафчиков для одежды."
+3661659196,a girl holding a frisbee and a woman sitting on a stool in a,neutral,"Девочки, обсуждающие свои проблемы рядом со шкафчиками для одежды."
+3746285587,a woman is laying on the ground on a street,neutral,Женщина протестует на улице.
+3746285587,a woman is laying on the ground on a street,entailment,Женщина на земле на улице.
+3746285587,a woman is laying on the ground on a street,contradiction,Женщина едет на велосипеде.
+3815355917,a car with a luggage rack on top of it,entailment,Наверху машины находятся вещи.
+3815355917,a car with a luggage rack on top of it,neutral,Эта машина едет в путешествие.
+3815355917,a car with a luggage rack on top of it,contradiction,Эта машина с откидным верхом.
+3897974076,a group of people are climbing up a tall tower,neutral,Женщина и ее дети поднимаются вверх по ступеням.
+3897974076,a group of people are climbing up a tall tower,entailment,Женщина и двое детей поднимаются вверх по ступеням.
+4115261994,a large crowd of people standing around a fire,entailment,Группа людей гуляет на площади.
+4115261994,a large crowd of people standing around a fire,neutral,Группа людей идет через слезоточивый газ.
+4115261994,a large crowd of people standing around a fire,contradiction,Группа людей танцует в дневное время.
+4485090958,a woman standing in front of a building,neutral,У этой женщины сегодня важная встреча в этом здании.
+4485090958,a woman standing in front of a building,contradiction,Собака бежит вверх по ступенькам здания.
+4485090958,a woman standing in front of a building,entailment,Снаружи здания есть несколько человек.
+4485090958,a woman standing in front of a building,contradiction,Отец смотрит на свою жену и сына.
+4485090958,a woman standing in front of a building,entailment,"Человек разговаривает с ребенком, пока другой человек смотрит."
+4485090958,a woman standing in front of a building,neutral,"Женщина смотрит на мать, разговаривающую со своим младшим сыном."
+4581834644,a man and a girl sitting at a table,contradiction,"Пара ест за столом внутри, и он указывает на что-то."
+4581834644,a man and a girl sitting at a table,neutral,Этот мужчина показывает на вора-карманника.
+4581834644,a man and a girl sitting at a table,entailment,Люди едят за столом снаружи.
+4696008531,a man is kicking a soccer ball on a field,contradiction,Этот мужчина уходит.
+4696008531,a man is kicking a soccer ball on a field,entailment,Этот мужчина одет в черную рубашку.
+4696008531,a man is kicking a soccer ball on a field,neutral,Этот мужчина бросает что-то своему сыну.
+4702657446,a woman is standing in front of a washing machine,entailment,Человек сушит одежду.
+4702657446,a woman is standing in front of a washing machine,contradiction,Никто не сушит одежду.
+4715587253,a woman singing on a microphone with a child,entailment,Женщина поет.
+4715587253,a woman singing on a microphone with a child,contradiction,Женщина декламирует стихи на сцене
+4715587253,a woman singing on a microphone with a child,neutral,Светловолосая женщина поет и танцует на сцене.
+481355454,a group of children running after a soccer ball on a field,contradiction,Они играют в футбол.
+481355454,a group of children running after a soccer ball on a field,entailment,Пять детей играют.
+481355454,a group of children running after a soccer ball on a field,contradiction,Здесь есть всего десять играющих детей.
+4846892973,a group of people standing on a pier by the ocean,neutral,Они отправляются на рыбалку.
+4846892973,a group of people standing on a pier by the ocean,entailment,Шесть или семь человек стоят на причале.
+4846892973,a group of people standing on a pier by the ocean,contradiction,Они находятся в лодке.
+4868221344,a man and a woman sitting on the ground,entailment,Эти мужчина и женщина сидят.
+4868221344,a man and a woman sitting on the ground,contradiction,Эти мужчина и женщина стоят.
+4868221344,a man and a woman sitting on the ground,neutral,Эти мужчина и женщина женаты.
+4914029409,a little boy riding a bike down a street,neutral,Мать с сыном едут на велосипеде с другими людьми по улице.
+4914029409,a little boy riding a bike down a street,contradiction,Группа людей меняет велосипедную шину.
+4914029409,a little boy riding a bike down a street,entailment,Группа людей едет на велосипедах вместе по улице.
+4914029409,a little boy riding a bike down a street,neutral,"Группа друзей, одетых в шлемы, едет на велосипедах через улицу."
+4914029409,a little boy riding a bike down a street,contradiction,"Группа друзей хватает свои велосипеды, готовясь к утренней поездке на велосипеде."
+4914029409,a little boy riding a bike down a street,entailment,Группа велосипедистов находится снаружи на улице.
+4923272200,a man playing a saxophone in the street,entailment,Мужчина играет на музыкальном инструменте на улице рядом с другими людьми.
+4923272200,a man playing a saxophone in the street,neutral,"Мужчина/человек пытается заработать денег, играя для других людей на улице."
+4923272200,a man playing a saxophone in the street,contradiction,Женщина совершает международный полет.
+4928783075,a young boy flying a kite in a field,entailment,Мальчик играет в поле.
+4928783075,a young boy flying a kite in a field,neutral,"Мальчик играет в поле, потому что мама его выгнала из дома."
+4928783075,a young boy flying a kite in a field,contradiction,Мальчик играет в видеоигры дома.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Два мужчины сидят на открытом воздухе на городской территории.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Эти два неграмотных человека убедили свою собаку написать для них табличку с просьбой о милостыне. 
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Два научных работника тайно проводят исследование.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Эта собака породы чихуахуа.
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Люди с собакой
+4958466857,two men sitting on the sidewalk with a dog and a sign,entailment,Два бездомных мужчины с собакой прислонились к стене.
+4958466857,two men sitting on the sidewalk with a dog and a sign,contradiction,Два человека имеют дома.
+4958466857,two men sitting on the sidewalk with a dog and a sign,neutral,Два друга сидят у стены со своими комнатными собаками.
+5716554915,a woman laying on a yoga mat in a yoga room,neutral,Художник отдыхает в своей студии. 
+5716554915,a woman laying on a yoga mat in a yoga room,entailment,В комнате есть человек.
+5716554915,a woman laying on a yoga mat in a yoga room,contradiction,"Женщина спит, в то время как лунный свет струится сквозь окно."
+6073765731,two women working in a laboratory with a sink,neutral,Мать помогает своему ребенку выполнить эксперимент.
+6073765731,two women working in a laboratory with a sink,entailment,Женщина помогает девочке.
+6073765731,two women working in a laboratory with a sink,contradiction,Женщина спит на диване.
+6073765731,two women working in a laboratory with a sink,entailment,Женщина помогает другой женщине с работой.
+6073765731,two women working in a laboratory with a sink,neutral,Две женщины пытаются выполнить заказы от доктора.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,Этот мужчина азиат.
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,Этот мужчина играет.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,Этот мужчина спит дома.
+6935146937,a basketball player slam dunking a ball in a hoop,contradiction,"Человек делает сандвич, в то время как толпа ахает в восхищении."
+6935146937,a basketball player slam dunking a ball in a hoop,entailment,"Толпа смотрит на кого-то, играющего в баскетбол."
+6935146937,a basketball player slam dunking a ball in a hoop,neutral,Знаменитый игрок НБА играет в стритбол перед толпой.
+7206615914,a group of people standing on a stage playing music,entailment,Люди играют на скрипке на сцене.
+7206615914,a group of people standing on a stage playing music,contradiction,"Люди играют на гармонике, стоя на крыше."
+85306246,a man sitting on the ground cutting a cake,entailment,У мужчины есть инструменты.
+85306246,a man sitting on the ground cutting a cake,neutral,Мужчина чинит плотину.
+85306246,a man sitting on the ground cutting a cake,contradiction,Этот мужчина находится в офисном здании.

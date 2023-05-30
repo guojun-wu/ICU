@@ -14,6 +14,10 @@ class Loader(object):
             # only support language in ["ar", "fr", "es", "ru"]
             if self.lang not in ["ar", "fr", "es", "ru"]:
                 raise ValueError("Language not supported")
+            
+            # only support shot in [0, 1, 5, 10, 20, 25, 48, 192]
+            if self.shot not in [0, 1, 5, 10, 20, 25, 48, 192]:
+                raise ValueError("Shot not supported")
 
             model = NLI(self.shot, self.lang)
             if self.shot > 0:

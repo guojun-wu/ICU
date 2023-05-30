@@ -13,7 +13,7 @@ class Evaluater:
         self.labels = df["label"].values
 
 
-    def evaluate(self, predictions):
+    def accuracy(self, predictions):
         y_true = np.array([self.label_dict[str(label)] for label in self.labels])
         y_pred = np.array([self.label_dict[str(label)] for label in predictions])
         accuracy = np.mean(y_true == y_pred).__float__()
