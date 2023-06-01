@@ -1,0 +1,1013 @@
+id;label;generated_caption;original_caption
+zh-0;False;Left: a pair of tickets and a pencil on top of mathematical equations. Right: four yellow pencils on a gray.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一支鉛筆。
+zh-132;True;Left: a basket filled with colored pencils on a table. Right: four yellow pencils on a gray.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一種鉛筆。
+zh-1;False;Left: a woman holding a pencil and reading a book. Right: a person writing in a notebook with a pencil.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一支鉛筆。
+zh-2;True;Left: a pencil case with colored pencils on a table. Right: a plastic box with tools on a desk.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一支鉛筆。
+zh-3;True;Left: a group of colored pencils in a circle. Right: a red.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一支鉛筆。
+zh-135;True;Left: a group of colored pencils and a drawing of. Right: a red.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一種鉛筆。
+zh-4;True;Left: a bedroom with a bed and a wooden wall. Right: a woman sleeping on a bed with a pillow.;左圖中的臥室裡沒有人，右圖則有人在臥室裡。
+zh-139;False;Left: a living room filled with furniture and a large window. Right: a woman sleeping on a bed with a pillow.;左圖的臥室裡有兩個人，右圖的臥室裡則沒有人。
+zh-5;False;Left: two people sitting on a couch reading books. Right: a bedroom with a large bed and a couch and windows.;左圖中的臥室裡沒有人，右圖則有人在臥室裡。
+zh-136;True;Left: a man and a girl sitting on a bed. Right: a bedroom with a large bed and a couch and windows.;左圖的臥室裡有兩個人，右圖的臥室裡則沒有人。
+zh-138;True;Left: two people sitting on a couch reading books. Right: a bedroom with a bed and a wall sticker with three cats on it.;左圖的臥室裡有兩個人，右圖的臥室裡則沒有人。
+zh-6;True;Left: a living room filled with furniture and a large window. Right: a man and a girl sitting on a bed.;左圖中的臥室裡沒有人，右圖則有人在臥室裡。
+zh-7;False;Left: a woman laying in a bed with a star wars poster on the wall. Right: a little girl sitting on a bed with pillows.;左圖中的臥室裡沒有人，右圖則有人在臥室裡。
+zh-137;False;Left: a girl sitting on a couch reading a book. Right: a little girl sitting on a bed with pillows.;左圖的臥室裡有兩個人，右圖的臥室裡則沒有人。
+zh-8;True;Left: a group of children sitting at desks writing chinese characters on paper in a classroom. Right: a young boy standing next to a poster with chinese calligraphy.;兩張圖中都含有書法，但左圖有兩個以上的人，右圖則只有一個。
+zh-142;True;Left: a man is sitting at a table drawing with a pencil. Right: a young boy standing next to a poster with chinese calligraphy.;右圖恰好有一個小孩跟書法，左圖則是一個人在寫書法。
+zh-9;False;Left: two children are writing chinese characters on a table. Right: a piece of art on display in a museum.;兩張圖中都含有書法，但左圖有兩個以上的人，右圖則只有一個。
+zh-10;False;Left: a young boy writing on a table with a pen. Right: a young boy writing chinese calligraphy on a book.;兩張圖中都含有書法，但左圖有兩個以上的人，右圖則只有一個。
+zh-11;True;Left: a young girl sitting at a table in a sushi restaurant with chopsticks. Right: a man walking a bird on a leash.;兩張圖中都含有書法，但左圖有兩個以上的人，右圖則只有一個。
+zh-12;False;Left: two women standing in front of a class of children. Right: a woman standing in front of a blackboard with her hand on a string.;右圖只有黑板沒有人，左圖則有黑板跟人。
+zh-146;False;Left: a group of children in a classroom with a teacher. Right: a woman standing in front of a blackboard with her hand on a string.;一張圖中有黑板但沒有人，另一張圖則有黑板跟人。
+zh-13;True;Left: a little girl is drawing on a chalk board. Right: a bunch of mathematical equations on a chalk board.;右圖只有黑板沒有人，左圖則有黑板跟人。
+zh-14;False;Left: a blackboard with mathematical equations on it in a classroom. Right: a man standing in front of a blackboard talking to a group of people watching.;右圖只有黑板沒有人，左圖則有黑板跟人。
+zh-15;True;Left: a group of people sitting in a classroom watching a presentation. Right: a blackboard with mathematical equations on it.;右圖只有黑板沒有人，左圖則有黑板跟人。
+zh-16;True;Left: the statue of the buddha on top of a building. Right: a man in a red robe sitting at a table praying.;左圖有佛教相關的雕像，右圖則有舉行儀式的人們。
+zh-17;False;Left: a group of monks in yellow and red robes on a red carpet. Right: a large statue of a golden buddha sitting in the middle of a temple.;左圖有佛教相關的雕像，右圖則有舉行儀式的人們。
+zh-18;True;Left: a golden buddha statue sitting on a pile of candles. Right: a group of women in orange robes walking down a sidewalk.;左圖有佛教相關的雕像，右圖則有舉行儀式的人們。
+zh-148;True;Left: a large statue of a golden buddha sitting in the middle of a temple. Right: a group of women in orange robes walking down a sidewalk.;左圖中有一尊佛像，右圖則有一些穿佛教服飾的人們。
+zh-149;True;Left: a golden buddha statue sitting on a pile of candles. Right: religious leadership role celebrated with religious leadership title.;左圖中有一尊佛像，右圖則有一些穿佛教服飾的人們。
+zh-19;False;Left: an image of religious leadership title with his arms crossed. Right: a group of monks walking by the water with an umbrella.;左圖有佛教相關的雕像，右圖則有舉行儀式的人們。
+zh-150;False;Left: a woman in a robe praying with her eyes closed. Right: a group of monks walking by the water with an umbrella.;左圖中有一尊佛像，右圖則有一些穿佛教服飾的人們。
+zh-20;False;Left: a pen and chinese writing on a piece of paper. Right: a brush in a cup of paint.;左圖只有恰好一支毛筆，右圖則有數支毛筆。
+zh-153;True;Left: a pen and chinese writing on a piece of paper. Right: three different types of knives hanging on a wall.;左圖中只有一支毛筆，右圖則有數隻。
+zh-22;True;Left: a person writing chinese characters on a piece of paper with a brush. Right: three different types of knives hanging on a wall.;左圖只有恰好一支毛筆，右圖則有數支毛筆。
+zh-21;True;Left: a close up of the tip of a pen and someeezers. Right: a table with some paint brushes and other tools on it.;左圖只有恰好一支毛筆，右圖則有數支毛筆。
+zh-154;True;Left: a pen and a brush on a paper with chinese symbols. Right: a table with some paint brushes and other tools on it.;左圖中只有一支毛筆，右圖則有數隻。
+zh-23;False;Left: a collection of brooms sitting on a table. Right: a pencil with a drawing on a white table.;左圖只有恰好一支毛筆，右圖則有數支毛筆。
+zh-152;False;Left: a collection of brooms sitting on a table. Right: a pencil with a drawing on a white table.;左圖中只有一支毛筆，右圖則有數隻。
+zh-24;True;Left: a man sitting down playing a violin. Right: a large group of people standing around in a room.;左圖是一位皮影戲師傅，右圖則是皮影戲舞台。
+zh-156;False;Left: a man sitting down playing a violin. Right: the stage of a theater with paintings on the wall.;左圖不是黑白照片，右圖則有看皮影戲的觀眾。
+zh-27;True;Left: a man is looking at a piece of artwork. Right: the stage of a theater with paintings on the wall.;左圖是一位皮影戲師傅，右圖則是皮影戲舞台。
+zh-25;False;Left: a person is painting a drawing of a person with scissors. Right: a man sitting on the floor working on a piece of art.;左圖是一位皮影戲師傅，右圖則是皮影戲舞台。
+zh-159;True;Left: a person is painting a drawing of a person with scissors. Right: two women sitting on a train looking out a window.;左圖不是黑白照片，右圖則有看皮影戲的觀眾。
+zh-26;False;Left: a crowd of people standing around a market at night. Right: two women sitting on a train looking out a window.;左圖是一位皮影戲師傅，右圖則是皮影戲舞台。
+zh-28;False;Left: an old man is working in the field with a hoe. Right: a man holding a shovel in a field.;其中一隻圖有兩個人在農地，另一張圖則有恰好一個人拿鋤頭在工作。
+zh-29;True;Left: two people working in a garden with a shovel. Right: a man is digging in a field with a shovel.;其中一隻圖有兩個人在農地，另一張圖則有恰好一個人拿鋤頭在工作。
+zh-163;False;Left: two people working in a garden with a shovel. Right: two people working in a field of dirt.;兩張圖中都恰好只有一位拿鋤頭的人。
+zh-31;True;Left: a man is using a shovel in a field. Right: two people working in a field of dirt.;其中一隻圖有兩個人在農地，另一張圖則有恰好一個人拿鋤頭在工作。
+zh-30;False;Left: a shovel digging into the ground. Right: a man is shoveling dirt into a hole in the ground.;其中一隻圖有兩個人在農地，另一張圖則有恰好一個人拿鋤頭在工作。
+zh-161;True;Left: a man is digging in a field with a shovel. Right: a man is shoveling dirt into a hole in the ground.;兩張圖中都恰好只有一位拿鋤頭的人。
+zh-162;False;Left: a shovel digging into the ground. Right: an axe and a knife on the ground.;兩張圖中都恰好只有一位拿鋤頭的人。
+zh-160;True;Left: a man is using a shovel in a field. Right: an old man is working in the field with a hoe.;兩張圖中都恰好只有一位拿鋤頭的人。
+zh-32;False;Left: a white house on top of a hill. Right: a white building with a pond in front of it.;左圖有好幾棟白色或淺色的別墅，右圖的別墅不是白色的。
+zh-33;True;Left: a row of white houses on the side of a street. Right: an old house on the corner of a street with tall buildings.;左圖有好幾棟白色或淺色的別墅，右圖的別墅不是白色的。
+zh-34;True;Left: a construction site with a pile of dirt in front of a building. Right: a house with a green wall and a street lamp.;左圖有好幾棟白色或淺色的別墅，右圖的別墅不是白色的。
+zh-35;False;Left: a large red brick mansion with a fountain. Right: a large house with a car parked in front of it.;左圖有好幾棟白色或淺色的別墅，右圖的別墅不是白色的。
+zh-167;False;Left: an old house with a steep roof on a street. Right: a large house with a car parked in front of it.;兩張圖中都含有別墅，但沒有車子或人。
+zh-36;False;Left: a little boy standing outside of a building. Right: an entrance to a temple with red lanterns.;其中一張圖以俯瞰角度呈現四合院，另一張圖則有四合院和綠樹。
+zh-37;False;Left: a street with graffiti on the side of a building. Right: a dog standing in a courtyard in front of a building.;其中一張圖以俯瞰角度呈現四合院，另一張圖則有四合院和綠樹。
+zh-171;False;Left: a street with graffiti on the side of a building. Right: a little boy standing outside of a building.;兩張圖都有四合院的景象，而且其中一張是從上往下的俯瞰圖。
+zh-38;True;Left: two men are walking through a garden. Right: a model of a temple made out of lego.;其中一張圖以俯瞰角度呈現四合院，另一張圖則有四合院和綠樹。
+zh-168;True;Left: an entrance to a temple with red lanterns. Right: a model of a temple made out of lego.;兩張圖都有四合院的景象，而且其中一張是從上往下的俯瞰圖。
+zh-39;True;Left: a model of a building made out of lego. Right: people walking around the temple of 10000 buddhas in beijing.;其中一張圖以俯瞰角度呈現四合院，另一張圖則有四合院和綠樹。
+zh-170;True;Left: a model of a building made out of lego. Right: the front of a building with red and yellow doors.;兩張圖都有四合院的景象，而且其中一張是從上往下的俯瞰圖。
+zh-40;True;Left: a pile of fruit in a market with people in the background. Right: a display of fruit and vegetables in a supermarket.;左圖含有荔枝跟成人，右圖則看的到荔枝跟價位牌。
+zh-175;True;Left: a young boy eating a piece of fruit. Right: a display of fruit and vegetables in a supermarket.;左圖恰好有一個小孩在吃荔枝，右圖則是在賣場販賣荔枝。
+zh-174;False;Left: a pile of fruit in a market with people in the background. Right: a little boy standing next to a box of fruit.;左圖恰好有一個小孩在吃荔枝，右圖則是在賣場販賣荔枝。
+zh-43;False;Left: a little girl sitting at a table with a bowl of strawberries. Right: a little boy standing next to a box of fruit.;左圖含有荔枝跟成人，右圖則看的到荔枝跟價位牌。
+zh-41;True;Left: a woman holding up a bunch of fruit in a market. Right: a display of grapes and other fruit at a market.;左圖含有荔枝跟成人，右圖則看的到荔枝跟價位牌。
+zh-173;False;Left: a woman holding up a bunch of fruit in a market. Right: a display of grapes and other fruit at a market.;左圖恰好有一個小孩在吃荔枝，右圖則是在賣場販賣荔枝。
+zh-42;False;Left: a young boy eating a piece of fruit. Right: a large group of people standing around a pile of tomatoes.;左圖含有荔枝跟成人，右圖則看的到荔枝跟價位牌。
+zh-172;True;Left: a little girl sitting at a table with a bowl of strawberries. Right: people wearing masks buying radishes at a market.;左圖恰好有一個小孩在吃荔枝，右圖則是在賣場販賣荔枝。
+zh-44;True;Left: a box of colored pencils and a box of candies. Right: a man drawing on a blackboard with a drawing of a giraffe.;其中一張圖有好幾種不同顏色的粉筆，另一張圖則是老師在黑板上用粉筆教課。
+zh-45;False;Left: a woman writing on a chalkboard with chinese writing on it. Right: a nail in a window sill next to a yellow bucket.;其中一張圖有好幾種不同顏色的粉筆，另一張圖則是老師在黑板上用粉筆教課。
+zh-177;True;Left: a box of colorful donuts sitting on a table. Right: a nail in a window sill next to a yellow bucket.;兩張圖中都含有粉筆但完全沒有人。
+zh-176;False;Left: a woman writing on a chalkboard with chinese writing on it. Right: a box of colored pencils and a box of candies.;兩張圖中都含有粉筆但完全沒有人。
+zh-46;True;Left: a young man standing in front of a chalkboard with his hand outstretched and. Right: a box of colored pencils and crayons.;其中一張圖有好幾種不同顏色的粉筆，另一張圖則是老師在黑板上用粉筆教課。
+zh-47;False;Left: a blackboard with the word welcome on it next to a rock and a ledge. Right: a young girl is looking at a painting on a wall.;其中一張圖有好幾種不同顏色的粉筆，另一張圖則是老師在黑板上用粉筆教課。
+zh-179;True;Left: a blackboard with the word welcome on it next to a rock and a ledge. Right: a set of colored chalksticks and a box of colored chalk.;兩張圖中都含有粉筆但完全沒有人。
+zh-48;True;Left: a man plowing a field with two horses. Right: an old wooden wagon sitting in the grass.;左圖中有農夫和犁跟牛，右圖則只有犁而已。
+zh-49;True;Left: a man is pulling an ox through a flooded field. Right: an old wood axe on display at a museum.;左圖中有農夫和犁跟牛，右圖則只有犁而已。
+zh-181;True;Left: a man is pulling an ox through a flooded field. Right: a person pulling a cow in a field with a plow.;兩張圖中都恰好只有一個人使用犁牽著一隻牛工作。
+zh-50;False;Left: a brown cow pulling a plow in a field. Right: a man plowing a field with a bull.;左圖中有農夫和犁跟牛，右圖則只有犁而已。
+zh-180;True;Left: a brown cow pulling a plow in a field. Right: a man plowing a field with a bull.;兩張圖中都恰好只有一個人使用犁牽著一隻牛工作。
+zh-51;False;Left: a man plowing a field with two oxen. Right: a man pulling a cow through a flooded field.;左圖中有農夫和犁跟牛，右圖則只有犁而已。
+zh-52;True;Left: a group of people standing around a living room filled with furniture. Right: a group of people sitting in a living room.;兩張圖中的客廳裡都有至少兩個或以上的人們。
+zh-185;True;Left: a living room filled with balloons and a couch. Right: a group of people sitting in a living room.;左圖客廳裡沒有人，右圖則有人在看電視。
+zh-53;False;Left: a group of people sitting in a living room. Right: a woman sitting on a couch with two stuffed animals.;兩張圖中的客廳裡都有至少兩個或以上的人們。
+zh-54;True;Left: a group of people sitting around a coffee table. Right: two people sitting on couches in a living room.;兩張圖中的客廳裡都有至少兩個或以上的人們。
+zh-55;False;Left: a man sitting on a couch in a living room. Right: a woman sitting on a couch watching tv in a living room.;兩張圖中的客廳裡都有至少兩個或以上的人們。
+zh-56;False;Left: two girls are sitting at a table cutting out a heart with scissors. Right: a pair of hands using a pair of scissors to cut out a paper snowflake.;左圖有被懸掛起的剪紙，右圖則有紅色的剪紙。
+zh-189;True;Left: a woman holding up a picture of a girl holding up a picture of a house. Right: a pair of hands using a pair of scissors to cut out a paper snowflake.;左圖有人和剪紙，右圖則含有春字的剪紙。
+zh-190;True;Left: two girls are sitting at a table cutting out a heart with scissors. Right: a red logo on the grass of a soccer field.;左圖有人和剪紙，右圖則含有春字的剪紙。
+zh-58;True;Left: four red knives hanging on a garage door. Right: a red logo on the grass of a soccer field.;左圖有被懸掛起的剪紙，右圖則有紅色的剪紙。
+zh-57;True;Left: a woman holding up a picture of a red propaganda poster. Right: a piece of red paper with a white pattern on it.;左圖有被懸掛起的剪紙，右圖則有紅色的剪紙。
+zh-191;False;Left: four red knives hanging on a garage door. Right: a man is holding a card with a christmas tree and a red and green.;左圖有人和剪紙，右圖則含有春字的剪紙。
+zh-59;False;Left: a woman holding up a picture of a girl holding up a picture of a house. Right: a man is holding a card with a christmas tree and a red and green.;左圖有被懸掛起的剪紙，右圖則有紅色的剪紙。
+zh-60;True;Left: two young boys in chef uniforms preparing cherries in a pot. Right: a collage of different types of cookies and candy.;兩張圖中都有山楂做成的食品，而且左圖中有人。
+zh-61;False;Left: a plate of donuts covered in sugar on a table. Right: two packs of coca cola hot dogs with strawberries.;兩張圖中都有山楂做成的食品，而且左圖中有人。
+zh-194;True;Left: a plate of food and a glass of beer. Right: two packs of coca cola hot dogs with strawberries.;兩張圖都含有山楂相關的食物，但完全沒有人。
+zh-195;True;Left: a plate of donuts covered in sugar on a table. Right: a girl is looking at a plate of food.;兩張圖都含有山楂相關的食物，但完全沒有人。
+zh-62;True;Left: two people eating. Right: two bottles of ketchup on a table with a bowl of fruit.;兩張圖中都有山楂做成的食品，而且左圖中有人。
+zh-192;False;Left: a woman is sorting strawberries in a container. Right: two bottles of ketchup on a table with a bowl of fruit.;兩張圖都含有山楂相關的食物，但完全沒有人。
+zh-63;False;Left: a bunch of hot dogs hanging from a tree. Right: a display of grapes and other fruits at a market.;兩張圖中都有山楂做成的食品，而且左圖中有人。
+zh-193;False;Left: a bunch of hot dogs hanging from a tree. Right: two people eating.;兩張圖都含有山楂相關的食物，但完全沒有人。
+zh-64;True;Left: three red apples on a wooden table with an apple cut in half. Right: two men looking at fruit in a grocery store.;右圖有青綠色的蘋果，左圖則有紅色的蘋果。
+zh-197;False;Left: three red apples on a wooden table with an apple cut in half. Right: a group of people standing around baskets of tomatoes.;兩張圖都含有蘋果，而且右圖裡沒有人。
+zh-65;False;Left: two baskets filled with red and yellow apples. Right: a group of people picking apples in a field.;右圖有青綠色的蘋果，左圖則有紅色的蘋果。
+zh-196;True;Left: two baskets filled with red and yellow apples. Right: a group of red apples hanging from a tree.;兩張圖都含有蘋果，而且右圖裡沒有人。
+zh-66;False;Left: a group of red apples hanging from a tree. Right: a woman holding a basket of apples in a tree.;右圖有青綠色的蘋果，左圖則有紅色的蘋果。
+zh-199;False;Left: two men looking at fruit in a grocery store. Right: a woman holding a basket of apples in a tree.;兩張圖都含有蘋果，而且右圖裡沒有人。
+zh-67;True;Left: a group of people standing around baskets of tomatoes. Right: a baby eating an apple.;右圖有青綠色的蘋果，左圖則有紅色的蘋果。
+zh-68;False;Left: a group of blue pens are stacked on top of each other. Right: a hand holding a black pen on a notebook.;兩張圖中都含有手和原子筆，而且右圖中有在寫字。
+zh-200;True;Left: a group of blue pens are stacked on top of each other. Right: a person writing on a notebook with a pen.;右圖有一隻握著原子筆的手，左圖則只有原子筆而已。
+zh-69;True;Left: a man with a hole in his shirt and a blue tie. Right: a hand holding a blue pen and writing on a piece of paper.;兩張圖中都含有手和原子筆，而且右圖中有在寫字。
+zh-70;False;Left: a variety of pens laying on a marble table. Right: a variety of pens on a white table.;兩張圖中都含有手和原子筆，而且右圖中有在寫字。
+zh-201;False;Left: a hand holding a black pen on a notebook. Right: a variety of pens on a white table.;右圖有一隻握著原子筆的手，左圖則只有原子筆而已。
+zh-71;True;Left: a hand holding three pens on a table. Right: a person writing with a pen on a book.;兩張圖中都含有手和原子筆，而且右圖中有在寫字。
+zh-202;True;Left: a pen sitting on top of a piece of paper. Right: a person writing with a pen on a book.;右圖有一隻握著原子筆的手，左圖則只有原子筆而已。
+zh-72;True;Left: a bowl of fruit sitting on a plate on a table. Right: a smoothie with watermelon and melon slices on a table.;兩張圖中都含有已經被切開的哈密瓜。
+zh-73;False;Left: a man is pointing to a bunch of melons. Right: a person holding a cantaloupe in a greenhouse.;兩張圖中都含有已經被切開的哈密瓜。
+zh-204;True;Left: a man is pointing to a bunch of melons. Right: a bowl of fruit sitting on a plate on a table.;兩張圖中都有完整未被切開的哈密瓜。
+zh-74;True;Left: a person holding a cantaloupe topped with fruit and marshmallows. Right: a swan made out of a piece of fruit.;兩張圖中都含有已經被切開的哈密瓜。
+zh-75;False;Left: a man holding a cantaloupe in a greenhouse. Right: a person cutting a piece of food on a cutting board.;兩張圖中都含有已經被切開的哈密瓜。
+zh-207;True;Left: a man holding a cantaloupe in a greenhouse. Right: a man holding two large lettuces in a greenhouse.;兩張圖中都有完整未被切開的哈密瓜。
+zh-76;True;Left: a man and a woman sitting at a kitchen counter. Right: a dining room with a table and chairs.;左圖中的飯廳恰好有兩個人，右圖的飯廳則沒有人。
+zh-77;True;Left: a man and woman sitting at a kitchen table with a cat. Right: a dining room with a wooden table and chairs.;左圖中的飯廳恰好有兩個人，右圖的飯廳則沒有人。
+zh-78;False;Left: a family is gathered around a dining room table. Right: a dining room with a table and chairs.;左圖中的飯廳恰好有兩個人，右圖的飯廳則沒有人。
+zh-210;True;Left: a dining room with a table and chairs. Right: a dining room with a table and chairs.;兩張圖中的飯廳裡都沒有人。
+zh-208;False;Left: a family is gathered around a dining room table. Right: a man and woman sitting at a kitchen table with a cat.;兩張圖中的飯廳裡都沒有人。
+zh-79;False;Left: a dining room with a red table and chairs. Right: a group of people sitting around a table eating food.;左圖中的飯廳恰好有兩個人，右圖的飯廳則沒有人。
+zh-80;False;Left: a white motel with four doors on the sidewalk. Right: a toilet in a corner of a bathroom.;其中一張圖的廁所外排了很多人，另一張圖則沒有。
+zh-81;True;Left: a cat sitting on top of a toilet in a bathroom. Right: a group of people standing outside of a brick building.;其中一張圖的廁所外排了很多人，另一張圖則沒有。
+zh-82;True;Left: a group of children standing around a bathroom stall. Right: a row of urinals in a public bathroom with a window.;其中一張圖的廁所外排了很多人，另一張圖則沒有。
+zh-83;False;Left: a black and white cat standing on top of a toilet. Right: a woman walking down a hallway next to an orange brick wall.;其中一張圖的廁所外排了很多人，另一張圖則沒有。
+zh-212;False;Left: a black and white cat standing on top of a toilet. Right: a person is plumbing a toilet with a wrench.;兩張圖都是廁所相關的照片，而且右圖中有小孩。
+zh-84;True;Left: a group of people standing at a fruit stand. Right: a gift box with three different kinds of chocolates.;兩張圖中都含有龍眼，而且其中一張圖有人。
+zh-85;True;Left: a yellow racket hanging from a fruit tree. Right: three people standing under a tree with bananas.;兩張圖中都含有龍眼，而且其中一張圖有人。
+zh-218;True;Left: a bowl of cookies and a bowl of fruit on a table. Right: three people standing under a tree with bananas.;兩張圖中都含有龍眼，而且右圖中有人。
+zh-86;False;Left: a basket filled with grapes on top of a blanket. Right: a bowl of food with fruit and nuts and a spoon.;兩張圖中都含有龍眼，而且其中一張圖有人。
+zh-87;False;Left: a hand holding a bunch of nuts on a tree. Right: a bowl of nuts next to a box of nuts.;兩張圖中都含有龍眼，而且其中一張圖有人。
+zh-219;False;Left: a plant with small yellow flowers and green leaves. Right: a bowl of nuts next to a box of nuts.;兩張圖中都含有龍眼，而且右圖中有人。
+zh-88;False;Left: a group of people standing in a church with a priest. Right: a cross on top of a church with the stars in the sky.;兩張圖都是教堂內部的照片。
+zh-222;True;Left: a group of people standing in a church with a priest. Right: a group of people sitting in a church watching a man on a podium.;兩張圖都是基督教教堂內部的照片。
+zh-89;False;Left: the facade of a church with a cross on top of it. Right: a group of people sitting at a convention.;兩張圖都是教堂內部的照片。
+zh-90;True;Left: a group of people sitting in a church watching a man on a podium. Right: a group of people praying in a church.;兩張圖都是教堂內部的照片。
+zh-91;True;Left: a church with rows of benches and a church altar. Right: a group of people sitting in a church.;兩張圖都是教堂內部的照片。
+zh-92;True;Left: a rake laying in the dirt next to a stick. Right: a baseball bat laying on the ground on the sidewalk.;兩張圖中都含有耙，而且完全沒有人或腳的部分。
+zh-224;True;Left: a row of different gardening tools in front of a wall. Right: a baseball bat laying on the ground on the sidewalk.;兩張圖都含有耙，两张图都完全沒有人。
+zh-93;False;Left: a person standing in a pile of leaves with a rake. Right: a person wearing green shoes and a rake.;兩張圖中都含有耙，而且完全沒有人或腳的部分。
+zh-94;True;Left: a rake is laying in the grass next to a pile of dirt. Right: a pair of nails and a rake on the grass.;兩張圖中都含有耙，而且完全沒有人或腳的部分。
+zh-225;False;Left: a rake is laying in the grass next to a pile of dirt. Right: a man pulling a rope in the sand on the beach.;兩張圖都含有耙，两张图都完全沒有人。
+zh-95;False;Left: a group of people digging in the sand on the beach. Right: a tractor is laying down in a field.;兩張圖中都含有耙，而且完全沒有人或腳的部分。
+zh-226;False;Left: a group of people digging in the sand on the beach. Right: a tractor is laying down in a field.;兩張圖都含有耙，两张图都完全沒有人。
+zh-96;False;Left: a man working in a field of hay with a pitchfork. Right: a man standing in a field with a tool in his hand.;兩張圖中都至少有一把鐮刀，其中一张图的镰刀被放在背包上或草地上。
+zh-97;False;Left: a man is carrying a stick and a shovel. Right: a hammer and a sickle on a wooden table.;兩張圖中都至少有一把鐮刀，其中一张图的镰刀被放在背包上或草地上。
+zh-98;True;Left: a display of different types of weapons on display. Right: a sickle shaped weapon laying in the grass.;兩張圖中都至少有一把鐮刀，其中一张图的镰刀被放在背包上或草地上。
+zh-99;True;Left: a hand holding a rusty hammer with a building in the background stock images. Right: a baseball bat sitting on top of a car.;兩張圖中都至少有一把鐮刀，其中一张图的镰刀被放在背包上或草地上。
+zh-100;True;Left: a group of people standing in a group of statues. Right: a group of statues of people standing next to an elephant.;左圖有兵馬俑和人，右圖則只有兵馬俑。
+zh-232;True;Left: a group of people standing in a group of statues. Right: a collection of terracotta soldiers in a museum.;兩張圖中都有兵馬俑，而且左圖里有真人。
+zh-101;False;Left: a statue of a man and a horse in a museum. Right: a group of horses on display in a museum.;左圖有兵馬俑和人，右圖則只有兵馬俑。
+zh-235;False;Left: a statue of a man and a horse in a museum. Right: a horse drawn carriage on a stage in front of a projected image of a statue.;兩張圖中都有兵馬俑，而且左圖里有真人。
+zh-102;False;Left: an image of a group of statues in an archaeological museum. Right: a group of people standing next to a statue of a horse.;左圖有兵馬俑和人，右圖則只有兵馬俑。
+zh-103;True;Left: a group of men standing around a clay statue. Right: a group of statues on a rock formation.;左圖有兵馬俑和人，右圖則只有兵馬俑。
+zh-233;False;Left: a large building with a herd of sheep in it. Right: a group of statues on a rock formation.;兩張圖中都有兵馬俑，而且左圖里有真人。
+zh-104;True;Left: a house on top of a pile of sand. Right: an old town by the river in a city.;兩張圖中均含有吊腳樓，而且右圖還有船隻行駛在水上或遮阳伞插在吊脚楼上。
+zh-236;False;Left: a house on top of a pile of sand. Right: a boat in a river in an old town.;兩張圖中都有吊腳樓，而且左圖含有紅色的燈籠吊飾。
+zh-105;False;Left: a row of houses on stilts next to a river. Right: a row of dilapidated houses on the side of a river.;兩張圖中均含有吊腳樓，而且右圖還有船隻行駛在水上或遮阳伞插在吊脚楼上。
+zh-238;False;Left: a row of houses on stilts next to a river. Right: a row of dilapidated houses on the side of a river.;兩張圖中都有吊腳樓，而且左圖含有紅色的燈籠吊飾。
+zh-106;True;Left: an old building with stairs and red lanterns. Right: a river with boats in it in a town.;兩張圖中均含有吊腳樓，而且右圖還有船隻行駛在水上或遮阳伞插在吊脚楼上。
+zh-239;True;Left: an old building with stairs and red lanterns. Right: a group of buildings on the side of a river.;兩張圖中都有吊腳樓，而且左圖含有紅色的燈籠吊飾。
+zh-107;False;Left: people walking down a street in an old town. Right: a group of buildings on the side of a river.;兩張圖中均含有吊腳樓，而且右圖還有船隻行駛在水上或遮阳伞插在吊脚楼上。
+zh-108;False;Left: a crowd of people sitting in an auditorium looking at a stage. Right: a group of men and women in costumes riding horses.;其中一張圖有恰好兩位京劇演員，另一張圖則有至少四位演員。
+zh-109;True;Left: two women in theatrical costumes on a stage. Right: a group of people on a stage in a performance.;其中一張圖有恰好兩位京劇演員，另一張圖則有至少四位演員。
+zh-242;False;Left: two women in theatrical costumes on a stage. Right: a crowd of people sitting in an auditorium looking at a stage.;左圖恰好有兩位京劇演員，右圖則有至少五位。
+zh-110;True;Left: a group of people in costumes on a stage. Right: a painting of two men standing next to each other.;其中一張圖有恰好兩位京劇演員，另一張圖則有至少四位演員。
+zh-111;False;Left: a group of people on a stage in a performance. Right: a performer in a white and blue costume on a stage.;其中一張圖有恰好兩位京劇演員，另一張圖則有至少四位演員。
+zh-112;False;Left: a person standing with baskets full of vegetables. Right: a woman carrying baskets on her back on a street.;两张图中的扁担都在使用中，货物被挑起悬在空中。
+zh-244;False;Left: a person standing with baskets full of vegetables. Right: a woman carrying baskets on her back on a street.;右圖恰好只有一位揹著担杖的人，左圖裡有好幾個人跟担杖。
+zh-113;False;Left: a group of people in a field with a plane. Right: a group of men sitting on steps with poles.;两张图中的扁担都在使用中，货物被挑起悬在空中。
+zh-114;True;Left: a man walking with baskets on his shoulders. Right: a person walking down the street with baskets of vegetables.;两张图中的扁担都在使用中，货物被挑起悬在空中。
+zh-115;True;Left: a woman walking through the woods with a stick on her shoulders. Right: a man walking down a path with a bunch of belongings.;两张图中的扁担都在使用中，货物被挑起悬在空中。
+zh-116;False;Left: the altar of the temple of 10000 buddhas with red lanterns. Right: a picture of a yin and yang symbol on a green and yellow frame.;兩張圖片都有穿著道教相關服飾或道具的人。
+zh-117;True;Left: a group of women in yellow uniforms standing in a line. Right: a man in a red robe and a priest looking at a table.;兩張圖片都有穿著道教相關服飾或道具的人。
+zh-118;False;Left: a large statue of a buddha sitting on the steps of a temple. Right: a group of people standing around a table with red umbrellas.;兩張圖片都有穿著道教相關服飾或道具的人。
+zh-119;True;Left: a group of men standing around a table in a market. Right: a man standing in front of a table with food on it.;兩張圖片都有穿著道教相關服飾或道具的人。
+zh-120;True;Left: an aerial view of a large circular building with umbrellas. Right: a village in the mountains with two nuclear reactors.;兩張照片裡都有福建土樓，而且左圖的是圓形屋頂。
+zh-121;True;Left: an aerial view of a group of concrete structures in a valley. Right: a wooden house with a roof and a view of a city.;兩張照片裡都有福建土樓，而且左圖的是圓形屋頂。
+zh-122;False;Left: an aerial view of the roof of a wooden building. Right: a man is standing in a tower in a brick building.;兩張照片裡都有福建土樓，而且左圖的是圓形屋頂。
+zh-254;True;Left: a view of an oriental building from the inside. Right: a man is standing in a tower in a brick building.;兩張圖中都含有福建土樓，而且其中一張恰好只有一座圓頂的福建土樓。
+zh-123;False;Left: an aerial view of a building in a rural village. Right: an old round building with a round roof and a stone courtyard.;兩張照片裡都有福建土樓，而且左圖的是圓形屋頂。
+zh-124;False;Left: a family in a kitchen preparing food with a little girl. Right: a man holding a cucumber in a kitchen with vegetables.;左圖中的廚房裡沒有人，右圖的廚房則有人。
+zh-259;True;Left: a family in a kitchen preparing food with a little girl. Right: a kitchen with three bar stools.;左圖的廚房中有幾個人，右圖的廚房沒有人。
+zh-125;False;Left: a woman standing in front of a counter with food on it. Right: two men preparing food in a restaurant kitchen.;左圖中的廚房裡沒有人，右圖的廚房則有人。
+zh-256;False;Left: a woman standing in front of a counter with food on it. Right: two men preparing food in a restaurant kitchen.;左圖的廚房中有幾個人，右圖的廚房沒有人。
+zh-126;True;Left: a pullout shelf in a kitchen with food and spices. Right: a woman in the kitchen preparing food in a bowl.;左圖中的廚房裡沒有人，右圖的廚房則有人。
+zh-127;True;Left: a kitchen with three bar stools. Right: a group of chefs preparing food in a kitchen.;左圖中的廚房裡沒有人，右圖的廚房則有人。
+zh-128;True;Left: a pagoda in the center of a temple. Right: a red pagoda with people standing under it.;兩張圖中都恰好只有一座明顯的亭，而且左圖亭上有紅色的牌匾。
+zh-263;True;Left: a gazebo on a wooden deck near the ocean. Right: a red pagoda with people standing under it.;其中一張圖中恰好只有一座带紅色的亭，另一張圖則有至少兩座亭。
+zh-262;True;Left: a pagoda in the center of a temple. Right: two pagodas on the water in a park.;其中一張圖中恰好只有一座带紅色的亭，另一張圖則有至少兩座亭。
+zh-129;False;Left: two pagodas on the water in a park. Right: a pagoda in front of a tree in a park.;兩張圖中都恰好只有一座明顯的亭，而且左圖亭上有紅色的牌匾。
+zh-130;False;Left: a person standing in front of a pagoda. Right: a pagoda in a park with stairs.;兩張圖中都恰好只有一座明顯的亭，而且左圖亭上有紅色的牌匾。
+zh-261;False;Left: a pagoda in front of a tree in a park. Right: a pagoda in a park with stairs.;其中一張圖中恰好只有一座带紅色的亭，另一張圖則有至少兩座亭。
+zh-260;False;Left: a person standing in front of a pagoda. Right: a pagoda with a view of a lake and trees.;其中一張圖中恰好只有一座带紅色的亭，另一張圖則有至少兩座亭。
+zh-131;True;Left: people are standing around a pagoda in a park. Right: a pagoda with a view of a lake and trees.;兩張圖中都恰好只有一座明顯的亭，而且左圖亭上有紅色的牌匾。
+zh-133;False;Left: a plastic box with tools on a desk. Right: a young boy sitting at a table writing on a piece of paper with a pen.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一種鉛筆。
+zh-134;False;Left: a person writing in a notebook with a pencil. Right: a pair of tickets and a pencil on top of mathematical equations.;左圖有好幾隻不同顏色的鉛筆，右圖則只有一種鉛筆。
+zh-140;False;Left: a group of. Right: a child writing in chinese calligraphy on a tile.;右圖恰好有一個小孩跟書法，左圖則是一個人在寫書法。
+zh-141;True;Left: a person is drawing a piece of paper with a brush. Right: a young boy writing on a table with a pen.;右圖恰好有一個小孩跟書法，左圖則是一個人在寫書法。
+zh-143;False;Left: a man walking a bird on a leash. Right: a group of children sitting at desks writing chinese characters on paper in a classroom.;右圖恰好有一個小孩跟書法，左圖則是一個人在寫書法。
+zh-144;True;Left: a sign in a foreign language on the side of a building. Right: a group of students standing around a teacher in a classroom.;一張圖中有黑板但沒有人，另一張圖則有黑板跟人。
+zh-145;True;Left: a man standing in front of a blackboard talking to a group of people watching. Right: a blackboard with mathematical equations on it in a classroom.;一張圖中有黑板但沒有人，另一張圖則有黑板跟人。
+zh-147;False;Left: a blackboard with mathematical equations on it. Right: the blackboard of a classroom with equations on it.;一張圖中有黑板但沒有人，另一張圖則有黑板跟人。
+zh-151;False;Left: a man in a red robe sitting at a table praying. Right: the statue of the buddha on top of a building.;左圖中有一尊佛像，右圖則有一些穿佛教服飾的人們。
+zh-155;False;Left: a brush in a cup of paint. Right: a person writing chinese characters on a piece of paper with a brush.;左圖中只有一支毛筆，右圖則有數隻。
+zh-157;True;Left: a large group of people standing around in a room. Right: a crowd of people standing around a market at night.;左圖不是黑白照片，右圖則有看皮影戲的觀眾。
+zh-158;False;Left: a man sitting on the floor working on a piece of art. Right: a man is looking at a piece of artwork.;左圖不是黑白照片，右圖則有看皮影戲的觀眾。
+zh-164;True;Left: a white building with a pond in front of it. Right: a view of a mountain with buildings and trees.;兩張圖中都含有別墅，但沒有車子或人。
+zh-165;False;Left: a group of people standing outside of a building. Right: a large red brick mansion with a fountain.;兩張圖中都含有別墅，但沒有車子或人。
+zh-166;True;Left: a house with a green wall and a street lamp. Right: a white house on top of a hill.;兩張圖中都含有別墅，但沒有車子或人。
+zh-169;False;Left: a dog standing in a courtyard in front of a building. Right: a woman is standing in a courtyard.;兩張圖都有四合院的景象，而且其中一張是從上往下的俯瞰圖。
+zh-178;False;Left: a young girl is looking at a painting on a wall. Right: a young man standing in front of a chalkboard with his hand outstretched and.;兩張圖中都含有粉筆但完全沒有人。
+zh-182;False;Left: a man on a tractor in a field. Right: a man plowing a field with two horses.;兩張圖中都恰好只有一個人使用犁牽著一隻牛工作。
+zh-183;False;Left: a man pulling a cow through a flooded field. Right: a man plowing a field with two oxen.;兩張圖中都恰好只有一個人使用犁牽著一隻牛工作。
+zh-184;False;Left: a family is sitting on the floor with a pillow. Right: a group of people sitting in a living room.;左圖客廳裡沒有人，右圖則有人在看電視。
+zh-186;True;Left: a living room with a tv and bags on the floor. Right: a young girl sitting on the floor watching television.;左圖客廳裡沒有人，右圖則有人在看電視。
+zh-187;False;Left: two people sitting on couches in a living room. Right: a group of people standing around a living room filled with furniture.;左圖客廳裡沒有人，右圖則有人在看電視。
+zh-188;False;Left: a person is cutting a piece of red paper with scissors. Right: a young boy cutting paper with scissors on a table.;左圖有人和剪紙，右圖則含有春字的剪紙。
+zh-198;True;Left: a baby eating an apple. Right: a bowl of sliced apples with honey being poured on top.;兩張圖都含有蘋果，而且右圖裡沒有人。
+zh-203;False;Left: a selection of pens arranged in a row on a wooden table. Right: a pen writing on a piece of paper.;右圖有一隻握著原子筆的手，左圖則只有原子筆而已。
+zh-205;False;Left: a smoothie with watermelon and melon slices on a table. Right: a pile of fruit sitting on the side of the street.;兩張圖中都有完整未被切開的哈密瓜。
+zh-206;False;Left: a person cutting a piece of food on a cutting board. Right: a person cutting into an avocado with a spoon.;兩張圖中都有完整未被切開的哈密瓜。
+zh-209;True;Left: a dining table with a view of a city at night. Right: a dining room with a red table and chairs.;兩張圖中的飯廳裡都沒有人。
+zh-211;False;Left: a dining room with a wooden table and chairs. Right: a man and a woman sitting at a table.;兩張圖中的飯廳裡都沒有人。
+zh-213;False;Left: a bathroom with a toilet a sink and a shower. Right: a row of yellow toilet stalls in a public bathroom.;兩張圖都是廁所相關的照片，而且右圖中有小孩。
+zh-214;True;Left: a group of people standing outside of a brick building. Right: a group of children standing around a bathroom stall.;兩張圖都是廁所相關的照片，而且右圖中有小孩。
+zh-215;True;Left: a person is holding a toilet paper dispenser with a plant on top of it. Right: a woman and a child in a bathroom with sinks and urinals.;兩張圖都是廁所相關的照片，而且右圖中有小孩。
+zh-216;False;Left: a bowl of food with fruit and nuts and a spoon. Right: a basket filled with grapes on top of a blanket.;兩張圖中都含有龍眼，而且右圖中有人。
+zh-217;True;Left: a person is holding a basket of fruit. Right: a group of people standing at a fruit stand.;兩張圖中都含有龍眼，而且右圖中有人。
+zh-220;False;Left: a cross on top of a church with the stars in the sky. Right: the front of a building with chinese writing on it.;兩張圖都是基督教教堂內部的照片。
+zh-221;True;Left: a church with a cross on the wall and a crowd of people sitting in church. Right: a church with rows of benches and a church altar.;兩張圖都是基督教教堂內部的照片。
+zh-223;False;Left: a group of people praying in a church. Right: the facade of a church with a cross on top of it.;兩張圖都是基督教教堂內部的照片。
+zh-227;True;Left: a pair of nails and a rake on the grass. Right: a bunch of shovels and other tools in a wall.;兩張圖都含有耙，两张图都完全沒有人。
+zh-228;False;Left: a baseball bat sitting on top of a car. Right: a hand holding a rusty hammer with a building in the background stock images.;右圖恰好有一個人拿著鐮刀，左圖則有鐮刀但看不见完整的人。
+zh-229;False;Left: a man standing in a field with a tool in his hand. Right: an old man cutting rice in a field.;右圖恰好有一個人拿著鐮刀，左圖則有鐮刀但看不见完整的人。
+zh-230;True;Left: a hammer and a sickle on a wooden table. Right: a man working in a field of hay with a pitchfork.;右圖恰好有一個人拿著鐮刀，左圖則有鐮刀但看不见完整的人。
+zh-231;True;Left: a person is holding a hammer and a sickle. Right: a man holding a blade in a field.;右圖恰好有一個人拿著鐮刀，左圖則有鐮刀但看不见完整的人。
+zh-234;True;Left: a woman holding a baby next to a statue. Right: a group of men standing around a clay statue.;兩張圖中都有兵馬俑，而且左圖里有真人。
+zh-237;True;Left: an old building with wooden doors and red lanterns. Right: people sitting on steps outside of a building.;兩張圖中都有吊腳樓，而且左圖含有紅色的燈籠吊飾。
+zh-240;False;Left: a group of men and women in costumes riding horses. Right: a group of people in costumes on a stage.;左圖恰好有兩位京劇演員，右圖則有至少五位。
+zh-241;True;Left: a painting of two men standing next to each other. Right: a group of people in costumes on a stage.;左圖恰好有兩位京劇演員，右圖則有至少五位。
+zh-243;True;Left: two women in oriental costumes standing at a table. Right: a group of people in costumes on a stage.;左圖恰好有兩位京劇演員，右圖則有至少五位。
+zh-245;True;Left: a group of people walking down a path with a bridge. Right: a man walking with baskets on his shoulders.;右圖恰好只有一位揹著担杖的人，左圖裡有好幾個人跟担杖。
+zh-246;True;Left: a group of men sitting on steps with poles. Right: a woman walking through the woods with a stick on her shoulders.;右圖恰好只有一位揹著担杖的人，左圖裡有好幾個人跟担杖。
+zh-247;False;Left: a man is pulling a cart with a bird cage. Right: a man walking down a path with a stick and bags.;右圖恰好只有一位揹著担杖的人，左圖裡有好幾個人跟担杖。
+zh-248;False;Left: a group of people standing in front of a temple. Right: people sitting on benches around a circle of rocks on the ground.;兩張圖中都有穿道教服飾的人們，而且右圖人穿的是紅色的服飾。
+zh-249;False;Left: a man standing in front of a table with food on it. Right: a group of women in yellow uniforms standing in a line.;兩張圖中都有穿道教服飾的人們，而且右圖人穿的是紅色的服飾。
+zh-250;True;Left: a group of people are standing in a market. Right: a group of people in robes walking down a street.;兩張圖中都有穿道教服飾的人們，而且右圖人穿的是紅色的服飾。
+zh-251;True;Left: a man sitting on a stool talking to a woman on the street. Right: a man in a red shirt is preparing food on a table.;兩張圖中都有穿道教服飾的人們，而且右圖人穿的是紅色的服飾。
+zh-252;False;Left: an aerial view of three circular buildings in a field. Right: an aerial view of a large circular building in a city.;兩張圖中都含有福建土樓，而且其中一張恰好只有一座圓頂的福建土樓。
+zh-253;False;Left: a village in the mountains with two nuclear reactors. Right: an aerial view of a building in a rural village.;兩張圖中都含有福建土樓，而且其中一張恰好只有一座圓頂的福建土樓。
+zh-255;True;Left: a group of buildings in the middle of a forest. Right: an aerial view of a large circular building with umbrellas.;兩張圖中都含有福建土樓，而且其中一張恰好只有一座圓頂的福建土樓。
+zh-257;True;Left: a group of chefs preparing food in a kitchen. Right: a pullout shelf in a kitchen with food and spices.;左圖的廚房中有幾個人，右圖的廚房沒有人。
+zh-258;False;Left: a woman in the kitchen preparing food in a bowl. Right: a woman in a kitchen preparing food on a stove.;左圖的廚房中有幾個人，右圖的廚房沒有人。
+zh-264;True;Left: a piano with a sheet music on a table. Right: a woman in a red shirt is playing a musical instrument.;其中一張圖有一個人在彈古箏，另外一張圖則至少有一台古箏，但沒有人在彈。
+zh-800;False;Left: a piano with a sheet music on a table. Right: a woman in a red shirt is playing a musical instrument.;左边的图片是单独一个古筝右边的图片是琴行里卖的古筝。
+zh-308;False;Left: a red piano keyboard sitting on top of a table. Right: a woman in a red shirt is playing a musical instrument.;左圖中恰好有一位女人彈古箏，右圖中則有一些古箏但沒有人。
+zh-311;False;Left: a piano with a sheet music on a table. Right: two young girls playing a xylophone in a classroom.;左圖中恰好有一位女人彈古箏，右圖中則有一些古箏但沒有人。
+zh-265;False;Left: a group of women sitting on a stage playing instruments. Right: two young girls playing a xylophone in a classroom.;其中一張圖有一個人在彈古箏，另外一張圖則至少有一台古箏，但沒有人在彈。
+zh-801;False;Left: a group of women sitting on a stage playing instruments. Right: two young girls playing a xylophone in a classroom.;左边的图片是单独一个古筝右边的图片是琴行里卖的古筝。
+zh-553;True;Left: a group of women sitting on a stage playing instruments. Right: a display case of cigars and other tobacco products in a store.;左圖中有至少一人在彈古箏，右圖則沒有人。
+zh-310;True;Left: a woman playing a red keyboard on a. Right: a display case of cigars and other tobacco products in a store.;左圖中恰好有一位女人彈古箏，右圖中則有一些古箏但沒有人。
+zh-267;False;Left: a red piano keyboard sitting on top of a table. Right: a display case of cigars and other tobacco products in a store.;其中一張圖有一個人在彈古箏，另外一張圖則至少有一台古箏，但沒有人在彈。
+zh-803;True;Left: a red piano keyboard sitting on top of a table. Right: a display case of cigars and other tobacco products in a store.;左边的图片是单独一个古筝右边的图片是琴行里卖的古筝。
+zh-266;True;Left: a woman playing a red keyboard on a. Right: an old typewriter display in a shopping mall.;其中一張圖有一個人在彈古箏，另外一張圖則至少有一台古箏，但沒有人在彈。
+zh-802;True;Left: a woman playing a red keyboard on a. Right: an old typewriter display in a shopping mall.;左边的图片是单独一个古筝右边的图片是琴行里卖的古筝。
+zh-554;False;Left: a red piano keyboard sitting on top of a table. Right: an old typewriter display in a shopping mall.;左圖中有至少一人在彈古箏，右圖則沒有人。
+zh-309;True;Left: a woman playing a keyboard on a stage. Right: an old typewriter display in a shopping mall.;左圖中恰好有一位女人彈古箏，右圖中則有一些古箏但沒有人。
+zh-555;False;Left: a woman playing a red keyboard on a. Right: a woman sitting on the ground playing a keyboard.;左圖中有至少一人在彈古箏，右圖則沒有人。
+zh-268;True;Left: a pair of scissors sitting on top of a white table. Right: a man is cutting his hair with a pair of scissors.;一張圖中有一隻手拿著剪刀，另一張圖則沒有。
+zh-804;False;Left: a pair of scissors sitting on top of a white table. Right: a man is cutting his hair with a pair of scissors.;右图中的剪刀正在被使用。
+zh-559;False;Left: a pair of scissors sitting on top of a white table. Right: a pair of scissors on a white background.;一張圖中的剪刀還未被拆封，另一張圖的則已經被拆封了。
+zh-269;True;Left: a set of three pairs of scissors sitting on a table. Right: a hand holding a pair of black scissors.;一張圖中有一隻手拿著剪刀，另一張圖則沒有。
+zh-805;False;Left: a set of three pairs of scissors sitting on a table. Right: a hand holding a pair of black scissors.;右图中的剪刀正在被使用。
+zh-312;True;Left: a pair of scissors sitting on top of a bag. Right: a hand holding a pair of black scissors.;其中一張圖中可以看到一隻手握著剪刀，另一張圖則只有剪刀沒有手。
+zh-558;True;Left: a set of three pairs of scissors sitting on a table. Right: a pair of scissors sitting on top of a wooden table.;一張圖中的剪刀還未被拆封，另一張圖的則已經被拆封了。
+zh-313;False;Left: a pair of scissors sitting on a table next to some snow flakes. Right: a pair of scissors sitting on top of a wooden table.;其中一張圖中可以看到一隻手握著剪刀，另一張圖則只有剪刀沒有手。
+zh-270;False;Left: a pair of scissors sitting on top of a bag. Right: a pair of scissors and glue on a piece of paper.;一張圖中有一隻手拿著剪刀，另一張圖則沒有。
+zh-806;True;Left: a pair of scissors sitting on top of a bag. Right: a pair of scissors and glue on a piece of paper.;右图中的剪刀正在被使用。
+zh-315;False;Left: a pair of scissors on a white background. Right: a pair of scissors and glue on a piece of paper.;其中一張圖中可以看到一隻手握著剪刀，另一張圖則只有剪刀沒有手。
+zh-557;False;Left: a hand holding a pair of black scissors. Right: a pair of scissors and glue on a piece of paper.;一張圖中的剪刀還未被拆封，另一張圖的則已經被拆封了。
+zh-556;True;Left: a pair of scissors sitting on top of a bag. Right: a pair of pink scissors in a package on a table.;一張圖中的剪刀還未被拆封，另一張圖的則已經被拆封了。
+zh-271;False;Left: a pair of scissors next to a ball of yarn. Right: a pair of rusty scissors sitting on a.;一張圖中有一隻手拿著剪刀，另一張圖則沒有。
+zh-807;True;Left: a pair of scissors next to a ball of yarn. Right: a pair of rusty scissors sitting on a.;右图中的剪刀正在被使用。
+zh-314;True;Left: a man is cutting his hair with a pair of scissors. Right: a pair of rusty scissors sitting on a.;其中一張圖中可以看到一隻手握著剪刀，另一張圖則只有剪刀沒有手。
+zh-272;False;Left: a table with a pot of food on it. Right: a table with a pot of food and plates of food on it.;其中一張圖有著大湯勺在盛東西或放在湯裡，另一張圖則沒有。
+zh-808;True;Left: a table with a pot of food on it. Right: a table with a pot of food and plates of food on it.;至少有一口锅是鸳鸯锅。
+zh-562;False;Left: a table with a pot of food on it. Right: a pot of soup next to a bunch of glass jars.;一張圖中的生肉片佔了很大的面積，另一張圖則沒有明顯的生肉片。
+zh-273;False;Left: a person cooking food in a pan on a stove. Right: a tray of food on a table with a tea pot.;其中一張圖有著大湯勺在盛東西或放在湯裡，另一張圖則沒有。
+zh-809;True;Left: a person cooking food in a pan on a stove. Right: a tray of food on a table with a tea pot.;至少有一口锅是鸳鸯锅。
+zh-563;True;Left: a buffet of meats and other food on a table. Right: a tray of food on a table with a tea pot.;一張圖中的生肉片佔了很大的面積，另一張圖則沒有明顯的生肉片。
+zh-274;True;Left: a pot of soup next to a bunch of glass jars. Right: a pan of food on a table with.;其中一張圖有著大湯勺在盛東西或放在湯裡，另一張圖則沒有。
+zh-810;False;Left: a pot of soup next to a bunch of glass jars. Right: a pan of food on a table with.;至少有一口锅是鸳鸯锅。
+zh-275;True;Left: a pan of soup with meat and greens in it. Right: a table topped with bowls of food and eggs.;其中一張圖有著大湯勺在盛東西或放在湯裡，另一張圖則沒有。
+zh-811;False;Left: a pan of soup with meat and greens in it. Right: a table topped with bowls of food and eggs.;至少有一口锅是鸳鸯锅。
+zh-316;True;Left: a large pot of food on a table. Right: a table topped with bowls of food and eggs.;两图中至少有一张图里面是一口鴛鴦鍋。
+zh-276;False;Left: a black and white bird flying in the grass. Right: a black and white bird standing on the ground.;兩張圖中都各有一或兩隻烏鴉收起翅膀，並沒有張開翅膀或在飛。
+zh-812;False;Left: a black and white bird flying in the grass. Right: a black and white bird standing on the ground.;两张图片的乌鸦都在站立。
+zh-277;True;Left: a bird perched on a metal bird feeder. Right: a black bird standing next to a trash can.;兩張圖中都各有一或兩隻烏鴉收起翅膀，並沒有張開翅膀或在飛。
+zh-813;True;Left: a bird perched on a metal bird feeder. Right: a black bird standing next to a trash can.;两张图片的乌鸦都在站立。
+zh-278;False;Left: a close up of a bird with its beak open. Right: a large black bird with its wings spread over a baby crow.;兩張圖中都各有一或兩隻烏鴉收起翅膀，並沒有張開翅膀或在飛。
+zh-814;False;Left: a close up of a bird with its beak open. Right: a large black bird with its wings spread over a baby crow.;两张图片的乌鸦都在站立。
+zh-279;True;Left: two black birds perched on a wooden fence. Right: a black bird standing on the ground with its mouth open.;兩張圖中都各有一或兩隻烏鴉收起翅膀，並沒有張開翅膀或在飛。
+zh-815;True;Left: two black birds perched on a wooden fence. Right: a black bird standing on the ground with its mouth open.;两张图片的乌鸦都在站立。
+zh-321;True;Left: two black birds perched on a wooden fence. Right: a group of black birds eating from a bowl on the grass.;右圖有五隻的烏鴉，左圖則是兩隻而已。
+zh-566;True;Left: two black birds perched on a wooden fence. Right: a group of black birds eating from a bowl on the grass.;兩張圖中的烏鴉都沒有張開翅膀飛翔，而且其中一張圖至少有五隻烏鴉。
+zh-280;False;Left: a plate of fried rice with vegetables on a table. Right: a bowl of rice with a tomato in it on a table.;一張圖中的米飯有不同的配菜，另一張則只有簡單的調味料或完全沒有。
+zh-816;False;Left: a plate of fried rice with vegetables on a table. Right: a bowl of rice with a tomato in it on a table.;两张图片里其中一张米饭是在叶子和蔬菜上面的。
+zh-570;True;Left: a plate of fried rice with vegetables on a table. Right: a bowl of food on a wooden table.;左圖中有炒飯，右圖則沒有炒飯或類似的料理。
+zh-325;False;Left: a bowl of rice with sesame seeds on a table. Right: a bowl of food on a wooden table.;其中一張圖中的白飯放在盤子上並沒有配菜，另一張圖的飯則有配菜和青菜。
+zh-281;True;Left: a plate of food with rice and chicken and vegetables on it. Right: a bowl of rice and a bowl of soup on a table.;一張圖中的米飯有不同的配菜，另一張則只有簡單的調味料或完全沒有。
+zh-817;True;Left: a plate of food with rice and chicken and vegetables on it. Right: a bowl of rice and a bowl of soup on a table.;两张图片里其中一张米饭是在叶子和蔬菜上面的。
+zh-282;True;Left: pinch of rice in a bowl of water. Right: a plate of rice and meat and vegetables on a table.;一張圖中的米飯有不同的配菜，另一張則只有簡單的調味料或完全沒有。
+zh-818;False;Left: pinch of rice in a bowl of water. Right: a plate of rice and meat and vegetables on a table.;两张图片里其中一张米饭是在叶子和蔬菜上面的。
+zh-568;False;Left: a plate of rice and other food on a banana leaf. Right: a plate of rice and meat and vegetables on a table.;左圖中有炒飯，右圖則沒有炒飯或類似的料理。
+zh-283;False;Left: a bowl of fried rice with shrimp and vegetables. Right: a plate of rice and other food on a banana leaf.;一張圖中的米飯有不同的配菜，另一張則只有簡單的調味料或完全沒有。
+zh-819;True;Left: a bowl of fried rice with shrimp and vegetables. Right: a plate of rice and other food on a banana leaf.;两张图片里其中一张米饭是在叶子和蔬菜上面的。
+zh-284;False;Left: a forest of tall trees with a cloudy sky. Right: a close up of a leaf on a tree.;左圖的白樺樹看不到明顯的綠葉，右圖的白樺樹則有較明顯的綠葉。
+zh-330;False;Left: a tall tree in the woods with trees. Right: a close up of a leaf on a tree.;兩張圖中都是以白樺樹的樹幹為重點，而不是樹葉。
+zh-328;False;Left: a forest of tall trees with a cloudy sky. Right: a stack of sticks with white and brown wood.;兩張圖中都是以白樺樹的樹幹為重點，而不是樹葉。
+zh-572;False;Left: a forest of tall trees with a cloudy sky. Right: a forest of birch trees on a green hill.;一張圖中的白樺樹明顯地被鋸斷，另一張則沒有。
+zh-287;True;Left: a stack of sticks with white and brown wood. Right: a forest of birch trees on a green hill.;左圖的白樺樹看不到明顯的綠葉，右圖的白樺樹則有較明顯的綠葉。
+zh-285;True;Left: a group of birch trees in the woods. Right: a group of birch trees in a forest.;左圖的白樺樹看不到明顯的綠葉，右圖的白樺樹則有較明顯的綠葉。
+zh-329;True;Left: a group of white birch trees in the forest. Right: a group of birch trees in a forest.;兩張圖中都是以白樺樹的樹幹為重點，而不是樹葉。
+zh-575;True;Left: a pile of wood with a circle in the center of it. Right: a group of birch trees in a forest.;一張圖中的白樺樹明顯地被鋸斷，另一張則沒有。
+zh-286;False;Left: a swampy path through a forest with trees. Right: a reflection of birch trees in a pond.;左圖的白樺樹看不到明顯的綠葉，右圖的白樺樹則有較明顯的綠葉。
+zh-331;True;Left: a group of birch trees in a forest. Right: a reflection of birch trees in a pond.;兩張圖中都是以白樺樹的樹幹為重點，而不是樹葉。
+zh-288;True;Left: a plate of green vegetables on a white plate. Right: a head of lettuce on a white background.;一張圖中的小白菜已經被炒熟盛盤了，另一張圖的則沒有。
+zh-820;False;Left: a plate of green vegetables on a white plate. Right: a head of lettuce on a white background.;至少有一张图是炒熟的小白菜。
+zh-577;False;Left: a plant with green leaves in a garden. Right: a head of lettuce on a white background.;一張圖中的小白菜已經被煮熟盛盤，另一張圖則沒有。
+zh-332;True;Left: a plate of green vegetables on a white plate. Right: a plant with green leaves in a garden.;左圖的小白菜已經被炒熟成盤了，右圖的則未被料理。
+zh-289;True;Left: a metal bowl filled with green vegetables on a wooden table. Right: a bowl of salad with greens and mushrooms.;一張圖中的小白菜已經被炒熟盛盤了，另一張圖的則沒有。
+zh-821;False;Left: a metal bowl filled with green vegetables on a wooden table. Right: a bowl of salad with greens and mushrooms.;至少有一张图是炒熟的小白菜。
+zh-579;False;Left: a metal bowl filled with green vegetables on a wooden table. Right: a field of green lettuces in a field.;一張圖中的小白菜已經被煮熟盛盤，另一張圖則沒有。
+zh-290;False;Left: a piece of broccoli and spinach on a table. Right: a display of bunches of green and white vegetables.;一張圖中的小白菜已經被炒熟盛盤了，另一張圖的則沒有。
+zh-822;True;Left: a piece of broccoli and spinach on a table. Right: a display of bunches of green and white vegetables.;至少有一张图是炒熟的小白菜。
+zh-578;True;Left: a black plate topped with greens and pasta. Right: a display of bunches of green and white vegetables.;一張圖中的小白菜已經被煮熟盛盤，另一張圖則沒有。
+zh-291;False;Left: a bunch of white radishes with green leaves. Right: a tray of vegetables with skewers on top.;一張圖中的小白菜已經被炒熟盛盤了，另一張圖的則沒有。
+zh-823;True;Left: a bunch of white radishes with green leaves. Right: a tray of vegetables with skewers on top.;至少有一张图是炒熟的小白菜。
+zh-292;False;Left: a group of brown cows standing in a field. Right: a brown cow with horns standing in the water.;左圖有至少兩隻深色的牛，右圖則有數隻咖啡色的牛群。
+zh-824;False;Left: a group of brown cows standing in a field. Right: a brown cow with horns standing in the water.;两张图中的牛加起来超过五头。
+zh-337;True;Left: a herd of cows standing in a field. Right: a brown cow with horns standing in the water.;右圖恰好只有一隻牛，左圖則有的牛大於一隻並且是淺色的。
+zh-293;True;Left: two wildebeests drinking water from a pond. Right: a herd of cows standing in a field.;左圖有至少兩隻深色的牛，右圖則有數隻咖啡色的牛群。
+zh-825;True;Left: two wildebeests drinking water from a pond. Right: a herd of cows standing in a field.;两张图中的牛加起来超过五头。
+zh-294;True;Left: a herd of cows walking down a road. Right: a herd of cows grazing in a field.;左圖有至少兩隻深色的牛，右圖則有數隻咖啡色的牛群。
+zh-826;True;Left: a herd of cows walking down a road. Right: a herd of cows grazing in a field.;两张图中的牛加起来超过五头。
+zh-580;False;Left: a brown and white cow standing in a field. Right: a herd of cows grazing in a field.;右圖有至少兩隻深色的牛，左圖則有一隻或以上的牛。
+zh-336;False;Left: a herd of cows walking down a road. Right: a brown and white cow standing in the grass.;右圖恰好只有一隻牛，左圖則有的牛大於一隻並且是淺色的。
+zh-582;False;Left: a cow and a calf standing in the grass. Right: a brown and white cow standing in the grass.;右圖有至少兩隻深色的牛，左圖則有一隻或以上的牛。
+zh-295;False;Left: a brown and white cow standing in a field. Right: a bull standing in a field of grass and trees.;左圖有至少兩隻深色的牛，右圖則有數隻咖啡色的牛群。
+zh-827;False;Left: a brown and white cow standing in a field. Right: a bull standing in a field of grass and trees.;两张图中的牛加起来超过五头。
+zh-296;False;Left: a man in a suit and bow tie standing next to a table. Right: a black and white photo of a man in a suit and tie.;一張圖中有兩個男人穿著西裝，另一張則是一個女人或團體照。
+zh-836;True;Left: a man in a suit and bow tie standing next to a table. Right: a black and white photo of a man in a suit and tie.;左图中都有两位成年西服男性。
+zh-593;False;Left: a man in a suit and bow tie standing next to a table. Right: three men standing around an elderly man sitting at a table.;左圖中的人穿西裝並手持電腦或包包，右圖中的人穿西裝但手並未持有明顯的物品。
+zh-350;False;Left: two men and a woman posing for a picture. Right: three men standing around an elderly man sitting at a table.;兩張圖片中都只有一位穿西裝的男士或女士，而且右圖中的是男士。
+zh-297;True;Left: two men in suits holding signs in front of a river. Right: a woman wearing sunglasses and a pink suit and a white hat.;一張圖中有兩個男人穿著西裝，另一張則是一個女人或團體照。
+zh-837;False;Left: two men in suits holding signs in front of a river. Right: a woman wearing sunglasses and a pink suit and a white hat.;左图中都有两位成年西服男性。
+zh-595;True;Left: a woman in a blue suit and sunglasses walking down the street. Right: a woman wearing sunglasses and a pink suit and a white hat.;左圖中的人穿西裝並手持電腦或包包，右圖中的人穿西裝但手並未持有明顯的物品。
+zh-351;False;Left: a man in a suit and tie standing in front of a mirror. Right: a woman wearing sunglasses and a pink suit and a white hat.;兩張圖片中都只有一位穿西裝的男士或女士，而且右圖中的是男士。
+zh-298;True;Left: two men in suits standing next to each other. Right: a group of people standing in front of a building.;一張圖中有兩個男人穿著西裝，另一張則是一個女人或團體照。
+zh-838;False;Left: two men in suits standing next to each other. Right: a group of people standing in front of a building.;左图中都有两位成年西服男性。
+zh-592;False;Left: a black and white photo of a man in a suit and tie. Right: a group of people standing in front of a building.;左圖中的人穿西裝並手持電腦或包包，右圖中的人穿西裝但手並未持有明顯的物品。
+zh-299;False;Left: a woman in a blue suit and sunglasses walking down the street. Right: a woman standing on a sidewalk talking on her cell phone.;一張圖中有兩個男人穿著西裝，另一張則是一個女人或團體照。
+zh-839;True;Left: a woman in a blue suit and sunglasses walking down the street. Right: a woman standing on a sidewalk talking on her cell phone.;左图中都有两位成年西服男性。
+zh-300;False;Left: a glass of bubble tea on a table. Right: a row of plastic cups filled with iced coffee.;兩張圖中都恰好只有一杯珍珠奶茶。
+zh-860;False;Left: a glass of bubble tea on a table. Right: a row of plastic cups filled with iced coffee.;两张图中都正好是一杯奶茶。
+zh-618;True;Left: a glass of milk and a bowl of food on a table. Right: a row of plastic cups filled with iced coffee.;兩張圖中的奶茶裡都有加珍珠，而且左圖恰好只有一杯。
+zh-375;True;Left: a glass of bubble tea on a table. Right: two iced drinks sitting on a table next to each other.;兩張圖中的奶茶都有加珍珠，而且左圖恰好只有一杯。
+zh-302;False;Left: a person holding a bowl over a pot of soup. Right: two iced drinks sitting on a table next to each other.;兩張圖中都恰好只有一杯珍珠奶茶。
+zh-862;False;Left: a person holding a bowl over a pot of soup. Right: two iced drinks sitting on a table next to each other.;两张图中都正好是一杯奶茶。
+zh-301;True;Left: a person is holding a cup of iced coffee. Right: a glass of milk and a bowl of food on a table.;兩張圖中都恰好只有一杯珍珠奶茶。
+zh-861;True;Left: a person is holding a cup of iced coffee. Right: a glass of milk and a bowl of food on a table.;两张图中都正好是一杯奶茶。
+zh-374;True;Left: a cup of iced coffee on a wooden table. Right: a glass of milk and a bowl of food on a table.;兩張圖中的奶茶都有加珍珠，而且左圖恰好只有一杯。
+zh-373;False;Left: a person is holding a cup of iced coffee. Right: a glass of chocolate milk next to a bowl of coffee and a newspaper.;兩張圖中的奶茶都有加珍珠，而且左圖恰好只有一杯。
+zh-372;False;Left: a person holding a bowl over a pot of soup. Right: a cup of coffee and a bottle of milk on a cutting board.;兩張圖中的奶茶都有加珍珠，而且左圖恰好只有一杯。
+zh-617;False;Left: a person holding a bowl over a pot of soup. Right: a cup of iced coffee on a wooden table.;兩張圖中的奶茶裡都有加珍珠，而且左圖恰好只有一杯。
+zh-303;True;Left: a milkshake in a glass on a table. Right: a milkshake with a cookie on the top.;兩張圖中都恰好只有一杯珍珠奶茶。
+zh-863;True;Left: a milkshake in a glass on a table. Right: a milkshake with a cookie on the top.;两张图中都正好是一杯奶茶。
+zh-616;False;Left: a glass of chocolate milk next to a bowl of coffee and a newspaper. Right: a milkshake with a cookie on the top.;兩張圖中的奶茶裡都有加珍珠，而且左圖恰好只有一杯。
+zh-619;True;Left: a milkshake in a glass on a table. Right: a glass of bubble tea on a table.;兩張圖中的奶茶裡都有加珍珠，而且左圖恰好只有一杯。
+zh-304;True;Left: a tree with yellow leaves on a city street with balloons in the sky. Right: a group of trees with yellow and green leaves in a park.;其中一張圖中有銀杏樹和深綠色的草地，另一張圖有銀杏樹但看不到地面。
+zh-551;True;Left: a park with trees covered in yellow leaves. Right: a group of trees with yellow and green leaves in a park.;右圖中的銀杏樹是深綠色的，左圖則是輝煌色的。
+zh-550;True;Left: a tree with yellow leaves on a city street with balloons in the sky. Right: a group of trees with yellow and brown leaves.;右圖中的銀杏樹是深綠色的，左圖則是輝煌色的。
+zh-305;True;Left: a group of trees with yellow and brown leaves. Right: a tree with yellow leaves on it.;其中一張圖中有銀杏樹和深綠色的草地，另一張圖有銀杏樹但看不到地面。
+zh-549;False;Left: a bunch of oranges hanging from a tree. Right: a tree with yellow leaves on it.;右圖中的銀杏樹是深綠色的，左圖則是輝煌色的。
+zh-796;False;Left: a group of trees with yellow leaves in a park. Right: a tree with yellow leaves on it.;左边图中的银杏树干被涂了白色石灰。
+zh-798;True;Left: a group of trees with yellow and brown leaves. Right: a bunch of oranges hanging from a tree.;左边图中的银杏树干被涂了白色石灰。
+zh-306;False;Left: a bunch of oranges hanging from a tree. Right: a park with trees covered in yellow leaves.;其中一張圖中有銀杏樹和深綠色的草地，另一張圖有銀杏樹但看不到地面。
+zh-307;False;Left: a group of trees with yellow leaves on the ground. Right: a group of trees with yellow leaves in a park.;其中一張圖中有銀杏樹和深綠色的草地，另一張圖有銀杏樹但看不到地面。
+zh-548;False;Left: a group of trees with yellow leaves on the ground. Right: a group of trees with yellow leaves in a park.;右圖中的銀杏樹是深綠色的，左圖則是輝煌色的。
+zh-317;False;Left: a pot of soup and jars of food on a table. Right: a tray of food with meat and vegetables.;两图中至少有一张图里面是一口鴛鴦鍋。
+zh-318;False;Left: a person eating food with chopsticks on a table. Right: a pile of meat on a plate on a table.;两图中至少有一张图里面是一口鴛鴦鍋。
+zh-560;True;Left: a person stirring a pot of food with a spoon. Right: a pile of meat on a plate on a table.;一張圖中的生肉片佔了很大的面積，另一張圖則沒有明顯的生肉片。
+zh-561;False;Left: a person eating food with chopsticks on a table. Right: a pan of food with carrots and other vegetables and a bowl of broth.;一張圖中的生肉片佔了很大的面積，另一張圖則沒有明顯的生肉片。
+zh-319;True;Left: a person stirring a pot of food with a spoon. Right: a pan of food with carrots and other vegetables and a bowl of broth.;两图中至少有一张图里面是一口鴛鴦鍋。
+zh-320;True;Left: two birds standing on top of a bird feeder. Right: four birds sitting on a power line.;右圖有五隻的烏鴉，左圖則是兩隻而已。
+zh-322;False;Left: a black bird standing on the ground with its mouth open. Right: a black and white bird flying in the grass.;右圖有五隻的烏鴉，左圖則是兩隻而已。
+zh-567;False;Left: a large black bird with its wings spread over a baby crow. Right: a black and white bird flying in the grass.;兩張圖中的烏鴉都沒有張開翅膀飛翔，而且其中一張圖至少有五隻烏鴉。
+zh-564;False;Left: a black bird standing on the ground with its mouth open. Right: a close up of a bird with its beak open.;兩張圖中的烏鴉都沒有張開翅膀飛翔，而且其中一張圖至少有五隻烏鴉。
+zh-323;False;Left: a large black bird with its wings spread over a baby crow. Right: a bird perched on a metal bird feeder.;右圖有五隻的烏鴉，左圖則是兩隻而已。
+zh-565;True;Left: four birds sitting on a power line. Right: a bird perched on a metal bird feeder.;兩張圖中的烏鴉都沒有張開翅膀飛翔，而且其中一張圖至少有五隻烏鴉。
+zh-324;False;Left: a plate of food with rice and meat on a table. Right: a plate of food with rice and meat and a spoon.;其中一張圖中的白飯放在盤子上並沒有配菜，另一張圖的飯則有配菜和青菜。
+zh-326;True;Left: a plate of sticky rice balls on a white plate. Right: a plate of food with rice and chicken and vegetables on it.;其中一張圖中的白飯放在盤子上並沒有配菜，另一張圖的飯則有配菜和青菜。
+zh-571;False;Left: a plate of sticky rice balls on a white plate. Right: a platter of sushi and rolls on a black.;左圖中有炒飯，右圖則沒有炒飯或類似的料理。
+zh-327;True;Left: a plate of fish rice and salad on a table. Right: a woman is holding a plate of rice.;其中一張圖中的白飯放在盤子上並沒有配菜，另一張圖的飯則有配菜和青菜。
+zh-574;False;Left: a group of birch trees in a forest. Right: a group of white birch trees in the forest.;一張圖中的白樺樹明顯地被鋸斷，另一張則沒有。
+zh-333;True;Left: a black plate topped with greens and pasta. Right: a piece of broccoli and spinach on a table.;左圖的小白菜已經被炒熟成盤了，右圖的則未被料理。
+zh-334;False;Left: a head of lettuce on a white background. Right: a bunch of bok choy on a white surface.;左圖的小白菜已經被炒熟成盤了，右圖的則未被料理。
+zh-335;False;Left: a display of bunches of green and white vegetables. Right: a bunch of white radishes with green leaves.;左圖的小白菜已經被炒熟成盤了，右圖的則未被料理。
+zh-583;True;Left: a herd of cows standing in a field. Right: a herd of cows walking down a road.;右圖有至少兩隻深色的牛，左圖則有一隻或以上的牛。
+zh-338;False;Left: a bull standing in a field of grass and trees. Right: a group of brown cows standing in a field.;右圖恰好只有一隻牛，左圖則有的牛大於一隻並且是淺色的。
+zh-581;True;Left: a bull standing in a field of grass and trees. Right: two wildebeests drinking water from a pond.;右圖有至少兩隻深色的牛，左圖則有一隻或以上的牛。
+zh-339;True;Left: a cow and a calf standing in the grass. Right: a brown and white cow standing in a field.;右圖恰好只有一隻牛，左圖則有的牛大於一隻並且是淺色的。
+zh-340;True;Left: a group of yellow orchid flowers in front of a wall. Right: a purple flower on a tree next to the ocean.;右圖中仅有一株綻放的玫瑰色蘭花，左圖有好幾朵綻放的蘭花。
+zh-830;True;Left: a group of yellow orchid flowers in front of a wall. Right: a bunch of white and orange flowers on a stem.;两组图片其中一张是偏黄的兰科两外一张是白色的兰科
+zh-341;True;Left: a bunch of pink and white flowers on a plant. Right: a pink orchid in a glass vase with water.;右圖中仅有一株綻放的玫瑰色蘭花，左圖有好幾朵綻放的蘭花。
+zh-342;False;Left: a bunch of yellow flowers in a vase. Right: a bunch of white flowers on a tree.;右圖中仅有一株綻放的玫瑰色蘭花，左圖有好幾朵綻放的蘭花。
+zh-343;False;Left: a close up of pink and yellow orchid flowers. Right: a group of pink flowers on a tree branch.;右圖中仅有一株綻放的玫瑰色蘭花，左圖有好幾朵綻放的蘭花。
+zh-344;True;Left: a young boy hitting a tennis ball with a racket. Right: a man playing a game of ping pong on a table.;左圖畫面中只有一位在打乒乓球的選手，右圖的選手拿著刀板的球拍。
+zh-589;True;Left: a man hitting a tennis ball with a racquet. Right: a man playing a game of ping pong on a table.;一張圖中只看的到其中一個在打乒乓球的人，另一張圖則可以看到不只一個人。
+zh-345;False;Left: two men playing a game of ping pong. Right: a man standing on a ping pong table with a scoreboard.;左圖畫面中只有一位在打乒乓球的選手，右圖的選手拿著刀板的球拍。
+zh-590;False;Left: a man playing a game of ping pong on a table. Right: a man standing on a ping pong table with a scoreboard.;一張圖中只看的到其中一個在打乒乓球的人，另一張圖則可以看到不只一個人。
+zh-591;False;Left: two men playing a game of ping pong. Right: two young men playing a game of ping pong.;一張圖中只看的到其中一個在打乒乓球的人，另一張圖則可以看到不只一個人。
+zh-347;True;Left: a man hitting a tennis ball with a racquet. Right: two young men playing a game of ping pong.;左圖畫面中只有一位在打乒乓球的選手，右圖的選手拿著刀板的球拍。
+zh-833;True;Left: two men playing a game of ping pong. Right: a man playing a game of ping pong on a table.;其中一张图中的人正在发球。
+zh-346;False;Left: a man playing a game of ping pong on a table. Right: a group of people playing ping pong in a room with tables.;左圖畫面中只有一位在打乒乓球的選手，右圖的選手拿著刀板的球拍。
+zh-835;False;Left: a man playing a game of ping pong on a table. Right: a group of people playing ping pong in a room with tables.;其中一张图中的人正在发球。
+zh-348;True;Left: a woman standing on a sidewalk talking on her cell phone. Right: historian attends the premiere during festival held.;兩張圖片中都只有一位穿西裝的男士或女士，而且右圖中的是男士。
+zh-349;True;Left: a man in a suit working on a laptop computer. Right: a man in a suit and bow tie standing next to a table.;兩張圖片中都只有一位穿西裝的男士或女士，而且右圖中的是男士。
+zh-594;True;Left: a man in a suit working on a laptop computer. Right: a group of people waiting to cross a street.;左圖中的人穿西裝並手持電腦或包包，右圖中的人穿西裝但手並未持有明顯的物品。
+zh-352;False;Left: two pieces of yellow soap with red packaging on a table. Right: a display of fruits and vegetables in front of a statue.;其中一張圖可以看到寺廟的屋頂，另一張圖則有零星的樹或葉子。
+zh-353;True;Left: a pagoda in the middle of a forest. Right: a yellow flower is growing in the grass.;其中一張圖可以看到寺廟的屋頂，另一張圖則有零星的樹或葉子。
+zh-354;False;Left: a stone monument with a. Right: a cemetery with candles and notes on the grass.;其中一張圖可以看到寺廟的屋頂，另一張圖則有零星的樹或葉子。
+zh-355;True;Left: a group of people working in a graveyard. Right: a pagoda in the evening at a temple.;其中一張圖可以看到寺廟的屋頂，另一張圖則有零星的樹或葉子。
+zh-597;True;Left: a display of fruits and vegetables in front of a statue. Right: a pagoda in the evening at a temple.;一張圖中可以看到用來祭拜的水果，另一張圖則沒有水果。
+zh-841;False;Left: a group of people working in a graveyard. Right: two pieces of yellow soap with red packaging on a table.;一张图片里出现了黄色的纸条两外一张是清明节活动
+zh-596;False;Left: a stone bench with a table in the middle. Right: two pieces of yellow soap with red packaging on a table.;一張圖中可以看到用來祭拜的水果，另一張圖則沒有水果。
+zh-356;True;Left: a tiger shark swimming in the ocean. Right: a group of fish swimming in a fish tank.;左圖只有一隻明顯的魚，右圖則有很多隻在游泳的魚。
+zh-357;True;Left: a large yellow fish in a glass tank. Right: a group of koi fish in the water at a fish market.;左圖只有一隻明顯的魚，右圖則有很多隻在游泳的魚。
+zh-358;False;Left: a shark with its mouth open in the water. Right: a person holding a fish on a boat.;左圖只有一隻明顯的魚，右圖則有很多隻在游泳的魚。
+zh-359;False;Left: a large black and yellow fish swimming in the ocean. Right: a bunch of fish on a table at a market.;左圖只有一隻明顯的魚，右圖則有很多隻在游泳的魚。
+zh-601;True;Left: a pile of fish sitting on a pile of ice. Right: a bunch of fish on a table at a market.;左圖中有數隻被放在冰塊堆裡的魚，右圖則有許多隻細長的魚。
+zh-360;False;Left: a black and white dog jumping over a tree branch. Right: a small brown dog with its tongue out.;左圖只有恰好一隻狗，右圖則是恰好兩隻。
+zh-606;False;Left: a dalmatian dog holding a frisbee in its mouth. Right: a small brown dog with its tongue out.;一張圖中只有一隻狗，另一張圖則有至少兩隻顏色不同的狗。
+zh-849;False;Left: a pair of dalmatian dogs sitting next to each other. Right: a small brown dog with its tongue out.;其中一张图是刚出生的小狗，另外一张图中有斑点狗。
+zh-604;True;Left: a black and white dog jumping over a tree branch. Right: two dogs playing with each other in a field.;一張圖中只有一隻狗，另一張圖則有至少兩隻顏色不同的狗。
+zh-851;False;Left: a black and white dog jumping over a tree branch. Right: two dogs playing with each other in a field.;其中一张图是刚出生的小狗，另外一张图中有斑点狗。
+zh-361;True;Left: a dog walking on a path near boats. Right: two dogs sleeping on a blanket on a bed.;左圖只有恰好一隻狗，右圖則是恰好兩隻。
+zh-362;True;Left: a dalmatian dog holding a frisbee in its mouth. Right: a pair of dalmatian dogs sitting next to each other.;左圖只有恰好一隻狗，右圖則是恰好兩隻。
+zh-363;False;Left: two dogs playing with each other in a field. Right: a brown and white dog standing on a wooden deck.;左圖只有恰好一隻狗，右圖則是恰好兩隻。
+zh-364;False;Left: childrens clothes for sale in a market. Right: a couple of people dressed in mickey mouse costumes.;左圖中恰好有三個穿唐裝的人，右圖的人則穿藍色或紅色的唐裝。
+zh-610;False;Left: a group of people walking down the street with a parade. Right: a couple of people dressed in mickey mouse costumes.;左圖中恰好有三個人穿著類似的唐裝，右圖中則只有一或兩個人。
+zh-611;False;Left: childrens clothes for sale in a market. Right: a group of men standing together in a living room.;左圖中恰好有三個人穿著類似的唐裝，右圖中則只有一或兩個人。
+zh-367;False;Left: a woman wearing a kimono in a garden. Right: a group of men standing together in a living room.;左圖中恰好有三個穿唐裝的人，右圖的人則穿藍色或紅色的唐裝。
+zh-852;True;Left: a woman wearing a kimono in a garden. Right: a group of men standing together in a living room.;左边的图是单独一个人穿唐装，右边的图是好几个人都穿唐装。
+zh-365;True;Left: a group of three men wearing red and black jacket with red embroidery. Right: two men in blue robes are adjusting their ties.;左圖中恰好有三個穿唐裝的人，右圖的人則穿藍色或紅色的唐裝。
+zh-609;True;Left: a group of three men wearing red and black jacket with red embroidery. Right: two men in blue robes are adjusting their ties.;左圖中恰好有三個人穿著類似的唐裝，右圖中則只有一或兩個人。
+zh-366;True;Left: two women sitting at a table playing musical instruments. Right: a group of people walking down the street with a parade.;左圖中恰好有三個穿唐裝的人，右圖的人則穿藍色或紅色的唐裝。
+zh-608;True;Left: two women sitting at a table playing musical instruments. Right: a woman wearing a kimono in a garden.;左圖中恰好有三個人穿著類似的唐裝，右圖中則只有一或兩個人。
+zh-368;True;Left: a heart shaped bouquet of red roses and white flowers. Right: a tree with colorful flags hanging from it.;其中一張圖中有明顯且完整的玫瑰花，另一張圖則沒有。
+zh-369;True;Left: a chandelier shaped like a temple on a table. Right: a close up of a flower in front of a window.;其中一張圖中有明顯且完整的玫瑰花，另一張圖則沒有。
+zh-857;False;Left: two teddy bears sitting on top of a red pillow. Right: a close up of a flower in front of a window.;左边的图是含有七夕元素的旅馆图右边的图都是灯。
+zh-615;False;Left: a red heart with a love message on it. Right: a close up of a flower in front of a window.;右圖中有許多心型的裝飾，左圖則有熊玩偶或燈。
+zh-370;False;Left: a red heart is surrounded by red flowers. Right: a row of colorful flags hanging from a temple.;其中一張圖中有明顯且完整的玫瑰花，另一張圖則沒有。
+zh-371;False;Left: two teddy bears sitting on top of a red pillow. Right: a hotel room with two beds decorated with balloons.;其中一張圖中有明顯且完整的玫瑰花，另一張圖則沒有。
+zh-614;True;Left: two teddy bears sitting on top of a red pillow. Right: a red heart is surrounded by red flowers.;右圖中有許多心型的裝飾，左圖則有熊玩偶或燈。
+zh-376;False;Left: a red dress with flowers in a display case. Right: a dress on display in a store with a necklace.;兩張圖中都有穿旗袍的女人，而且至少有三個。
+zh-867;True;Left: a red dress with flowers in a display case. Right: a group of women in colorful dresses standing in front of a pink backdrop.;至少有一张图中有无人穿着的挂着的旗袍。
+zh-377;True;Left: a woman in a red dress on a stage with other models. Right: a group of women in colorful dresses standing in front of a pink backdrop.;兩張圖中都有穿旗袍的女人，而且至少有三個。
+zh-621;True;Left: a woman in a red dress on a stage with other models. Right: a woman in a red dress holding a fan.;兩張圖中都有人穿著紅色的旗袍，而且一張圖中有不只一個人。
+zh-866;False;Left: a group of women standing in front of a chandelier. Right: a woman in a red dress holding a fan.;至少有一张图中有无人穿着的挂着的旗袍。
+zh-378;False;Left: a woman in a pink dress walking down the floor. Right: three women standing next to a wooden wall.;兩張圖中都有穿旗袍的女人，而且至少有三個。
+zh-620;False;Left: a woman in a pink dress walking down the floor. Right: a red dress with flowers in a display case.;兩張圖中都有人穿著紅色的旗袍，而且一張圖中有不只一個人。
+zh-379;True;Left: a group of women standing in front of a chandelier. Right: a group of women dressed in costumes standing in the street.;兩張圖中都有穿旗袍的女人，而且至少有三個。
+zh-380;False;Left: a basketball is sitting on a basketball court. Right: a group of young men playing basketball on a court.;左圖中的人在室內籃球場打籃球，右圖的人則在室外。
+zh-624;False;Left: a group of young men playing basketball on a court. Right: a group of young men playing basketball on a court.;左圖中的球員們都穿著籃球背心，右圖的人們則不一定。
+zh-381;False;Left: a couple of young men playing a game of basketball. Right: a group of young men playing a game of basketball.;左圖中的人在室內籃球場打籃球，右圖的人則在室外。
+zh-382;True;Left: a group of men playing a game of basketball. Right: a group of young men playing basketball on a court.;左圖中的人在室內籃球場打籃球，右圖的人則在室外。
+zh-871;False;Left: a basketball player is jumping in the air to catch the ball. Right: a group of young men playing basketball on a court.;其中一张图中一人在运球一人在防守。
+zh-625;True;Left: a group of men playing a game of basketball. Right: two men playing basketball on a basketball court.;左圖中的球員們都穿著籃球背心，右圖的人們則不一定。
+zh-383;True;Left: a group of boys playing basketball in a gym. Right: a group of men playing basketball on a basketball court at the beach.;左圖中的人在室內籃球場打籃球，右圖的人則在室外。
+zh-626;True;Left: basketball player drives to the basket as basketball player defends during a game. Right: a group of men playing basketball on a basketball court at the beach.;左圖中的球員們都穿著籃球背心，右圖的人們則不一定。
+zh-384;True;Left: a couple of people sitting on a bench. Right: a willow tree hanging over a lake with.;右圖除了柳樹還有湖泊，左圖的柳樹葉是偏深色的。
+zh-872;True;Left: a couple of people sitting on a bench. Right: a tree lined street in a park.;左边的图中有不止一棵柳树种在水边，右图中可见大片柳树。
+zh-387;False;Left: a tree lined street in front of a building. Right: a tree lined street in a park.;右圖除了柳樹還有湖泊，左圖的柳樹葉是偏深色的。
+zh-385;True;Left: a tree in the snow next to a lake. Right: a weeping willow tree next to a river.;右圖除了柳樹還有湖泊，左圖的柳樹葉是偏深色的。
+zh-386;False;Left: a row of green trees in a park. Right: a weeping willow tree in a park next to a path.;右圖除了柳樹還有湖泊，左圖的柳樹葉是偏深色的。
+zh-388;True;Left: a cutting board with chopped vegetables and a knife. Right: a person cutting up tomatoes on a cutting board.;兩張圖中只有一張圖的砧板上放有刀，另一張圖則有食物。
+zh-635;True;Left: a knife sitting on a wooden cutting board. Right: a person cutting up tomatoes on a cutting board.;右圖中的砧板上沒有擺放著刀，左圖的砧板上則有一把刀。
+zh-633;True;Left: a cutting board with chopped vegetables and a knife. Right: a cutting board topped with slices of ham on a cutting board.;右圖中的砧板上沒有擺放著刀，左圖的砧板上則有一把刀。
+zh-389;False;Left: two slices of lemon with a sprig of rosemary on a cutting board. Right: a row of wooden rulers on a table.;兩張圖中只有一張圖的砧板上放有刀，另一張圖則有食物。
+zh-390;True;Left: a salad in a wooden bowl on a cutting board. Right: a pile of spinach on a cutting board next to a knife.;兩張圖中只有一張圖的砧板上放有刀，另一張圖則有食物。
+zh-391;False;Left: a sliced cucumber on a cutting board next to a knife. Right: a cutting board with bread eggs tomatoes and other ingredients on it.;兩張圖中只有一張圖的砧板上放有刀，另一張圖則有食物。
+zh-392;False;Left: a panda bear eating bamboo in a zoo enclosure. Right: four panda cubs sleeping on a bed in a crib.;兩張圖中都恰好只有一隻熊貓，而且都沒有在移動。
+zh-638;True;Left: a panda bear eating bamboo in a zoo enclosure. Right: a panda bear sitting on top of a tree.;兩張圖中都恰好只有一隻大熊貓，而且右圖中的大熊貓並不是在活動。
+zh-882;True;Left: a panda bear eating bamboo in a zoo enclosure. Right: a panda bear sitting on top of a tree branch.;其中一张图片里大熊猫在吃竹叶，另外一张里面大熊猫在发呆。
+zh-393;True;Left: a panda bear laying on top of a tree branch. Right: a panda bear sitting on top of a tree branch.;兩張圖中都恰好只有一隻熊貓，而且都沒有在移動。
+zh-639;True;Left: a panda bear sitting on a wooden bench. Right: a panda bear sitting on top of a tree branch.;兩張圖中都恰好只有一隻大熊貓，而且右圖中的大熊貓並不是在活動。
+zh-636;False;Left: a panda bear laying on top of a tree branch. Right: four panda bears sitting on the ground eating bamboo.;兩張圖中都恰好只有一隻大熊貓，而且右圖中的大熊貓並不是在活動。
+zh-880;True;Left: a panda bear laying on top of a tree branch. Right: a black and white panda bear eating bamboo.;其中一张图片里大熊猫在吃竹叶，另外一张里面大熊猫在发呆。
+zh-394;False;Left: two panda bears sitting on the ground eating bamboo. Right: a panda eating leaves on a tree.;兩張圖中都恰好只有一隻熊貓，而且都沒有在移動。
+zh-883;False;Left: two panda bears sitting on the ground eating bamboo. Right: a panda eating leaves on a tree.;其中一张图片里大熊猫在吃竹叶，另外一张里面大熊猫在发呆。
+zh-395;True;Left: a panda bear is sleeping in a tree. Right: a panda bear sitting on a wooden.;兩張圖中都恰好只有一隻熊貓，而且都沒有在移動。
+zh-881;False;Left: a panda bear sitting on top of a tree. Right: a panda bear sitting on a wooden.;其中一张图片里大熊猫在吃竹叶，另外一张里面大熊猫在发呆。
+zh-396;True;Left: a silver spoon isolated on a white background. Right: three spoons laying on top of each other on a table.;右圖的湯匙有恰好三隻，左圖的則不超過兩隻。
+zh-886;False;Left: two silver spoons sitting on a white plate. Right: three spoons laying on top of each other on a table.;左边的勺子是瓷的，右边的勺子是不锈钢的。
+zh-397;False;Left: a pair of silver spoons on a black surface. Right: a bowl of soup on a plate with a spoon.;右圖的湯匙有恰好三隻，左圖的則不超過兩隻。
+zh-398;True;Left: a pair of hands next to a bowl of soup and rice. Right: four white spoons with food in them sitting on a tray.;右圖的湯匙有恰好三隻，左圖的則不超過兩隻。
+zh-641;True;Left: a pair of hands next to a bowl of soup and rice. Right: two silver spoons sitting on a white plate.;右圖中的湯勺是金屬的，左圖中則有至少兩隻非金屬製的湯杓。
+zh-399;False;Left: a small wooden spoon on a white background. Right: two silver spoons sitting on a white plate.;右圖的湯匙有恰好三隻，左圖的則不超過兩隻。
+zh-885;False;Left: a small wooden spoon on a white background. Right: a pair of silver spoons on a black surface.;左边的勺子是瓷的，右边的勺子是不锈钢的。
+zh-400;True;Left: potatoes growing out of a bag on the ground. Right: a display of potatoes in baskets at a market.;兩張圖中都可以看到完整整顆的馬鈴薯，並沒有被切絲或料理過。
+zh-644;False;Left: a row of pans filled with food in boiling water. Right: a display of potatoes in baskets at a market.;右圖中除了馬鈴薯還有削皮器，左圖則有數顆未被削皮的馬鈴薯。
+zh-646;False;Left: potatoes growing out of a bag on the ground. Right: a bunch of new potatoes on a cutting board.;右圖中除了馬鈴薯還有削皮器，左圖則有數顆未被削皮的馬鈴薯。
+zh-401;False;Left: a bunch of new potatoes on a cutting board. Right: a plate of spaghetti  on a table.;兩張圖中都可以看到完整整顆的馬鈴薯，並沒有被切絲或料理過。
+zh-888;False;Left: a pile of potatoes on a towel in front of a pot. Right: a plate of spaghetti  on a table.;左边的图片还没有被烹饪的马铃薯，右边的马铃薯都已经被炸成薯条。
+zh-889;True;Left: a bunch of new potatoes on a cutting board. Right: a row of pans filled with food in boiling water.;左边的图片还没有被烹饪的马铃薯，右边的马铃薯都已经被炸成薯条。
+zh-402;False;Left: a pile of french fries on a table. Right: a pile of french fries with coconut flakes on a table.;兩張圖中都可以看到完整整顆的馬鈴薯，並沒有被切絲或料理過。
+zh-891;True;Left: a pile of potatoes with a potato peeler. Right: a pile of french fries with coconut flakes on a table.;左边的图片还没有被烹饪的马铃薯，右边的马铃薯都已经被炸成薯条。
+zh-403;True;Left: a pile of potatoes on a towel in front of a pot. Right: a potato being cut with a peeler.;兩張圖中都可以看到完整整顆的馬鈴薯，並沒有被切絲或料理過。
+zh-647;True;Left: a pile of potatoes on a towel in front of a pot. Right: a potato being cut with a peeler.;右圖中除了馬鈴薯還有削皮器，左圖則有數顆未被削皮的馬鈴薯。
+zh-404;False;Left: a bunch of lettuce sitting on a table. Right: a display of fruits and vegetables in a market.;其中一張圖中只有一顆大白菜，另一張圖則有數顆。
+zh-405;True;Left: a head of iceberg lettuce sitting on a towel. Right: a bunch of cabbage and lettuce on a table.;其中一張圖中只有一顆大白菜，另一張圖則有數顆。
+zh-893;False;Left: a bowl of cabbage carrots and other vegetables. Right: a bunch of cabbage and lettuce on a table.;左图的大白菜被烹饪或做成了沙拉。
+zh-650;False;Left: a head of iceberg lettuce sitting on a towel. Right: a head of bok choy on a white background.;左圖中有大白菜跟紅蘿蔔，右圖中則沒有紅蘿蔔。
+zh-894;True;Left: a pile of shredded cheese on a cutting board. Right: a head of bok choy on a white background.;左图的大白菜被烹饪或做成了沙拉。
+zh-406;True;Left: a head of bok choy on a white background. Right: a green bowl with a cabbage in it.;其中一張圖中只有一顆大白菜，另一張圖則有數顆。
+zh-895;True;Left: a plate of food with meat and vegetables. Right: a green bowl with a cabbage in it.;左图的大白菜被烹饪或做成了沙拉。
+zh-407;False;Left: a close up of a bunch of vegetables. Right: a bowl of cabbage carrots and other vegetables.;其中一張圖中只有一顆大白菜，另一張圖則有數顆。
+zh-892;False;Left: a close up of a bunch of vegetables. Right: a bunch of lettuce sitting on a table.;左图的大白菜被烹饪或做成了沙拉。
+zh-651;True;Left: a display of fruits and vegetables in a market. Right: a bunch of lettuce sitting on a table.;左圖中有大白菜跟紅蘿蔔，右圖中則沒有紅蘿蔔。
+zh-408;False;Left: two hummingbirds flying in a blue sky. Right: a bird is eating from a hanging bird feeder.;右圖恰好只有一隻蜂鳥朝向右，左圖恰好只有一隻蜂鳥朝向左。
+zh-899;True;Left: a man with birds on his head. Right: a bird is eating from a hanging bird feeder.;其中一张图片有人跟蜂鸟互动，另外一张图片是蜂鸟在试图吃红色的东西。
+zh-898;False;Left: two hummingbirds flying in a blue sky. Right: a hummingbird drinking from a yellow flower.;其中一张图片有人跟蜂鸟互动，另外一张图片是蜂鸟在试图吃红色的东西。
+zh-654;True;Left: a hummingbird flying around a red feeder. Right: a hummingbird drinking from a yellow flower.;兩張圖中都恰好只有一隻蜂鳥，而且都是飛行方向是相同的。
+zh-409;True;Left: a hummingbird drinking from a yellow flower. Right: a hummingbird perched on a bird feeder.;右圖恰好只有一隻蜂鳥朝向右，左圖恰好只有一隻蜂鳥朝向左。
+zh-652;False;Left: a small blue and green bird sitting on a brick. Right: a hummingbird perched on a bird feeder.;兩張圖中都恰好只有一隻蜂鳥，而且都是飛行方向是相同的。
+zh-410;False;Left: a hummingbird flying around a red feeder. Right: a hummingbird flying next to a purple flower.;右圖恰好只有一隻蜂鳥朝向右，左圖恰好只有一隻蜂鳥朝向左。
+zh-896;True;Left: a hummingbird flying around a red feeder. Right: a person holding a small hummingbird in their hand.;其中一张图片有人跟蜂鸟互动，另外一张图片是蜂鸟在试图吃红色的东西。
+zh-411;True;Left: a small blue and green bird sitting on a brick. Right: a hummingbird is flying up to a purple flower.;右圖恰好只有一隻蜂鳥朝向右，左圖恰好只有一隻蜂鳥朝向左。
+zh-897;False;Left: a small blue and green bird sitting on a brick. Right: two birds perched on top of a tree branch.;其中一张图片有人跟蜂鸟互动，另外一张图片是蜂鸟在试图吃红色的东西。
+zh-412;False;Left: a white bird flying over a body of water. Right: two white birds flying over a surfboard in the water.;兩張圖中都恰好只有一隻白鷺鷥，而且右圖中的沒有在飛。
+zh-413;True;Left: a white bird standing in the grass. Right: a white egret standing in a body of water.;兩張圖中都恰好只有一隻白鷺鷥，而且右圖中的沒有在飛。
+zh-414;True;Left: a white bird flying over a field of grass. Right: a white bird standing on a log in the water.;兩張圖中都恰好只有一隻白鷺鷥，而且右圖中的沒有在飛。
+zh-415;False;Left: a white bird standing in a body of water. Right: a flock of white birds in a body of water.;兩張圖中都恰好只有一隻白鷺鷥，而且右圖中的沒有在飛。
+zh-658;False;Left: a white egret standing in a body of water. Right: a flock of white birds in a body of water.;右圖恰好只有一隻白鷺並張開翅膀，左圖的白鷺則沒有在飛翔。
+zh-659;True;Left: a white bird standing in a body of water. Right: a white bird flying over a field of grass.;右圖恰好只有一隻白鷺並張開翅膀，左圖的白鷺則沒有在飛翔。
+zh-903;False;Left: a group of white birds standing in the water. Right: a white bird flying over a field of grass.;两张图片里都只有一只白鹭。
+zh-416;True;Left: a man wearing a white shirt with asian characters on it. Right: a pregnant woman wearing a black maternity t shirt with yellow characters and a red skirt.;右圖中的T恤是黑色的，左圖的T恤上寫有中文字。
+zh-904;True;Left: a tee shirt laying on the sand with sunglasses on it. Right: a pregnant woman wearing a black maternity t shirt with yellow characters and a red skirt.;其中一张图片是T恤平铺着，另外一张是一个女生穿着T恤。
+zh-661;True;Left: a man wearing a white shirt with asian characters on it. Right: a white t shirt on a black background.;右圖的T恤是純白色的，左圖的T恤則寫有中文字。
+zh-417;False;Left: a man with his arms crossed with a shirt that says great tree of civitas. Right: a man sitting on a chair wearing a white shirt and jeans.;右圖中的T恤是黑色的，左圖的T恤上寫有中文字。
+zh-906;False;Left: a man with his arms crossed with a shirt that says great tree of civitas. Right: a group of t shirts hanging on a fence.;其中一张图片是T恤平铺着，另外一张是一个女生穿着T恤。
+zh-418;False;Left: a man with a beard and a backpack. Right: a tee shirt laying on the sand with sunglasses on it.;右圖中的T恤是黑色的，左圖的T恤上寫有中文字。
+zh-419;True;Left: a young woman wearing glasses and a yellow shirt with a smiley face on it. Right: a black tshirt with a picture of a nun on it and the words and.;右圖中的T恤是黑色的，左圖的T恤上寫有中文字。
+zh-907;True;Left: a young woman wearing glasses and a yellow shirt with a smiley face on it. Right: a black tshirt with a picture of a nun on it and the words and.;其中一张图片是T恤平铺着，另外一张是一个女生穿着T恤。
+zh-662;False;Left: a couple of people standing next to each other. Right: a black tshirt with a picture of a nun on it and the words and.;右圖的T恤是純白色的，左圖的T恤則寫有中文字。
+zh-420;True;Left: a close up of red lanterns on a chinese festival. Right: a city street with red and yellow chinese lanterns.;其中一張圖是春節的市集街道，另一張圖則有寫有福字的春聯。
+zh-421;True;Left: people walking around a market with a chinese god statue. Right: a group of people standing under red lanterns.;其中一張圖是春節的市集街道，另一張圖則有寫有福字的春聯。
+zh-665;True;Left: people walking down a street with red trees. Right: a group of people standing under red lanterns.;右圖可以看到寫有福字的裝飾，左圖則是春節的街道。
+zh-422;False;Left: a pair of red lanterns hanging from a pole. Right: a red piece of paper with a bunch of codes on it.;其中一張圖是春節的市集街道，另一張圖則有寫有福字的春聯。
+zh-423;False;Left: a group of dancers in colorful costumes throwing red confetti. Right: people walking down a street with red trees.;其中一張圖是春節的市集街道，另一張圖則有寫有福字的春聯。
+zh-667;False;Left: a group of dancers in colorful costumes throwing red confetti. Right: a group of people in yellow and red costumes on a street.;右圖可以看到寫有福字的裝飾，左圖則是春節的街道。
+zh-424;True;Left: a group of musicians playing instruments in a park. Right: a girl in a green shirt holding a bow and arrow.;右圖中有一位女生拉二胡，左圖則有不只一個人拉二胡。
+zh-668;False;Left: a group of musicians playing instruments in a park. Right: a man and a woman holding a child on a rowing machine.;右圖中恰好有一位女人在拉二胡，左圖拉二胡的人像是在表演。
+zh-425;False;Left: two women holding violins on a stage. Right: a man playing a musical instrument with a group of musicians.;右圖中有一位女生拉二胡，左圖則有不只一個人拉二胡。
+zh-670;True;Left: two women holding violins on a stage. Right: a woman in a white dress playing a violin.;右圖中恰好有一位女人在拉二胡，左圖拉二胡的人像是在表演。
+zh-914;True;Left: a man playing a stringed instrument on the street. Right: a woman in a white dress playing a violin.;左边是男生在拉二胡，右边是女生在拉二胡。
+zh-915;False;Left: two women holding violins on a stage. Right: a man sitting in a chair holding a guitar.;左边是男生在拉二胡，右边是女生在拉二胡。
+zh-426;False;Left: a man sitting in a chair holding a guitar. Right: a man playing a stringed instrument on the street.;右圖中有一位女生拉二胡，左圖則有不只一個人拉二胡。
+zh-669;False;Left: a man sitting in a chair holding a guitar. Right: a row of skis leaning against a wooden wall.;右圖中恰好有一位女人在拉二胡，左圖拉二胡的人像是在表演。
+zh-427;True;Left: a man and a woman holding a child on a rowing machine. Right: a woman sitting in a chair holding a violin.;右圖中有一位女生拉二胡，左圖則有不只一個人拉二胡。
+zh-671;True;Left: a man playing a stringed instrument on the street. Right: a woman sitting in a chair holding a violin.;右圖中恰好有一位女人在拉二胡，左圖拉二胡的人像是在表演。
+zh-913;True;Left: a man playing a musical instrument with a group of musicians. Right: a woman sitting in a chair holding a violin.;左边是男生在拉二胡，右边是女生在拉二胡。
+zh-428;True;Left: a person swimming in a pool in the snow. Right: a group of people swimming in a swimming pool.;兩張圖都是游泳池而非海洋或湖泊，而且右圖當中有不只一個人。
+zh-919;False;Left: people swimming in a pool in the rain. Right: a group of people swimming in a swimming pool.;左边的图片是正好一个人训练游泳，另外一张是多人在游泳馆里游泳。
+zh-916;True;Left: a person swimming in a pool in the snow. Right: a group of people are swimming in a swimming pool.;左边的图片是正好一个人训练游泳，另外一张是多人在游泳馆里游泳。
+zh-431;True;Left: people swimming in a pool in the rain. Right: a group of people are swimming in a swimming pool.;兩張圖都是游泳池而非海洋或湖泊，而且右圖當中有不只一個人。
+zh-672;True;Left: a young woman swimming in a swimming pool. Right: a group of people are swimming in a swimming pool.;左圖中只有一個明顯的人在游泳，右圖中則有一隻狗或很多人游泳。
+zh-429;False;Left: a man swimming underwater in a body of water. Right: a group of people playing in a swimming pool.;兩張圖都是游泳池而非海洋或湖泊，而且右圖當中有不只一個人。
+zh-918;True;Left: a young woman swimming in a swimming pool. Right: a group of people playing in a swimming pool.;左边的图片是正好一个人训练游泳，另外一张是多人在游泳馆里游泳。
+zh-917;False;Left: a man swimming underwater in a body of water. Right: a young boy swimming in a swimming pool with his hands out.;左边的图片是正好一个人训练游泳，另外一张是多人在游泳馆里游泳。
+zh-430;False;Left: a person underwater with a scuba equipment in the water. Right: a young woman swimming in a swimming pool.;兩張圖都是游泳池而非海洋或湖泊，而且右圖當中有不只一個人。
+zh-674;False;Left: a person underwater with a scuba equipment in the water. Right: people swimming in a pool in the rain.;左圖中只有一個明顯的人在游泳，右圖中則有一隻狗或很多人游泳。
+zh-432;False;Left: a bottle of coke sitting on a table. Right: a bottle of coca cola on a table.;左圖有一個可口可樂的易開罐，右圖的可樂則是瓶裝的。
+zh-677;True;Left: a bottle of coke sitting on a table. Right: a can of coca cola soda on a white background.;右圖中有一個開罐式的可樂，左圖中則有塑膠瓶或玻璃瓶裝的可樂。
+zh-921;False;Left: a bottle of coke sitting on a table. Right: two cans of coca cola and a glass of coke.;两图相加至少有五瓶可乐，且大多数放在冰柜中或纸板包装盒里。
+zh-433;True;Left: a can of coca cola soda on a white background. Right: a vending machine with coca cola bottles in it.;左圖有一個可口可樂的易開罐，右圖的可樂則是瓶裝的。
+zh-434;True;Left: a can of coca cola coke on a table. Right: a person holding a bottle of coke next to a pool.;左圖有一個可口可樂的易開罐，右圖的可樂則是瓶裝的。
+zh-679;False;Left: a glass of coke and a bottle of coca cola. Right: a person holding a bottle of coke next to a pool.;右圖中有一個開罐式的可樂，左圖中則有塑膠瓶或玻璃瓶裝的可樂。
+zh-435;False;Left: a glass of coke and a bottle of coca cola. Right: a bunch of coca cola candies on a black background.;左圖有一個可口可樂的易開罐，右圖的可樂則是瓶裝的。
+zh-436;False;Left: two men playing soccer on a field with a soccer ball. Right: a general view of the stadium during a match.;兩張圖中都有恰好一顆足球，而且一張圖中有恰好兩位足球員。
+zh-437;True;Left: two men playing soccer on a field with a soccer ball. Right: a soccer ball sitting on a soccer field.;兩張圖中都有恰好一顆足球，而且一張圖中有恰好兩位足球員。
+zh-926;False;Left: a soccer ball sitting on a turf. Right: a soccer ball sitting on a soccer field.;其中一张图里有两个人一起在踢足球，另外一张是一个人在踢足球。
+zh-925;True;Left: two men playing soccer on a field with a soccer ball. Right: a soccer player in the air to catch a soccer ball.;其中一张图里有两个人一起在踢足球，另外一张是一个人在踢足球。
+zh-438;False;Left: a large crowd watching a soccer game at a stadium. Right: a person kicking a soccer ball on a field.;兩張圖中都有恰好一顆足球，而且一張圖中有恰好兩位足球員。
+zh-680;False;Left: a person kicking a soccer ball on a field. Right: a person kicking a soccer ball on a field.;一張圖有俯瞰的足球場，另一張圖中則有一顆明顯的足球。
+zh-439;True;Left: a soccer player sliding into a soccer ball during a game. Right: two men playing a game of soccer on a field.;兩張圖中都有恰好一顆足球，而且一張圖中有恰好兩位足球員。
+zh-440;True;Left: two women dressed in traditional clothing walking down a street. Right: a woman in a red and white dress and cherry blossoms.;左圖穿漢服的不只一個人，右圖則恰好有一個女人穿漢服並朝向正面。
+zh-687;True;Left: two women dressed in traditional clothing walking down a street. Right: a woman in a kimono sitting in a bamboo forest.;一張圖中恰好只有一位女人穿著漢服擺姿勢，另一張圖中則有至少一位穿漢服的人。
+zh-441;False;Left: a group of women wearing costumes in a building. Right: a woman in a white dress standing in front of a red door.;左圖穿漢服的不只一個人，右圖則恰好有一個女人穿漢服並朝向正面。
+zh-686;False;Left: a group of women wearing costumes in a building. Right: a group of women and men dressed in 1800s costumes.;一張圖中恰好只有一位女人穿著漢服擺姿勢，另一張圖中則有至少一位穿漢服的人。
+zh-928;False;Left: a group of women wearing costumes in a building. Right: a group of women dressed in hanbok standing in front of a statue.;左边的图片是刚好两人穿着汉服，右边的图片是女生穿着汉服。
+zh-684;False;Left: two women in costumes sitting on the ground. Right: a group of women dressed in hanbok standing in front of a statue.;一張圖中恰好只有一位女人穿著漢服擺姿勢，另一張圖中則有至少一位穿漢服的人。
+zh-442;False;Left: a woman in a kimono sitting in a garden. Right: a group of people walking on a runway.;左圖穿漢服的不只一個人，右圖則恰好有一個女人穿漢服並朝向正面。
+zh-443;True;Left: a group of women and men dressed in 1800s costumes. Right: a woman in a green dress standing on a path.;左圖穿漢服的不只一個人，右圖則恰好有一個女人穿漢服並朝向正面。
+zh-929;False;Left: a woman in a kimono sitting in a bamboo forest. Right: a woman in a green dress standing on a path.;左边的图片是刚好两人穿着汉服，右边的图片是女生穿着汉服。
+zh-444;False;Left: a spoonful of honey in a bowl on a table. Right: a spoonful of honey in a bowl on a table.;右圖的粥加了水果，左圖的粥裡沒有放湯匙。
+zh-691;True;Left: a spoonful of honey in a bowl on a table. Right: a glass of pomegranate juice with pomegranate seeds and a.;有一張圖中的粥是黃色的，另一張則是白粥或紫米粥。
+zh-445;True;Left: a bowl of soup with rice and vegetables. Right: a bowl of oatmeal with berries on top.;右圖的粥加了水果，左圖的粥裡沒有放湯匙。
+zh-689;False;Left: a bowl of soup with rice and vegetables. Right: three bowls of soup on a silver tray.;有一張圖中的粥是黃色的，另一張則是白粥或紫米粥。
+zh-446;True;Left: a bowl of soup with nuts on top of it. Right: a bowl of oatmeal with fruit and a spoon.;右圖的粥加了水果，左圖的粥裡沒有放湯匙。
+zh-447;False;Left: a bowl of soup with a spoon. Right: a bowl of oatmeal with blueberries and walnuts on top.;右圖的粥加了水果，左圖的粥裡沒有放湯匙。
+zh-448;True;Left: a bunch of pink flowers on a plant. Right: a pink and yellow flower in a garden.;右圖沒有超過兩朵牡丹花，左圖則有至少五朵牡丹花。
+zh-692;True;Left: two pink peonies in the garden with green leaves. Right: a pink and yellow flower in a garden.;左圖的牡丹花占滿了圖至少一半的面積，右圖的牡丹花則沒有。
+zh-694;False;Left: a bunch of pink flowers on a plant. Right: three pink and white flowers with green leaves.;左圖的牡丹花占滿了圖至少一半的面積，右圖的牡丹花則沒有。
+zh-449;False;Left: three pink and white flowers with green leaves. Right: a group of pink flowers on a bush in a garden.;右圖沒有超過兩朵牡丹花，左圖則有至少五朵牡丹花。
+zh-693;True;Left: a bunch of pink peonies in a vase. Right: a group of pink flowers on a bush in a garden.;左圖的牡丹花占滿了圖至少一半的面積，右圖的牡丹花則沒有。
+zh-450;False;Left: an image of some pink and white flowers. Right: a bunch of pink peonies in a vase.;右圖沒有超過兩朵牡丹花，左圖則有至少五朵牡丹花。
+zh-451;True;Left: a group of pink flowers in a garden. Right: two pink peonies in the garden with green leaves.;右圖沒有超過兩朵牡丹花，左圖則有至少五朵牡丹花。
+zh-695;False;Left: a group of pink flowers in a garden. Right: an image of some pink and white flowers.;左圖的牡丹花占滿了圖至少一半的面積，右圖的牡丹花則沒有。
+zh-452;False;Left: a group of horses standing in a dirt field. Right: a group of horses eating hay in a field.;左圖恰好只有一隻深色的馬，右圖則有至少兩隻。
+zh-936;False;Left: a group of horses standing in a dirt field. Right: a brown horse running in a field.;左边图片里有至少两只马在一起，右边的图片照的是马头。
+zh-453;False;Left: two horses grazing in a field. Right: a group of horses standing in a dirt field.;左圖恰好只有一隻深色的馬，右圖則有至少兩隻。
+zh-699;True;Left: a brown horse running in a field. Right: a group of horses standing in a dirt field.;左圖中恰好只有一隻馬，右圖則有一隻或一隻以上咖啡色的馬。
+zh-454;True;Left: a brown horse standing in a field. Right: two horses walking by the water.;左圖恰好只有一隻深色的馬，右圖則有至少兩隻。
+zh-698;True;Left: a brown horse standing in a field. Right: a brown and white horse wearing a bridle.;左圖中恰好只有一隻馬，右圖則有一隻或一隻以上咖啡色的馬。
+zh-939;True;Left: two horses walking by the water. Right: a brown and white horse wearing a bridle.;左边图片里有至少两只马在一起，右边的图片照的是马头。
+zh-937;False;Left: a brown horse standing in a field. Right: a black horse running in a field.;左边图片里有至少两只马在一起，右边的图片照的是马头。
+zh-697;False;Left: two horses walking by the water. Right: a black horse running in a field.;左圖中恰好只有一隻馬，右圖則有一隻或一隻以上咖啡色的馬。
+zh-455;True;Left: a black horse running in a field. Right: three horses standing next to each other in a field.;左圖恰好只有一隻深色的馬，右圖則有至少兩隻。
+zh-938;True;Left: a group of horses standing in a dirt field. Right: three horses standing next to each other in a field.;左边图片里有至少两只马在一起，右边的图片照的是马头。
+zh-456;False;Left: a green bowl sitting on top of a counter. Right: a bowl of grapes next to a bowl of fruit and a glass of milk.;左圖的碗桌有水果或食物，右圖的碗中則是空著。
+zh-702;False;Left: a metal bowl with a gold rim on a white pedestal. Right: a bowl of grapes next to a bowl of fruit and a glass of milk.;左圖的碗上放著筷子，右圖的碗則沒有筷子或湯匙。
+zh-457;False;Left: a variety of bowls are displayed on a shelf. Right: a bowl of spinach on a table.;左圖的碗桌有水果或食物，右圖的碗中則是空著。
+zh-942;True;Left: three blue and white bowls on display in a glass case. Right: a bowl of spinach on a table.;其中一张图片里只放了空碗，另外一张图片里碗里都有装东西。
+zh-701;False;Left: a variety of bowls are displayed on a shelf. Right: a green bowl sitting on top of a counter.;左圖的碗上放著筷子，右圖的碗則沒有筷子或湯匙。
+zh-941;True;Left: a bowl of cherries sitting on a table. Right: a green bowl sitting on top of a counter.;其中一张图片里只放了空碗，另外一张图片里碗里都有装东西。
+zh-458;True;Left: a bowl of cherries sitting on a table. Right: a blue and white bowl sitting on a table.;左圖的碗桌有水果或食物，右圖的碗中則是空著。
+zh-459;True;Left: a bowl of food with noodles and vegetables and chopsticks. Right: a metal bowl with a gold rim on a white pedestal.;左圖的碗桌有水果或食物，右圖的碗中則是空著。
+zh-700;True;Left: a bowl of food with noodles and vegetables and chopsticks. Right: three blue and white bowls on display in a glass case.;左圖的碗上放著筷子，右圖的碗則沒有筷子或湯匙。
+zh-460;True;Left: a man smoking a pipe in a crowd of people. Right: a statue of a man blowing into a trumpet.;兩張圖中都只有一個人吹嗩吶，而且右圖中的人面向左方。
+zh-461;False;Left: a group of people in red robes blowing horns. Right: a woman in a purple and white dress playing a trumpet.;兩張圖中都只有一個人吹嗩吶，而且右圖中的人面向左方。
+zh-945;True;Left: a group of people in red robes blowing horns. Right: a woman in a purple and white dress playing a trumpet.;两张图片里都能看见至少一个真人（而非雕塑）在吹唢呐。
+zh-707;True;Left: a group of people in red robes blowing horns. Right: a man smoking a pipe in a crowd of people.;右圖只有一個明顯的人在吹嗩吶，左圖則有至少兩個人在吹嗩吶。
+zh-944;True;Left: a young boy playing a bugle in front of a microphone. Right: a man smoking a pipe in a crowd of people.;两张图片里都能看见至少一个真人（而非雕塑）在吹唢呐。
+zh-462;False;Left: two vases are hanging on a wall. Right: a man wearing a hat smoking a pipe.;兩張圖中都只有一個人吹嗩吶，而且右圖中的人面向左方。
+zh-706;False;Left: a woman in a purple and white dress playing a trumpet. Right: a man wearing a hat smoking a pipe.;右圖只有一個明顯的人在吹嗩吶，左圖則有至少兩個人在吹嗩吶。
+zh-946;False;Left: a statue of a man blowing into a trumpet. Right: a man wearing a hat smoking a pipe.;两张图片里都能看见至少一个真人（而非雕塑）在吹唢呐。
+zh-705;False;Left: two vases are hanging on a wall. Right: a young boy playing a bugle in front of a microphone.;右圖只有一個明顯的人在吹嗩吶，左圖則有至少兩個人在吹嗩吶。
+zh-947;False;Left: two vases are hanging on a wall. Right: a man playing a bugle in a parade with other musicians.;两张图片里都能看见至少一个真人（而非雕塑）在吹唢呐。
+zh-463;True;Left: a man in a suit blowing into a bugle microphone. Right: a man playing a bugle in a parade with other musicians.;兩張圖中都只有一個人吹嗩吶，而且右圖中的人面向左方。
+zh-464;False;Left: a group of trees in front of a white fence. Right: a bunch of green grapes hanging from a tree.;兩張圖中都有明顯的綠色樹葉跟梧桐樹幹，而不是只有樹幹或樹葉。
+zh-465;False;Left: a group of trees in the middle of a field. Right: a tree lined street in front of a building.;兩張圖中都有明顯的綠色樹葉跟梧桐樹幹，而不是只有樹幹或樹葉。
+zh-466;True;Left: a large tree with green leaves on it. Right: a tree on the top of a hill.;兩張圖中都有明顯的綠色樹葉跟梧桐樹幹，而不是只有樹幹或樹葉。
+zh-710;True;Left: a tree lined road with a car driving down it. Right: a tree on the top of a hill.;右圖中只有一棵明顯的梧桐樹，左圖則有很多棵。
+zh-467;True;Left: a group of trees in a park. Right: the trunk of a large tree.;兩張圖中都有明顯的綠色樹葉跟梧桐樹幹，而不是只有樹幹或樹葉。
+zh-468;True;Left: two chickens are standing next to a fence. Right: a group of chickens standing together in the dirt.;兩張圖中都有不只一隻雞，而且左圖中的雞羽毛顏色不同。
+zh-469;False;Left: a group of chickens standing around a bowl of food. Right: a small yellow chicken standing on a wooden table.;兩張圖中都有不只一隻雞，而且左圖中的雞羽毛顏色不同。
+zh-949;True;Left: a group of chickens are standing in the grass. Right: a small yellow chicken standing on a wooden table.;至少一张图里有小鸡；至少一张图能看见成年的鸡。
+zh-470;False;Left: a rooster standing in the grass near some plants. Right: two chickens walking on a gravel.;兩張圖中都有不只一隻雞，而且左圖中的雞羽毛顏色不同。
+zh-951;False;Left: a rooster standing in the grass near some plants. Right: two chickens walking on a gravel.;至少一张图里有小鸡；至少一张图能看见成年的鸡。
+zh-471;True;Left: a group of chickens in a chicken coop. Right: a group of chickens in the grass near a fence.;兩張圖中都有不只一隻雞，而且左圖中的雞羽毛顏色不同。
+zh-472;True;Left: a group of carrots sitting on the ground. Right: a pile of orange carrots with green leaves.;兩張圖中都含有至少五根完整的胡蘿蔔，並且還沒被料理或打成汁。
+zh-473;False;Left: a bunch of carrots sitting on a rock. Right: a carrot sticking out of the ground.;兩張圖中都含有至少五根完整的胡蘿蔔，並且還沒被料理或打成汁。
+zh-474;False;Left: two glasses of carrot juice on a table with carrots. Right: a bunch of carrots on a rock.;兩張圖中都含有至少五根完整的胡蘿蔔，並且還沒被料理或打成汁。
+zh-475;True;Left: a bunch of carrots with green leaves on a black background. Right: a bunch of carrots on a wooden table.;兩張圖中都含有至少五根完整的胡蘿蔔，並且還沒被料理或打成汁。
+zh-476;False;Left: a small bird sitting on the ground. Right: a small bird perched on a fence.;左圖恰好只有一隻麻雀，右圖恰好有兩隻麻雀。
+zh-723;True;Left: a small bird sitting on the ground. Right: two birds sitting on top of a bird antenna.;左圖中恰好只有一隻麻雀，右圖中則是恰好兩隻。
+zh-477;True;Left: a small bird perched on a tree branch. Right: two birds sitting on top of a bird antenna.;左圖恰好只有一隻麻雀，右圖恰好有兩隻麻雀。
+zh-478;False;Left: a bird perched on top of a wire. Right: a small bird sitting on a fence.;左圖恰好只有一隻麻雀，右圖恰好有兩隻麻雀。
+zh-722;False;Left: a bird perched on top of a wire. Right: a small bird sitting on a fence.;左圖中恰好只有一隻麻雀，右圖中則是恰好兩隻。
+zh-479;True;Left: a small bird perched on a rock next to some grass. Right: two birds perched on top of a wooden post.;左圖恰好只有一隻麻雀，右圖恰好有兩隻麻雀。
+zh-720;True;Left: a small bird perched on top of a tree branch. Right: two birds perched on top of a wooden post.;左圖中恰好只有一隻麻雀，右圖中則是恰好兩隻。
+zh-480;False;Left: a plate of dumplings on a table. Right: the dough for the dumplings is ready to go into the oven.;左圖中的水餃旁有沾醬，右圖桌除了水餃還有竹製品。
+zh-481;True;Left: a plate of food with dumplings and a bowl of salsa. Right: a bowl of seafood soup with chopsticks on a bamboo.;左圖中的水餃旁有沾醬，右圖桌除了水餃還有竹製品。
+zh-726;True;Left: a plate of food with dumplings and a bowl of salsa. Right: a batch of doughnuts sitting in a box.;兩張圖中的餃子，只有一張是確定被放在方型的盤子上。
+zh-954;False;Left: a plate of food with dumplings and a bowl of salsa. Right: a wooden bowl filled with dumplings on a table.;左图有很多饺子，右图是一些煎饺。
+zh-482;False;Left: a tray of chicken tater tots on a baking sheet. Right: a plate of dumplings on a wooden table.;左圖中的水餃旁有沾醬，右圖桌除了水餃還有竹製品。
+zh-725;False;Left: a plate of chicken dumplings with sauce on a table. Right: a plate of dumplings on a wooden table.;兩張圖中的餃子，只有一張是確定被放在方型的盤子上。
+zh-483;True;Left: a plate of dumplings with dipping sauce on a table. Right: a close up of dumplings on top of a bamboo cutting board.;左圖中的水餃旁有沾醬，右圖桌除了水餃還有竹製品。
+zh-484;True;Left: three baby rats are held in a hand. Right: a rat is standing on the grass.;其中一張圖恰好只有一隻老鼠，另一張圖則有至少三隻或以上。
+zh-957;True;Left: three baby rats are held in a hand. Right: a rat is standing on the grass.;左边有三或四只小老鼠，右边是一只大老鼠在闻地上的东西。
+zh-729;True;Left: a possum is looking over a piece of wood. Right: a rat is standing on the grass.;右圖恰好只有一隻老鼠，左圖的老鼠則有白色的毛。
+zh-728;True;Left: three baby rats are held in a hand. Right: a mouse sitting on top of a piece of wood.;右圖恰好只有一隻老鼠，左圖的老鼠則有白色的毛。
+zh-485;False;Left: a cat is playing with a mouse on the floor. Right: a possum is looking over a piece of wood.;其中一張圖恰好只有一隻老鼠，另一張圖則有至少三隻或以上。
+zh-956;False;Left: a mouse sitting on top of a piece of wood. Right: a possum is looking over a piece of wood.;左边有三或四只小老鼠，右边是一只大老鼠在闻地上的东西。
+zh-959;False;Left: a cat is playing with a mouse on the floor. Right: a mouse on a plate in a kitchen sink.;左边有三或四只小老鼠，右边是一只大老鼠在闻地上的东西。
+zh-486;False;Left: a mouse on a plate in a kitchen sink. Right: a brown mouse sitting on the ground.;其中一張圖恰好只有一隻老鼠，另一張圖則有至少三隻或以上。
+zh-958;True;Left: a model of three rats on a wooden board. Right: a brown mouse sitting on the ground.;左边有三或四只小老鼠，右边是一只大老鼠在闻地上的东西。
+zh-730;False;Left: a mouse on a plate in a kitchen sink. Right: a model of three rats on a wooden board.;右圖恰好只有一隻老鼠，左圖的老鼠則有白色的毛。
+zh-487;True;Left: a mouse sitting on top of a piece of wood. Right: a model of three rats on a wooden board.;其中一張圖恰好只有一隻老鼠，另一張圖則有至少三隻或以上。
+zh-488;True;Left: a large pine tree in the middle of a forest. Right: a tree with a large trunk and green trees.;其中一張圖松樹後有湛藍的天空，另一張圖則有松樹而已。
+zh-489;False;Left: a foggy forest with trees in the fog. Right: a view of a blue lake with mountains in the background.;其中一張圖松樹後有湛藍的天空，另一張圖則有松樹而已。
+zh-490;True;Left: a pine tree against a blue sky. Right: a small tree in front of a building.;其中一張圖松樹後有湛藍的天空，另一張圖則有松樹而已。
+zh-733;True;Left: a tree with a large trunk and green trees. Right: a small tree in front of a building.;右圖中可以看到一棵明顯主要的松樹，左圖松樹後有天空當背景。
+zh-491;False;Left: a view of a snow covered mountain with trees. Right: a pine tree with a cone on it.;其中一張圖松樹後有湛藍的天空，另一張圖則有松樹而已。
+zh-492;False;Left: two orange drums in front of a green wall. Right: a drum kit with two drum sticks on top of it.;左圖可以看到有八面或以上的鼓，右圖中的鼓面則是金色或咖啡色。
+zh-493;False;Left: a pair of percussion drums in a room. Right: a set of drums on display in a museum.;左圖可以看到有八面或以上的鼓，右圖中的鼓面則是金色或咖啡色。
+zh-962;True;Left: a man sitting on the floor next to two drums. Right: a set of drums on display in a museum.;一张图里有不止一人在表演打鼓，另外一张图的鼓摆无人演奏。
+zh-739;False;Left: a pair of percussion drums in a room. Right: a drum set in a dark room.;其中一張圖中有一個白色鼓面的鼓跟鼓棒，另一張圖則可以看到不只一張鼓。
+zh-963;False;Left: a group of djembe drums on a table. Right: a drum set in a dark room.;一张图里有不止一人在表演打鼓，另外一张图的鼓摆无人演奏。
+zh-494;True;Left: a group of djembe drums on a table. Right: a large gong is hanging from a red crane.;左圖可以看到有八面或以上的鼓，右圖中的鼓面則是金色或咖啡色。
+zh-495;True;Left: different views of a percussion drum set. Right: a drum kit and percussion instruments in a music classroom.;左圖可以看到有八面或以上的鼓，右圖中的鼓面則是金色或咖啡色。
+zh-738;True;Left: a drum kit with two drum sticks on top of it. Right: a drum kit and percussion instruments in a music classroom.;其中一張圖中有一個白色鼓面的鼓跟鼓棒，另一張圖則可以看到不只一張鼓。
+zh-496;False;Left: a display case filled with bottles of milk. Right: milk in a display case at a grocery store.;兩張圖中的牛奶都不是被放在商店的陳列架。
+zh-964;True;Left: a display case filled with bottles of milk. Right: a bottle of milk and two pitchers of milk on a table.;至少一张图片里有放在冰箱里的牛奶。
+zh-497;True;Left: milk being poured into a spoon with a black background. Right: a bottle of milk being poured into a glass.;兩張圖中的牛奶都不是被放在商店的陳列架。
+zh-743;False;Left: a bottle of milk and two pitchers of milk on a table. Right: a bottle of milk being poured into a glass.;右圖恰好放著一壺跟一杯牛奶，左圖的牛奶則是裝在杯子或玻璃瓶裡。
+zh-795;False;Left: a bottle of milk and two pitchers of milk on a table. Right: a bottle of milk being poured into a glass.;其中一张图的牛奶是码放整齐未开封的。
+zh-740;False;Left: milk being poured into a spoon with a black background. Right: three bottles of milk sitting on a table.;右圖恰好放著一壺跟一杯牛奶，左圖的牛奶則是裝在杯子或玻璃瓶裡。
+zh-792;True;Left: milk being poured into a spoon with a black background. Right: three bottles of milk sitting on a table.;其中一张图的牛奶是码放整齐未开封的。
+zh-498;True;Left: a glass of milk on a wooden table. Right: three bottles of milk sitting on a table.;兩張圖中的牛奶都不是被放在商店的陳列架。
+zh-965;False;Left: milk being poured into a spoon with a black background. Right: a milk pitcher and a glass of milk on a table.;至少一张图片里有放在冰箱里的牛奶。
+zh-742;True;Left: a glass of milk on a wooden table. Right: a milk pitcher and a glass of milk on a table.;右圖恰好放著一壺跟一杯牛奶，左圖的牛奶則是裝在杯子或玻璃瓶裡。
+zh-794;False;Left: a glass of milk on a wooden table. Right: a milk pitcher and a glass of milk on a table.;其中一张图的牛奶是码放整齐未开封的。
+zh-499;False;Left: a cup of milk next to a glass of milk. Right: milk on display in a supermarket.;兩張圖中的牛奶都不是被放在商店的陳列架。
+zh-966;True;Left: milk in a display case at a grocery store. Right: milk on display in a supermarket.;至少一张图片里有放在冰箱里的牛奶。
+zh-500;True;Left: a bowl of noodles with chopsticks on a table. Right: a bowl of beef noodle soup with meat and vegetables.;兩張圖中的麵條都是被放在盤子或碗哩，而且左圖中還有筷子。
+zh-501;True;Left: a bowl of noodles with meat and vegetables and chopsticks. Right: a bowl of pasta with meat and cheese on a white table.;兩張圖中的麵條都是被放在盤子或碗哩，而且左圖中還有筷子。
+zh-969;True;Left: a bowl of noodles with meat and vegetables and chopsticks. Right: a plate of pasta with vegetables on a table.;右手边的图片里有筷子，另外一张图是用白色的碗装的面条。
+zh-502;False;Left: a plate of pasta with pesto and cheese on it. Right: a white plate of noodles on a table.;兩張圖中的麵條都是被放在盤子或碗哩，而且左圖中還有筷子。
+zh-968;False;Left: a plate of pasta with pesto and cheese on it. Right: a bunch of noodles hanging from a fork.;右手边的图片里有筷子，另外一张图是用白色的碗装的面条。
+zh-503;False;Left: a bowl of soup with noodles and vegetables. Right: a bowl of spaghetti with tomato sauce on a table.;兩張圖中的麵條都是被放在盤子或碗哩，而且左圖中還有筷子。
+zh-745;True;Left: a white plate of noodles on a table. Right: a bowl of spaghetti with tomato sauce on a table.;左圖的麵條被放在方型的盤子裡，右圖的麵條則是放在圓形的盤子或碗裡。
+zh-504;True;Left: a white flower with water droplets on it. Right: two white flowers in the grass.;右圖恰好有兩朵白色的百合花，左圖則恰好只有一朵明顯的百合花。
+zh-975;True;Left: a group of white lilies in a garden. Right: two white flowers in the grass.;左边有好几朵百合种在一起，另外一边是两个百合种在一起。
+zh-505;False;Left: two white flowers in front of a window. Right: a cluster of white lilies in a garden.;右圖恰好有兩朵白色的百合花，左圖則恰好只有一朵明顯的百合花。
+zh-751;False;Left: two white flowers in the grass. Right: a cluster of white lilies in a garden.;右圖的百合花不只有白色的，左圖的百合花則綻放著。
+zh-749;True;Left: two white flowers in front of a window. Right: a group of white and pink flowers.;右圖的百合花不只有白色的，左圖的百合花則綻放著。
+zh-506;False;Left: a close up of a white flower. Right: a group of white and pink flowers.;右圖恰好有兩朵白色的百合花，左圖則恰好只有一朵明顯的百合花。
+zh-973;False;Left: a yellow lily growing in the garden. Right: a group of white and pink flowers.;左边有好几朵百合种在一起，另外一边是两个百合种在一起。
+zh-974;True;Left: two white flowers in front of a window. Right: two white lilies in a field of green leaves.;左边有好几朵百合种在一起，另外一边是两个百合种在一起。
+zh-507;True;Left: a close up of an orange flower in the grass. Right: two white.;右圖恰好有兩朵白色的百合花，左圖則恰好只有一朵明顯的百合花。
+zh-508;True;Left: a bunch of yellow flowers on a black background. Right: a pile of yellow flowers in a field.;左圖有數朵綻放的的菊花，右圖的菊花花瓣是偏黃色或橘色。
+zh-509;False;Left: a bunch of white flowers in a field. Right: a bunch of pink flowers with green leaves.;左圖有數朵綻放的的菊花，右圖的菊花花瓣是偏黃色或橘色。
+zh-753;False;Left: a group of purple flowers with yellow centers. Right: a bunch of pink flowers with green leaves.;其中一張圖只有最多兩朵較顯眼的菊花，另一張圖則有非常多菊花。
+zh-752;False;Left: a bunch of white flowers in a field. Right: a bunch of yellow flowers on a black background.;其中一張圖只有最多兩朵較顯眼的菊花，另一張圖則有非常多菊花。
+zh-510;False;Left: a vase filled with white and yellow flowers. Right: a close up of a white daisy with a green background.;左圖有數朵綻放的的菊花，右圖的菊花花瓣是偏黃色或橘色。
+zh-755;True;Left: a pile of yellow flowers in a field. Right: a close up of a white daisy with a green background.;其中一張圖只有最多兩朵較顯眼的菊花，另一張圖則有非常多菊花。
+zh-754;True;Left: a vase filled with white and yellow flowers. Right: a bunch of yellow flowers in a field.;其中一張圖只有最多兩朵較顯眼的菊花，另一張圖則有非常多菊花。
+zh-511;True;Left: a group of white and yellow flowers in a field. Right: a bowl of yellow flowers on a table.;左圖有數朵綻放的的菊花，右圖的菊花花瓣是偏黃色或橘色。
+zh-512;True;Left: a group of runners running in a race. Right: a woman wearing pink shoes on the sidewalk.;其中一張圖只看到一雙穿運動鞋的腳，另一張圖則有許多人在跑步。
+zh-756;False;Left: a group of people walking down a trail. Right: a woman wearing pink shoes on the sidewalk.;右圖中恰好只有一個人在跑步，左圖中則至少有兩個人。
+zh-513;False;Left: two men running on the beach at sunset. Right: a man running down a beach with footprints in the sand.;其中一張圖只看到一雙穿運動鞋的腳，另一張圖則有許多人在跑步。
+zh-758;True;Left: two men running on the beach at sunset. Right: a woman running on a track.;右圖中恰好只有一個人在跑步，左圖中則至少有兩個人。
+zh-514;True;Left: a person wearing black shoes standing on a yellow line in the middle of the road. Right: a group of runners running in a race.;其中一張圖只看到一雙穿運動鞋的腳，另一張圖則有許多人在跑步。
+zh-976;True;Left: a man is running on a tennis court. Right: a group of runners running in a race.;其中一张图片是一大群人在跑马拉松，而且两张图加起来超过十个人。
+zh-515;False;Left: two people running in a park. Right: a woman running in a race on a brick street.;其中一張圖只看到一雙穿運動鞋的腳，另一張圖則有許多人在跑步。
+zh-757;False;Left: the runners of the race in the washington dc marathon. Right: a woman running in a race on a brick street.;右圖中恰好只有一個人在跑步，左圖中則至少有兩個人。
+zh-979;False;Left: two people running in a park. Right: a person wearing black shoes standing on a yellow line in the middle of the road.;其中一张图片是一大群人在跑马拉松，而且两张图加起来超过十个人。
+zh-516;True;Left: a view of a tea plantation in the mountains of ethiopia. Right: a kettle pouring tea into a cup on a table.;右圖中有至少兩個茶杯，左圖則是茶樹或茶葉包。
+zh-761;True;Left: a cup of tea and a cup and saucer. Right: a kettle pouring tea into a cup on a table.;兩張圖中都可以看到裝在茶杯裡的茶，但左圖中只有茶杯並沒有茶壺。
+zh-762;False;Left: a view of a tea plantation in the mountains of ethiopia. Right: a tea pot and two cups of tea on a table.;兩張圖中都可以看到裝在茶杯裡的茶，但左圖中只有茶杯並沒有茶壺。
+zh-980;True;Left: a bowl of green tea next to a bowl of yellow liquid. Right: a tea pot and two cups of tea on a table.;一张图片能看到茶壶，另外一张能看到倒在杯子里的茶。
+zh-517;True;Left: a group of plastic bags filled with food hanging from a string. Right: a cup of tea and a cup and saucer.;右圖中有至少兩個茶杯，左圖則是茶樹或茶葉包。
+zh-518;False;Left: a tea pot and two cups of tea on a table. Right: a black teapot and a cup on a table.;右圖中有至少兩個茶杯，左圖則是茶樹或茶葉包。
+zh-519;False;Left: two cups of tea and a jar of honey on a table. Right: a cup of tea is sitting on a table.;右圖中有至少兩個茶杯，左圖則是茶樹或茶葉包。
+zh-520;False;Left: two girls playing musical instruments in a classroom. Right: a woman playing a musical instrument on a stage.;兩張圖中都不只有一個人在彈琵琶，而且右圖中的人還未成年。
+zh-521;False;Left: a woman in a blue dress holding a guitar. Right: a woman in a dress playing a musical instrument.;兩張圖中都不只有一個人在彈琵琶，而且右圖中的人還未成年。
+zh-767;False;Left: a group of girls playing musical instruments in a music class. Right: a woman in a dress playing a musical instrument.;左圖中只有恰好一個女人在彈琵琶，右圖中則有兩個或兩個以上的小孩在彈琵琶。
+zh-985;True;Left: a group of girls playing musical instruments in a orchestra. Right: a woman in a dress playing a musical instrument.;其中一张图片是一个女生单独在弹琵琶，看不见其他人；另外一张是好几个小孩子一起表演琵琶。
+zh-766;True;Left: a woman in a blue dress holding a guitar. Right: two girls playing musical instruments in a classroom.;左圖中只有恰好一個女人在彈琵琶，右圖中則有兩個或兩個以上的小孩在彈琵琶。
+zh-984;False;Left: a woman playing a musical instrument on a stage. Right: two girls playing musical instruments in a classroom.;其中一张图片是一个女生单独在弹琵琶，看不见其他人；另外一张是好几个小孩子一起表演琵琶。
+zh-522;True;Left: a group of girls playing musical instruments in front of a laptop computer. Right: a group of girls playing musical instruments in a orchestra.;兩張圖中都不只有一個人在彈琵琶，而且右圖中的人還未成年。
+zh-764;True;Left: a woman playing a musical instrument on a stage. Right: a group of girls playing musical instruments in a orchestra.;左圖中只有恰好一個女人在彈琵琶，右圖中則有兩個或兩個以上的小孩在彈琵琶。
+zh-765;False;Left: a group of girls playing musical instruments in front of a laptop computer. Right: a woman in a kimono playing a musical instrument.;左圖中只有恰好一個女人在彈琵琶，右圖中則有兩個或兩個以上的小孩在彈琵琶。
+zh-986;True;Left: a group of girls playing musical instruments in front of a laptop computer. Right: a woman in a blue dress holding a guitar.;其中一张图片是一个女生单独在弹琵琶，看不见其他人；另外一张是好几个小孩子一起表演琵琶。
+zh-523;True;Left: a woman in a kimono playing a musical instrument. Right: a group of girls playing musical instruments in a music class.;兩張圖中都不只有一個人在彈琵琶，而且右圖中的人還未成年。
+zh-987;False;Left: a woman in a kimono playing a musical instrument. Right: a group of girls playing musical instruments in a music class.;其中一张图片是一个女生单独在弹琵琶，看不见其他人；另外一张是好几个小孩子一起表演琵琶。
+zh-524;False;Left: a candle on a plate with christmas decorations. Right: a store with red decorations and people in it.;右圖中有酒杯，左圖則有煙火或是寫福字的春聯。
+zh-771;False;Left: a chinese new year decoration is hanging on a wall. Right: a store with red decorations and people in it.;其中一張圖中含有鞭炮的畫面，另一張圖則有酒或酒杯。
+zh-990;False;Left: a chinese new year decoration is hanging on a wall. Right: a store with red decorations and people in it.;至少一张图里有在放烟花。
+zh-768;False;Left: a candle on a plate with christmas decorations. Right: the word 2002 written in the sand on the beach.;其中一張圖中含有鞭炮的畫面，另一張圖則有酒或酒杯。
+zh-527;False;Left: a crowd of people watching fireworks explode over a castle. Right: the word 2002 written in the sand on the beach.;右圖中有酒杯，左圖則有煙火或是寫福字的春聯。
+zh-991;True;Left: a crowd of people watching fireworks explode over a castle. Right: the word 2002 written in the sand on the beach.;至少一张图里有在放烟花。
+zh-988;False;Left: a candle on a plate with christmas decorations. Right: a bed with a bottle of wine and two glasses on a table.;至少一张图里有在放烟花。
+zh-525;True;Left: fireworks exploding in the sky at night. Right: a bed with a bottle of wine and two glasses on a table.;右圖中有酒杯，左圖則有煙火或是寫福字的春聯。
+zh-769;True;Left: a crowd of people watching fireworks explode over a castle. Right: a bed with a bottle of wine and two glasses on a table.;其中一張圖中含有鞭炮的畫面，另一張圖則有酒或酒杯。
+zh-989;True;Left: fireworks exploding in the sky at night. Right: two hands holding a glass of wine.;至少一张图里有在放烟花。
+zh-526;True;Left: a chinese new year decoration is hanging on a wall. Right: two hands holding a glass of wine.;右圖中有酒杯，左圖則有煙火或是寫福字的春聯。
+zh-528;False;Left: a close up of a piece of broccoli on a white surface. Right: a pile of broccoli piled on top of each other.;其中一張圖只有深綠色的花椰菜，另一張圖則有白色和深綠色的花椰菜。
+zh-994;True;Left: a close up of a piece of broccoli on a white surface. Right: a bunch of vegetables on a white table.;其中一张图片里只有一根或两根绿色的西兰花，另外一张有白色的花椰菜。
+zh-775;True;Left: a pile of broccoli sitting next to other vegetables. Right: a bunch of vegetables on a white table.;右圖中除了花椰菜也有其他紅色蔬果，但左圖則只有花椰菜。
+zh-529;True;Left: a close up of a green broccoli plant. Right: a group of cauliflower and broccoli on a table.;其中一張圖只有深綠色的花椰菜，另一張圖則有白色和深綠色的花椰菜。
+zh-530;True;Left: three bowls of broccoli and cauliflower on a table. Right: a head of broccoli isolated on a white background.;其中一張圖只有深綠色的花椰菜，另一張圖則有白色和深綠色的花椰菜。
+zh-772;False;Left: a pile of broccoli piled on top of each other. Right: a head of broccoli isolated on a white background.;右圖中除了花椰菜也有其他紅色蔬果，但左圖則只有花椰菜。
+zh-531;False;Left: a group of vegetables including cauliflower mushrooms and radishes. Right: a broccoli plant is growing in the dirt.;其中一張圖只有深綠色的花椰菜，另一張圖則有白色和深綠色的花椰菜。
+zh-532;False;Left: a white plate with sushi and chopsticks. Right: a pair of chopsticks and a box on a white background stock photo.;一張圖中恰好只有一雙放在碗上的筷子，另一張圖則有一雙以上的筷子。
+zh-997;True;Left: a white plate with sushi and chopsticks. Right: a bowl of food with noodles and vegetables and chopsticks.;左边的图片里筷子是放在小木块上右边的图片里筷子是放在碗或者菜板上。
+zh-533;True;Left: a basket of food and chopsticks on a table. Right: a bowl of noodles with chopsticks on a table.;一張圖中恰好只有一雙放在碗上的筷子，另一張圖則有一雙以上的筷子。
+zh-777;True;Left: a basket of food and chopsticks on a table. Right: three bowls of dumplings with chopsticks on a table.;其中一張圖有恰好一雙筷子放在碗上，另一張圖則有一雙以上的淺色筷子。
+zh-534;True;Left: a pair of chopsticks sitting on top of a red bowl. Right: a reflection of a toothbrush in a mirror.;一張圖中恰好只有一雙放在碗上的筷子，另一張圖則有一雙以上的筷子。
+zh-776;False;Left: a wooden cutting board with sushi and chopsticks on it. Right: a reflection of a toothbrush in a mirror.;其中一張圖有恰好一雙筷子放在碗上，另一張圖則有一雙以上的淺色筷子。
+zh-535;False;Left: a bowl of food with noodles and vegetables and chopsticks. Right: two chopsticks on top of a bowl with chop sticks.;一張圖中恰好只有一雙放在碗上的筷子，另一張圖則有一雙以上的筷子。
+zh-778;False;Left: a bowl of food with noodles and vegetables and chopsticks. Right: a white plate with sushi and chopsticks.;其中一張圖有恰好一雙筷子放在碗上，另一張圖則有一雙以上的淺色筷子。
+zh-536;False;Left: a coffee mug on a table next to a coffee maker. Right: a man pouring coffee into a cup on a table.;右圖中只恰好有一個咖啡杯，左圖的咖啡杯放在碟子上。
+zh-782;True;Left: a close up of a pile of coffee beans. Right: a man pouring coffee into a cup on a table.;左圖可以看到許多明顯的咖啡豆，右圖則是有咖啡杯跟壺。
+zh-537;False;Left: a person pouring coffee into a coffee maker. Right: a cup of black coffee on a whiteucer.;右圖中只恰好有一個咖啡杯，左圖的咖啡杯放在碟子上。
+zh-783;False;Left: a person pouring coffee into a coffee maker. Right: a cup of coffee on a wooden table.;左圖可以看到許多明顯的咖啡豆，右圖則是有咖啡杯跟壺。
+zh-538;True;Left: a cup of coffee and a cracker and a bottle of water on a table. Right: a cup of coffee on a plate on a wooden table.;右圖中只恰好有一個咖啡杯，左圖的咖啡杯放在碟子上。
+zh-1001;True;Left: a cup of coffee on a wooden table. Right: a cup of coffee on a plate on a wooden table.;其中一杯咖啡是普通咖啡没有明显的图案，另外一张是可以看到拉花的咖啡。
+zh-539;True;Left: a cup of coffee with a cat drawn on it in a blue cup. Right: a person wearing mittens holding a cup of coffee.;右圖中只恰好有一個咖啡杯，左圖的咖啡杯放在碟子上。
+zh-1003;False;Left: a man pouring coffee into a cup on a table. Right: a person wearing mittens holding a cup of coffee.;其中一杯咖啡是普通咖啡没有明显的图案，另外一张是可以看到拉花的咖啡。
+zh-540;False;Left: a pink water lily with a bud in a pond. Right: a red and green lily pad with a white flower on it.;兩張圖中的蓮花都綻放著，而且左圖有恰好一朵偏紫紅色的蓮花。
+zh-786;False;Left: a pink water lily with a bud in a pond. Right: a white lotus flower surrounded by green leaves.;右圖恰好只有一朵非常明顯的淡色蓮花，左圖則是兩朵明顯的紫色蓮花。
+zh-541;True;Left: a pink lotus flower next to a green plant. Right: two pink lotus flowers in a pond.;兩張圖中的蓮花都綻放著，而且左圖有恰好一朵偏紫紅色的蓮花。
+zh-1004;False;Left: a red flower with black and white background. Right: two pink lotus flowers in a pond.;两张图都正好能看见一朵莲花。
+zh-785;False;Left: a pink lotus flower next to a green plant. Right: water lilies in a pond with purple flowers.;右圖恰好只有一朵非常明顯的淡色蓮花，左圖則是兩朵明顯的紫色蓮花。
+zh-1007;True;Left: a pink lotus flower next to a green plant. Right: a pink water lily with a yellow flower in a pond.;两张图都正好能看见一朵莲花。
+zh-542;True;Left: a red water lily with its reflection in the water. Right: a white lotus flower in front of a green leaf.;兩張圖中的蓮花都綻放著，而且左圖有恰好一朵偏紫紅色的蓮花。
+zh-1005;True;Left: a red water lily with its reflection in the water. Right: a pink flower with green leaves in a pond.;两张图都正好能看见一朵莲花。
+zh-543;False;Left: a white lotus flower surrounded by green leaves. Right: a pink flower with green leaves in a pond.;兩張圖中的蓮花都綻放著，而且左圖有恰好一朵偏紫紅色的蓮花。
+zh-787;True;Left: two pink lotus flowers in a pond. Right: a pink flower with green leaves in a pond.;右圖恰好只有一朵非常明顯的淡色蓮花，左圖則是兩朵明顯的紫色蓮花。
+zh-544;True;Left: a full moon in the night sky over a hill. Right: a plate with two pieces of food on it.;右圖有中秋節月餅，左圖則是夜景。
+zh-790;False;Left: a full moon in the night sky over a hill. Right: a heart shaped cookie in a pan next to bananas.;左圖當中有中秋節月餅，右圖則是許多懸掛的燈籠。
+zh-546;False;Left: a large yellow sculpture with a pink and white. Right: a heart shaped cookie in a pan next to bananas.;右圖有中秋節月餅，左圖則是夜景。
+zh-545;True;Left: a christmas tree made out of lanterns in a parade at night. Right: two buns with chinese writing on them on a plate.;右圖有中秋節月餅，左圖則是夜景。
+zh-547;False;Left: colorful lanterns hanging from the ceiling in a building. Right: a room with a display of stuffed animals and a yellow balloon.;右圖有中秋節月餅，左圖則是夜景。
+zh-1011;True;Left: colorful lanterns hanging from the ceiling in a building. Right: a blue plate with yellow cookies on a table.;左边的图片里都有在中秋节使用的灯笼右边的图片是中秋节吃的月饼。
+zh-797;False;Left: a park with trees covered in yellow leaves. Right: a tree with yellow leaves on a city street with balloons in the sky.;左边图中的银杏树干被涂了白色石灰。
+zh-552;True;Left: two young girls playing a xylophone in a classroom. Right: a piano with a sheet music on a table.;左圖中有至少一人在彈古箏，右圖則沒有人。
+zh-569;True;Left: a close up of a plate of rice and broccoli. Right: a bowl of rice with sesame seeds on a table.;左圖中有炒飯，右圖則沒有炒飯或類似的料理。
+zh-573;True;Left: a forest of birch trees on a hill. Right: a pile of wood and sticks on the ground.;一張圖中的白樺樹明顯地被鋸斷，另一張則沒有。
+zh-576;True;Left: a tray of vegetables with skewers on top. Right: a plate of green vegetables on a white plate.;一張圖中的小白菜已經被煮熟盛盤，另一張圖則沒有。
+zh-584;False;Left: flowers wrapped in purple paper on a table. Right: two purple flowers with yellow markings in the middle.;右圖中可以看到至少一朵藍色或黃色的蘭花，左圖的蘭花顏色則比較淺。
+zh-829;False;Left: a purple flower on a tree next to the ocean. Right: two purple flowers with yellow markings in the middle.;两组图片其中一张是偏黄的兰科两外一张是白色的兰科
+zh-585;True;Left: a bunch of white and pink flowers. Right: a close up of pink and yellow orchid flowers.;右圖中可以看到至少一朵藍色或黃色的蘭花，左圖的蘭花顏色則比較淺。
+zh-586;True;Left: a bunch of white flowers on a tree. Right: a bunch of blue orchid flowers in a vase.;右圖中可以看到至少一朵藍色或黃色的蘭花，左圖的蘭花顏色則比較淺。
+zh-587;False;Left: two white orchid flowers in front of a window. Right: a group of yellow orchid flowers in front of a wall.;右圖中可以看到至少一朵藍色或黃色的蘭花，左圖的蘭花顏色則比較淺。
+zh-831;True;Left: two white orchid flowers in front of a window. Right: a close up of a yellow and white flower.;两组图片其中一张是偏黄的兰科两外一张是白色的兰科
+zh-588;True;Left: a group of people playing ping pong in a room with tables. Right: a young boy hitting a tennis ball with a racket.;一張圖中只看的到其中一個在打乒乓球的人，另一張圖則可以看到不只一個人。
+zh-832;True;Left: a man standing on a ping pong table with a scoreboard. Right: a young boy hitting a tennis ball with a racket.;其中一张图中的人正在发球。
+zh-843;True;Left: a stone bench with a table in the middle. Right: two people are playing a game on a hot dog stand.;一张图片里出现了黄色的纸条两外一张是清明节活动
+zh-599;False;Left: a man standing next to a fire on a street. Right: two people are playing a game on a hot dog stand.;一張圖中可以看到用來祭拜的水果，另一張圖則沒有水果。
+zh-842;False;Left: a display of fruits and vegetables in front of a statue. Right: a row of houses on the water in an old town.;一张图片里出现了黄色的纸条两外一张是清明节活动
+zh-598;True;Left: a close up of pink buds on a tree. Right: a small shrine under a tree with bananas and other items.;一張圖中可以看到用來祭拜的水果，另一張圖則沒有水果。
+zh-600;False;Left: a group of koi fish swimming in a pond. Right: a group of orange fish swimming in a fish tank.;左圖中有數隻被放在冰塊堆裡的魚，右圖則有許多隻細長的魚。
+zh-602;False;Left: two goldfish swimming in a fish tank. Right: a shark in the water with other fish.;左圖中有數隻被放在冰塊堆裡的魚，右圖則有許多隻細長的魚。
+zh-844;False;Left: two goldfish swimming in a fish tank. Right: a pile of fish on display at a market.;其中一张图鱼和不是鱼的动物一起出现。
+zh-603;True;Left: a pile of fish laying on ice in a pile of fish. Right: a row of fish hanging on a pole at a fish market.;左圖中有數隻被放在冰塊堆裡的魚，右圖則有許多隻細長的魚。
+zh-605;False;Left: two dogs running together in a field. Right: two white puppies are being held in a persons hand.;一張圖中只有一隻狗，另一張圖則有至少兩隻顏色不同的狗。
+zh-850;True;Left: a dalmatian dog and a dalmatian puppy. Right: two white puppies are being held in a persons hand.;其中一张图是刚出生的小狗，另外一张图中有斑点狗。
+zh-607;True;Left: two dogs sleeping on a blanket on a bed. Right: a dog walking on a path near boats.;一張圖中只有一隻狗，另一張圖則有至少兩隻顏色不同的狗。
+zh-848;True;Left: two dogs sleeping on a blanket on a bed. Right: a dalmatian dog holding a frisbee in its mouth.;其中一张图是刚出生的小狗，另外一张图中有斑点狗。
+zh-854;False;Left: a group of people walking down the street with a parade. Right: childrens clothes for sale in a market.;左边的图是单独一个人穿唐装，右边的图是好几个人都穿唐装。
+zh-612;True;Left: people releasing lanterns into the sky at night at the lantern festival. Right: a close up of a pile of red and white candy with red and gold hearts.;右圖中有許多心型的裝飾，左圖則有熊玩偶或燈。
+zh-613;False;Left: people walking through a park at night. Right: a large umbrella hanging from the ceiling in a store.;右圖中有許多心型的裝飾，左圖則有熊玩偶或燈。
+zh-622;False;Left: three women standing next to a wooden wall. Right: a woman standing in front of a display of dresses.;兩張圖中都有人穿著紅色的旗袍，而且一張圖中有不只一個人。
+zh-623;True;Left: a group of women in colorful dresses standing in front of a pink backdrop. Right: a group of women standing in front of a chandelier.;兩張圖中都有人穿著紅色的旗袍，而且一張圖中有不只一個人。
+zh-869;True;Left: basketball player drives to the basket as basketball player defends during a game. Right: a group of boys playing basketball in a gym.;其中一张图中一人在运球一人在防守。
+zh-627;False;Left: a group of people playing basketball in a gym. Right: an empty basketball court in a city with tall buildings.;左圖中的球員們都穿著籃球背心，右圖的人們則不一定。
+zh-628;True;Left: a tree lined street in a park. Right: a row of green trees in a park.;右圖除了柳樹還能看到明顯的綠地，左圖則沒有綠地。
+zh-875;True;Left: a weeping willow tree next to a river. Right: a row of green trees in a park.;左边的图中有不止一棵柳树种在水边，右图中可见大片柳树。
+zh-629;False;Left: a weeping willow tree in a park next to a path. Right: a tree lined street in front of a building.;右圖除了柳樹還能看到明顯的綠地，左圖則沒有綠地。
+zh-873;False;Left: a willow tree hanging over a lake with. Right: a tree lined street in front of a building.;左边的图中有不止一棵柳树种在水边，右图中可见大片柳树。
+zh-874;False;Left: a weeping willow tree in a park next to a path. Right: a tree in the snow next to a lake.;左边的图中有不止一棵柳树种在水边，右图中可见大片柳树。
+zh-631;False;Left: a willow tree hanging over a lake with. Right: a tree in the snow next to a lake.;右圖除了柳樹還能看到明顯的綠地，左圖則沒有綠地。
+zh-630;True;Left: a weeping willow tree next to a river. Right: a couple of people sitting on a bench.;右圖除了柳樹還能看到明顯的綠地，左圖則沒有綠地。
+zh-632;False;Left: a cutting board with onions carrots and a knife on it. Right: a cutting board with a bunch of vegetables and a knife.;右圖中的砧板上沒有擺放著刀，左圖的砧板上則有一把刀。
+zh-634;False;Left: two carrots on a cutting board with a knife. Right: a cutting board with cherries and a knife on a table.;右圖中的砧板上沒有擺放著刀，左圖的砧板上則有一把刀。
+zh-879;False;Left: two carrots on a cutting board with a knife. Right: a cutting board with cherries and a knife on a table.;两张图片里都有刀和砧板，其中一张有被切成片的黄瓜。
+zh-637;False;Left: two panda bears sitting on the ground eating bamboo. Right: a panda bear sitting in the grass eating bamboo.;兩張圖中都恰好只有一隻大熊貓，而且右圖中的大熊貓並不是在活動。
+zh-640;False;Left: three spoons laying on top of each other on a table. Right: a group of tarnished spoons sitting next to each other.;右圖中的湯勺是金屬的，左圖中則有至少兩隻非金屬製的湯杓。
+zh-642;True;Left: four white spoons with food in them sitting on a tray. Right: a spoon pouring sauce onto a plate of rice.;右圖中的湯勺是金屬的，左圖中則有至少兩隻非金屬製的湯杓。
+zh-887;True;Left: a bowl of soup on a plate with a spoon. Right: a spoon pouring sauce onto a plate of rice.;左边的勺子是瓷的，右边的勺子是不锈钢的。
+zh-884;True;Left: four white spoons with food in them sitting on a tray. Right: three spoons on a table in black and white.;左边的勺子是瓷的，右边的勺子是不锈钢的。
+zh-643;False;Left: a row of bowls of food on a table. Right: a wooden spoon in a bowl of chopped vegetables.;右圖中的湯勺是金屬的，左圖中則有至少兩隻非金屬製的湯杓。
+zh-645;True;Left: a pile of potatoes in the market. Right: a pile of potatoes with a potato peeler.;右圖中除了馬鈴薯還有削皮器，左圖則有數顆未被削皮的馬鈴薯。
+zh-648;False;Left: a display of cabbage and flowers at a market. Right: a close up of a bunch of vegetables.;左圖中有大白菜跟紅蘿蔔，右圖中則沒有紅蘿蔔。
+zh-649;True;Left: a bowl of cabbage carrots and other vegetables. Right: a pile of shredded cheese on a cutting board.;左圖中有大白菜跟紅蘿蔔，右圖中則沒有紅蘿蔔。
+zh-653;False;Left: two birds perched on top of a tree branch. Right: two hummingbirds flying in a blue sky.;兩張圖中都恰好只有一隻蜂鳥，而且都是飛行方向是相同的。
+zh-655;True;Left: a hummingbird is flying up to a purple flower. Right: a hummingbird drinking from a pink flower.;兩張圖中都恰好只有一隻蜂鳥，而且都是飛行方向是相同的。
+zh-656;True;Left: four white birds walking on the beach. Right: a white bird flying over a body of water.;右圖恰好只有一隻白鷺並張開翅膀，左圖的白鷺則沒有在飛翔。
+zh-657;False;Left: two white birds flying over a surfboard in the water. Right: a white bird standing in the grass.;右圖恰好只有一隻白鷺並張開翅膀，左圖的白鷺則沒有在飛翔。
+zh-901;False;Left: a flock of white birds in a body of water. Right: a white bird standing in the grass.;两张图片里都只有一只白鹭。
+zh-660;False;Left: a tee shirt laying on the sand with sunglasses on it. Right: a man with his arms crossed with a shirt that says great tree of civitas.;右圖的T恤是純白色的，左圖的T恤則寫有中文字。
+zh-663;True;Left: a group of t shirts hanging on a fence. Right: a man with a beard and a backpack.;右圖的T恤是純白色的，左圖的T恤則寫有中文字。
+zh-664;True;Left: a city street with red and yellow chinese lanterns. Right: a close up of red lanterns on a chinese festival.;右圖可以看到寫有福字的裝飾，左圖則是春節的街道。
+zh-910;True;Left: a group of people in yellow and red costumes on a street. Right: a close up of red lanterns on a chinese festival.;其中一张图有春节舞狮表演，另外一张图有挂着的福字。
+zh-911;False;Left: a city street with red and yellow chinese lanterns. Right: a pair of red lanterns hanging from a pole.;其中一张图有春节舞狮表演，另外一张图有挂着的福字。
+zh-666;False;Left: a group of red lanterns and a group of people. Right: people walking around a market with a chinese god statue.;右圖可以看到寫有福字的裝飾，左圖則是春節的街道。
+zh-908;False;Left: a group of red lanterns and a group of people. Right: people walking around a market with a chinese god statue.;其中一张图有春节舞狮表演，另外一张图有挂着的福字。
+zh-673;False;Left: a group of people playing in a swimming pool. Right: a man swimming underwater in a body of water.;左圖中只有一個明顯的人在游泳，右圖中則有一隻狗或很多人游泳。
+zh-675;True;Left: a man swimming in a swimming pool. Right: a brown dog swimming in a river.;左圖中只有一個明顯的人在游泳，右圖中則有一隻狗或很多人游泳。
+zh-676;False;Left: a bottle of coca cola on a table. Right: a group of coca cola bottles sitting on a table.;右圖中有一個開罐式的可樂，左圖中則有塑膠瓶或玻璃瓶裝的可樂。
+zh-922;False;Left: a bottle of coca cola on a table. Right: a coca cola bottle with a glove and a christmas tree.;两图相加至少有五瓶可乐，且大多数放在冰柜中或纸板包装盒里。
+zh-678;True;Left: a coca cola bottle on a white background. Right: a can of coca cola coke on a table.;右圖中有一個開罐式的可樂，左圖中則有塑膠瓶或玻璃瓶裝的可樂。
+zh-920;True;Left: a coca cola bottle on a white background. Right: a box of coca cola bottles on a table.;两图相加至少有五瓶可乐，且大多数放在冰柜中或纸板包装盒里。
+zh-681;True;Left: a soccer ball sitting on a soccer field. Right: a large crowd watching a soccer game at a stadium.;一張圖有俯瞰的足球場，另一張圖中則有一顆明顯的足球。
+zh-924;False;Left: two men playing a game of soccer on a field. Right: a large crowd watching a soccer game at a stadium.;其中一张图里有两个人一起在踢足球，另外一张是一个人在踢足球。
+zh-682;True;Left: a general view of the stadium during a match. Right: a soccer player sliding into a soccer ball during a game.;一張圖有俯瞰的足球場，另一張圖中則有一顆明顯的足球。
+zh-683;False;Left: a soccer player in the air to catch a soccer ball. Right: a soccer ball sitting on a turf.;一張圖有俯瞰的足球場，另一張圖中則有一顆明顯的足球。
+zh-685;True;Left: a woman in a green dress standing on a path. Right: a group of people standing on the steps of a building.;一張圖中恰好只有一位女人穿著漢服擺姿勢，另一張圖中則有至少一位穿漢服的人。
+zh-688;False;Left: a bowl of miso soup on a blue table with a spoon. Right: a bowl of soup with meat in it on a wooden table.;有一張圖中的粥是黃色的，另一張則是白粥或紫米粥。
+zh-690;True;Left: a bowl of soup on a table with chopsticks. Right: a bowl of soup with nuts on top of it.;有一張圖中的粥是黃色的，另一張則是白粥或紫米粥。
+zh-934;False;Left: a bowl of soup on a table with chopsticks. Right: a bowl of soup on a table with a colorful table cloth.;左边是单独一碗粥右边的粥里有勺子。
+zh-696;False;Left: three horses standing next to each other in a field. Right: a group of horses standing in a dirt field.;左圖中恰好只有一隻馬，右圖則有一隻或一隻以上咖啡色的馬。
+zh-943;False;Left: a metal bowl with a gold rim on a white pedestal. Right: a pair of chopsticks sitting next to a bowl.;其中一张图片里只放了空碗，另外一张图片里碗里都有装东西。
+zh-703;True;Left: a pair of chopsticks sitting next to a bowl. Right: a bowl of popcorn on a white table.;左圖的碗上放著筷子，右圖的碗則沒有筷子或湯匙。
+zh-704;True;Left: a man playing a bugle in a parade with other musicians. Right: a man in a suit blowing into a bugle microphone.;右圖只有一個明顯的人在吹嗩吶，左圖則有至少兩個人在吹嗩吶。
+zh-708;True;Left: a row of bare trees next to a river. Right: a woman is measuring a tree with a tape.;右圖中只有一棵明顯的梧桐樹，左圖則有很多棵。
+zh-709;False;Left: a large tree with branches and leaves against the sky. Right: a bunch of prickly balls hanging from a tree.;右圖中只有一棵明顯的梧桐樹，左圖則有很多棵。
+zh-711;False;Left: a tree with a large trunk in a park. Right: a large group of green plants in a field.;右圖中只有一棵明顯的梧桐樹，左圖則有很多棵。
+zh-712;False;Left: a group of chickens with their feet on a ball. Right: a rooster standing in the grass near some plants.;左圖中有還未長大的小雞，右圖中則有至少三隻或以上雞。
+zh-713;True;Left: a small yellow chicken standing on a wooden table. Right: a group of chickens walking on the ground.;左圖中有還未長大的小雞，右圖中則有至少三隻或以上雞。
+zh-950;True;Left: a chicken and three chicks walking in the dirt. Right: a group of chickens walking on the ground.;至少一张图里有小鸡；至少一张图能看见成年的鸡。
+zh-714;True;Left: a chicken and three chicks walking in the dirt. Right: a group of chickens standing around a food bowl.;左圖中有還未長大的小雞，右圖中則有至少三隻或以上雞。
+zh-948;False;Left: a group of chickens standing in the grass. Right: a group of chickens standing around a food bowl.;至少一张图里有小鸡；至少一张图能看见成年的鸡。
+zh-715;False;Left: a rooster and a chicken standing in a field. Right: a group of chickens eating out of a tin feeder.;左圖中有還未長大的小雞，右圖中則有至少三隻或以上雞。
+zh-716;False;Left: a bunch of carrots laying in the grass. Right: a bunch of carrots with green leaves on a black background.;兩張圖中的胡蘿蔔都已經被採收了，看不到土的痕跡。
+zh-717;False;Left: a carrot sticking out of the ground. Right: a pile of carrots with green shoots.;兩張圖中的胡蘿蔔都已經被採收了，看不到土的痕跡。
+zh-718;True;Left: a basket of carrots and greens on the ground. Right: a bunch of carrots sitting on a rock.;兩張圖中的胡蘿蔔都已經被採收了，看不到土的痕跡。
+zh-719;True;Left: a bunch of carrots on a wooden table. Right: two glasses of carrot juice on a table with carrots.;兩張圖中的胡蘿蔔都已經被採收了，看不到土的痕跡。
+zh-721;False;Left: a small bird sitting on a bird feeder. Right: a small bird perched on a rock next to some grass.;左圖中恰好只有一隻麻雀，右圖中則是恰好兩隻。
+zh-724;False;Left: a pair of baskets of dumplings on a table with bowls of dipping sauce. Right: a wooden bowl filled with dumplings on a table.;兩張圖中的餃子，只有一張是確定被放在方型的盤子上。
+zh-727;True;Left: a wooden bowl filled with dumplings on a table. Right: a plate of dumplings with sauce on a table.;兩張圖中的餃子，只有一張是確定被放在方型的盤子上。
+zh-731;False;Left: a brown mouse sitting on the ground. Right: a cat is playing with a mouse on the floor.;右圖恰好只有一隻老鼠，左圖的老鼠則有白色的毛。
+zh-732;False;Left: a small bonsai tree in a pot. Right: a group of pine trees on top of a hill.;右圖中可以看到一棵明顯主要的松樹，左圖松樹後有天空當背景。
+zh-734;False;Left: a large rock with a tree on top of it. Right: a large pine tree in the middle of a forest.;右圖中可以看到一棵明顯主要的松樹，左圖松樹後有天空當背景。
+zh-735;True;Left: a snow covered field with trees and a fence. Right: a pine tree against a blue sky.;右圖中可以看到一棵明顯主要的松樹，左圖松樹後有天空當背景。
+zh-736;True;Left: a group of people marching in a parade with drums. Right: a person is playing a drum with a drumsticks.;其中一張圖中有一個白色鼓面的鼓跟鼓棒，另一張圖則可以看到不只一張鼓。
+zh-737;False;Left: a drum shell with some water on it. Right: a man sitting on the floor next to two drums.;其中一張圖中有一個白色鼓面的鼓跟鼓棒，另一張圖則可以看到不只一張鼓。
+zh-961;True;Left: a drum kit with two drum sticks on top of it. Right: two women sitting on percussion instruments on a stage.;一张图里有不止一人在表演打鼓，另外一张图的鼓摆无人演奏。
+zh-741;True;Left: milk in a display case at a grocery store. Right: a cup of milk next to a glass of milk.;右圖恰好放著一壺跟一杯牛奶，左圖的牛奶則是裝在杯子或玻璃瓶裡。
+zh-793;True;Left: milk in a display case at a grocery store. Right: a cup of milk next to a glass of milk.;其中一张图的牛奶是码放整齐未开封的。
+zh-744;False;Left: a basket filled with rice on a table. Right: a bowl of beef noodle soup with a white spoon.;左圖的麵條被放在方型的盤子裡，右圖的麵條則是放在圓形的盤子或碗裡。
+zh-746;False;Left: a bowl of noodles next to a packet of noodles. Right: a bowl of noodle soup with shrimp and celery.;左圖的麵條被放在方型的盤子裡，右圖的麵條則是放在圓形的盤子或碗裡。
+zh-747;True;Left: a plate of pasta with vegetables on a table. Right: a bowl of noodles with meat and vegetables and chopsticks.;左圖的麵條被放在方型的盤子裡，右圖的麵條則是放在圓形的盤子或碗裡。
+zh-748;True;Left: a white and pink flower in the grass. Right: a close up of an orange flower in the grass.;右圖的百合花不只有白色的，左圖的百合花則綻放著。
+zh-750;False;Left: two white. Right: a group of white lilies in a garden.;右圖的百合花不只有白色的，左圖的百合花則綻放著。
+zh-977;True;Left: the runners of the race in the washington dc marathon. Right: two men running on the beach at sunset.;其中一张图片是一大群人在跑马拉松，而且两张图加起来超过十个人。
+zh-759;True;Left: a woman running a race in the street. Right: a man is running on a tennis court.;右圖中恰好只有一個人在跑步，左圖中則至少有兩個人。
+zh-760;True;Left: a white bowl of herbal tea next to some cookies. Right: three blue and white cups of tea on a table.;兩張圖中都可以看到裝在茶杯裡的茶，但左圖中只有茶杯並沒有茶壺。
+zh-982;False;Left: a cup of tea and a cup and saucer. Right: a cup of tea and some green herbs on a table.;一张图片能看到茶壶，另外一张能看到倒在杯子里的茶。
+zh-763;False;Left: a black teapot and a cup on a table. Right: a mortar and pestle filled with green herbs and a wooden spoon.;兩張圖中都可以看到裝在茶杯裡的茶，但左圖中只有茶杯並沒有茶壺。
+zh-770;True;Left: two hands holding a glass of wine. Right: fireworks exploding in the sky at night.;其中一張圖中含有鞭炮的畫面，另一張圖則有酒或酒杯。
+zh-773;False;Left: a close up of a head of cauliflower in a plant. Right: a white cauliflower with green leaves on a black background.;右圖中除了花椰菜也有其他紅色蔬果，但左圖則只有花椰菜。
+zh-774;True;Left: a group of cauliflower and broccoli on a table. Right: a bunch of vegetables sitting on a table.;右圖中除了花椰菜也有其他紅色蔬果，但左圖則只有花椰菜。
+zh-992;False;Left: a group of cauliflower and broccoli on a table. Right: a pile of broccoli in the water.;其中一张图片里只有一根或两根绿色的西兰花，另外一张有白色的花椰菜。
+zh-779;True;Left: a bowl of noodles with chopsticks on a table. Right: a pair of chopsticks sitting on a blue and white plate.;其中一張圖有恰好一雙筷子放在碗上，另一張圖則有一雙以上的淺色筷子。
+zh-780;False;Left: a cup of coffee on a plate on a wooden table. Right: a cup of coffee and a cracker and a bottle of water on a table.;左圖可以看到許多明顯的咖啡豆，右圖則是有咖啡杯跟壺。
+zh-781;True;Left: two cups of coffee in a pile of coffee beans. Right: a coffee mug on a table next to a coffee maker.;左圖可以看到許多明顯的咖啡豆，右圖則是有咖啡杯跟壺。
+zh-1002;False;Left: two cups of coffee in a pile of coffee beans. Right: a coffee mug on a table next to a coffee maker.;其中一杯咖啡是普通咖啡没有明显的图案，另外一张是可以看到拉花的咖啡。
+zh-784;True;Left: two pink water lilies in a pond with lily pads. Right: a yellow flower with green leaves in the water.;右圖恰好只有一朵非常明顯的淡色蓮花，左圖則是兩朵明顯的紫色蓮花。
+zh-788;False;Left: a plate with two pieces of food on it. Right: a tea pot and a cake on a table.;左圖當中有中秋節月餅，右圖則是許多懸掛的燈籠。
+zh-1009;False;Left: a plate with two pieces of food on it. Right: a tea pot and a cake on a table.;左边的图片里都有在中秋节使用的灯笼右边的图片是中秋节吃的月饼。
+zh-789;True;Left: a box of mini christmas cookies and pine cones. Right: colorful lanterns hanging from the ceiling in a building.;左圖當中有中秋節月餅，右圖則是許多懸掛的燈籠。
+zh-1010;False;Left: a box of mini christmas cookies and pine cones. Right: a blue box filled with mini cupcakes.;左边的图片里都有在中秋节使用的灯笼右边的图片是中秋节吃的月饼。
+zh-791;True;Left: two buns with chinese writing on them on a plate. Right: a group of people standing under red lanterns at night.;左圖當中有中秋節月餅，右圖則是許多懸掛的燈籠。
+zh-799;True;Left: a group of trees with yellow and green leaves in a park. Right: a group of trees with yellow leaves on the ground.;左边图中的银杏树干被涂了白色石灰。
+zh-828;False;Left: a pink orchid in a glass vase with water. Right: a bunch of orange orchid flowers in a glass vase.;两组图片其中一张是偏黄的兰科两外一张是白色的兰科
+zh-834;False;Left: two young men playing a game of ping pong. Right: a man hitting a tennis ball with a racquet.;其中一张图中的人正在发球。
+zh-840;False;Left: a pagoda in the evening at a temple. Right: a group of lanterns hanging from a ceiling.;一张图片里出现了黄色的纸条两外一张是清明节活动
+zh-845;True;Left: a shark in the water with its mouth open. Right: a man holding two large tuna on a boat.;其中一张图鱼和不是鱼的动物一起出现。
+zh-846;False;Left: a row of fish hanging on a pole at a fish market. Right: a fish is in a tank with water.;其中一张图鱼和不是鱼的动物一起出现。
+zh-847;True;Left: a large shark swimming in the ocean with other sharks. Right: a dog laying on the ground next to a dead fish.;其中一张图鱼和不是鱼的动物一起出现。
+zh-853;True;Left: a woman in a red jacket standing in a crowd of people. Right: two women sitting at a table playing musical instruments.;左边的图是单独一个人穿唐装，右边的图是好几个人都穿唐装。
+zh-855;False;Left: two men in blue robes are adjusting their ties. Right: a group of three men wearing red and black jacket with red embroidery.;左边的图是单独一个人穿唐装，右边的图是好几个人都穿唐装。
+zh-856;True;Left: a hotel room with two beds decorated with balloons. Right: people walking through a park at night.;左边的图是含有七夕元素的旅馆图右边的图都是灯。
+zh-858;True;Left: a bedroom with a bed and a red curtain. Right: people releasing lanterns into the sky at night at the lantern festival.;左边的图是含有七夕元素的旅馆图右边的图都是灯。
+zh-859;False;Left: a plate of heart shaped cookies on a valentines day plate. Right: a display of pink blossoming trees in a lobby.;左边的图是含有七夕元素的旅馆图右边的图都是灯。
+zh-864;True;Left: a woman standing in front of a display of dresses. Right: a woman in a pink dress walking down the floor.;至少有一张图中有无人穿着的挂着的旗袍。
+zh-865;False;Left: a group of women dressed in costumes standing in the street. Right: a woman in a red dress on a stage with other models.;至少有一张图中有无人穿着的挂着的旗袍。
+zh-868;False;Left: two men playing basketball on a basketball court. Right: a group of boys and girls holding their hands up with a basketball.;其中一张图中一人在运球一人在防守。
+zh-870;True;Left: a group of people playing basketball on a basketball court. Right: a couple of young men playing a game of basketball.;其中一张图中一人在运球一人在防守。
+zh-876;True;Left: a sliced cucumber on a cutting board with a knife. Right: a knife on a wooden cutting board on a bench.;两张图片里都有刀和砧板，其中一张有被切成片的黄瓜。
+zh-877;False;Left: a cutting board with bread eggs tomatoes and other ingredients on it. Right: a salad in a wooden bowl on a cutting board.;两张图片里都有刀和砧板，其中一张有被切成片的黄瓜。
+zh-878;True;Left: a couple of garlic sitting next to a knife. Right: a sliced cucumber on a cutting board next to a knife.;两张图片里都有刀和砧板，其中一张有被切成片的黄瓜。
+zh-890;False;Left: a person holding potatoes in their gloves. Right: a pile of potatoes in the dirt.;左边的图片还没有被烹饪的马铃薯，右边的马铃薯都已经被炸成薯条。
+zh-900;True;Left: a white bird flying over a body of water. Right: a white bird standing in a body of water.;两张图片里都只有一只白鹭。
+zh-902;True;Left: a white egret walking through the water. Right: a white bird walking in the water in the ocean.;两张图片里都只有一只白鹭。
+zh-905;False;Left: a man sitting on a chair wearing a white shirt and jeans. Right: a man wearing a white shirt with asian characters on it.;其中一张图片是T恤平铺着，另外一张是一个女生穿着T恤。
+zh-909;True;Left: a group of people standing under red lanterns. Right: a group of dancers in colorful costumes throwing red confetti.;其中一张图有春节舞狮表演，另外一张图有挂着的福字。
+zh-912;False;Left: a girl in a green shirt holding a bow and arrow. Right: a man sitting in a chair playing a stringed instrument.;左边是男生在拉二胡，右边是女生在拉二胡。
+zh-923;True;Left: a vending machine with coca cola bottles in it. Right: a glass of coke and a bottle of coca cola.;两图相加至少有五瓶可乐，且大多数放在冰柜中或纸板包装盒里。
+zh-927;True;Left: a man kicking a soccer ball on a field. Right: two men playing soccer on a field with a soccer ball.;其中一张图里有两个人一起在踢足球，另外一张是一个人在踢足球。
+zh-930;True;Left: two women walking in a park next to a scooter. Right: two women dressed in traditional clothing walking down a street.;左边的图片是刚好两人穿着汉服，右边的图片是女生穿着汉服。
+zh-931;True;Left: two women in dresses standing on steps with an umbrella. Right: a woman in a kimono sitting in a garden.;左边的图片是刚好两人穿着汉服，右边的图片是女生穿着汉服。
+zh-932;True;Left: a bowl of soup with meat in it on a wooden table. Right: a bowl of rice and beans with a spoon.;左边是单独一碗粥右边的粥里有勺子。
+zh-933;True;Left: a bowl of soup on a wooden table. Right: a bowl of soup with a spoon.;左边是单独一碗粥右边的粥里有勺子。
+zh-935;False;Left: a bowl of soup and bowls of food on a table. Right: a bowl of soup with rice and vegetables.;左边是单独一碗粥右边的粥里有勺子。
+zh-940;False;Left: a bowl of popcorn on a white table. Right: a bowl of food with noodles and vegetables and chopsticks.;其中一张图片里只放了空碗，另外一张图片里碗里都有装东西。
+zh-952;True;Left: a batch of doughnuts sitting in a box. Right: a plate of chicken dumplings with sauce on a table.;左图有很多饺子，右图是一些煎饺。
+zh-953;False;Left: a plate of dumplings on a table with other plates of food. Right: a plate of dumplings on a table.;左图有很多饺子，右图是一些煎饺。
+zh-955;True;Left: a plate of dumplings on a wooden table. Right: four pieces of fried chicken on a blue plate.;左图有很多饺子，右图是一些煎饺。
+zh-960;False;Left: a person is playing a drum with a drumsticks. Right: a drum shell with some water on it.;一张图里有不止一人在表演打鼓，另外一张图的鼓摆无人演奏。
+zh-967;False;Left: three bottles of milk sitting on a table. Right: a glass of milk on a wooden table.;至少一张图片里有放在冰箱里的牛奶。
+zh-970;False;Left: a bowl of beef noodle soup with meat and vegetables. Right: a basket filled with rice on a table.;右手边的图片里有筷子，另外一张图是用白色的碗装的面条。
+zh-971;True;Left: a bowl of noodles with sauce and green onions. Right: a bowl of noodles next to a packet of noodles.;右手边的图片里有筷子，另外一张图是用白色的碗装的面条。
+zh-972;False;Left: a cluster of white lilies in a garden. Right: a white flower with water droplets on it.;左边有好几朵百合种在一起，另外一边是两个百合种在一起。
+zh-978;False;Left: two people running on a trail in the woods. Right: a group of people walking down a trail.;其中一张图片是一大群人在跑马拉松，而且两张图加起来超过十个人。
+zh-981;True;Left: two cups of tea sitting on a bamboo table. Right: two cups of tea and a jar of honey on a table.;一张图片能看到茶壶，另外一张能看到倒在杯子里的茶。
+zh-983;False;Left: a kettle pouring tea into a cup on a table. Right: a view of a tea plantation in the mountains of ethiopia.;一张图片能看到茶壶，另外一张能看到倒在杯子里的茶。
+zh-993;False;Left: a plate of food with cauliflower on a table. Right: a basket of broccoli and cauliflower on a wooden table.;其中一张图片里只有一根或两根绿色的西兰花，另外一张有白色的花椰菜。
+zh-995;False;Left: a bunch of vegetables sitting on a table. Right: a bunch of different types of cauliflower on a table.;其中一张图片里只有一根或两根绿色的西兰花，另外一张有白色的花椰菜。
+zh-996;False;Left: a white plate of food on a table. Right: a basket of food and chopsticks on a table.;左边的图片里筷子是放在小木块上右边的图片里筷子是放在碗或者菜板上。
+zh-998;True;Left: a wooden triangle and a wooden pencil on a table. Right: a wooden cutting board with sushi and chopsticks on it.;左边的图片里筷子是放在小木块上右边的图片里筷子是放在碗或者菜板上。
+zh-999;False;Left: a pair of chopsticks sitting on a blue and white plate. Right: a pair of chopsticks sitting on top of a red bowl.;左边的图片里筷子是放在小木块上右边的图片里筷子是放在碗或者菜板上。
+zh-1000;True;Left: a cup of black coffee on a whiteucer. Right: a cup of coffee with a cat drawn on it in a blue cup.;其中一杯咖啡是普通咖啡没有明显的图案，另外一张是可以看到拉花的咖啡。
+zh-1006;False;Left: a group of lotus flowers on the water in a pond. Right: a pink water lily with a bud in a pond.;两张图都正好能看见一朵莲花。
+zh-1008;True;Left: a group of people standing under red lanterns at night. Right: a piece of pie on a plate on a table.;左边的图片里都有在中秋节使用的灯笼右边的图片是中秋节吃的月饼。
