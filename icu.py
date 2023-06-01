@@ -8,11 +8,25 @@ def main():
         parser = argparse.ArgumentParser()
         parser.add_argument("--task", type=str, required=True)
         parser.add_argument("--lang", type=str, required=True)
-        parser.add_argument("--shot", type=int, required=True)
+        parser.add_argument("--shot", type=int, required=False)
+        parser.add_argument("--frame", type=int, required=False)
+        
         args = parser.parse_args()
 
+        if args.task not in ["nli", "nlr"]:
+            raise ValueError("Task not supported")
+        
+        if args.task == "nli":
+                if args.shot is None:
+                        raise ValueError("Shot not specified")
+                loader = Loader(args.task, args.lang, args.shot)
+        else:
+                if args.frame is None:
+                        raise ValueError("Frame not specified")
+                loader = Loader(args.task, args.lang, args.frame)
+
         # load model and data based on task and language and shot
-        loader = Loader(args.task, args.lang, args.shot)
+        
         model, export_path = loader.load()
 
         # # when shot is 192, we evaluate all languages

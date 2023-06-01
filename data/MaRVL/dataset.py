@@ -2,27 +2,21 @@
 
 import json
 import pandas as pd
-import argparse
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--frame", type=str, required=True)
-    args = parser.parse_args()
-
-    # create frame template
-    template1 = "The left image contains {} and the right image contains {}."
-    template2 = "Left: {}. Right: {}."
-    template3 = "There are {} in the left image and {} in the right image."
-    template4 = "The image on the left shows {} while the image on the right shows {}."
-    template5 = "The left image shows {} while the right image shows {}."
 
 
-    languages = ["id", "sw", "ta", "tr", "zh"]
+class MaRVL_Dataset_Generator:
+    def __init__(self, frame, language):
+        self.frame = frame
+        self.lang = language
 
-    for lang in languages:
-        jsonl_file_path = f"data/MaRVL/{lang}/test.json"
+        # create frame template
+        template1 = "<{}> <{}>"
+        template2 = "Left: {}. Right: {}."
+        template3 = "There are {} in the left image and {} in the right image."
+        template4 = "Left: <{}>. Right: <{}>."
+        template5 = "The left image shows {} while the right image shows {}."
 
-        print("Processing {}".format(jsonl_file_path))
+        jsonl_file_path = f"data/MaRVL/{self.lang}/test.json"
 
         ids = []
         labels = []
@@ -50,11 +44,8 @@ def main():
 
         df = pd.DataFrame(data)
 
-        print(df.shape)
-
-        # TODO: header may not be none
         generated_captions = pd.read_csv(
-            f"data/MaRVL/{lang}/caption.csv", sep=",", header=None
+            f"data/MaRVL/{self.lang}/caption.csv", sep=",", header=0
         )
         generated_captions.columns = ["left_img", "left_caption"]
 
@@ -75,19 +66,18 @@ def main():
                 print("right image {} does not have a caption".format(i))
 
         # frame map
-        if args.frame == "1":
+        if self.frame == 1:
             df["generated_caption"] = df.apply(lambda row : template1.format(row["left_caption"], row["right_caption"]), axis=1)
-        elif args.frame == "2":
+        elif self.frame == 2:
             df["generated_caption"] = df.apply(lambda row : template2.format(row["left_caption"], row["right_caption"]), axis=1)    
-        elif args.frame == "3":
+        elif self.frame == 3:
             df["generated_caption"] = df.apply(lambda row : template3.format(row["left_caption"], row["right_caption"]), axis=1)
-        elif args.frame == "4":
+        elif self.frame == 4:
             df["generated_caption"] = df.apply(lambda row : template4.format(row["left_caption"], row["right_caption"]), axis=1)
-        elif args.frame == "5":
+        elif self.frame == 5:
             df["generated_caption"] = df.apply(lambda row : template5.format(row["left_caption"], row["right_caption"]), axis=1)
         else:
-            print("frame {} is not supported".format(args.frame))
-            raise ValueError
+            df["generated_caption"] = df["left_caption"] + " " + df["right_caption"]
 
         # only keep the columns we need
         df = df[["id", "label", "generated_caption", "caption"]]
@@ -95,8 +85,7 @@ def main():
         
         # save the data as a csv file
         df.to_csv(
-            f"data/MaRVL/{lang}/test.csv", sep=";", header=True, index=False
+            f"data/MaRVL/{self.lang}/test.csv", sep=";", header=True, index=False
         )
+        print("dataset generated for {} language with frame {}".format(self.lang, self.frame))
 
-if __name__ == "__main__":
-    main()

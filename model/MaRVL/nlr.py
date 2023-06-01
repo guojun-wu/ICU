@@ -8,8 +8,7 @@ import numpy as np
 
 
 class NLR:
-    def __init__(self, shot, lang):
-        self.shot = shot
+    def __init__(self, lang):
         self.lang = lang
         self.device = (
             torch.device("mps")
@@ -19,7 +18,6 @@ class NLR:
         model_path = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
-        self.num_epochs = 3
 
     def load_data(self, data_path, batch_size, shuffle=True):
         df = pd.read_csv(data_path, sep=';', header=0)
@@ -61,102 +59,12 @@ class NLR:
             batch_size=batch_size,
         )
         return dataloader
-
-    def train(self):
-        # Set random seed
-        seed = 42
-        torch.manual_seed(seed)
-
-        self.model.to(self.device)
-
-        # Set model to training mode
-        self.model.train()
-
-        # define optimizer and loss function
-        optimizer = torch.optim.Adam(
-            self.model.parameters(),
-            lr=1e-4,
-            eps=1e-6,
-            weight_decay=0.01,
-            betas=(0.9, 0.999),
-        )
-
-        data_path = f"data/MaRVL/{self.lang}/train_{self.shot}.csv"
-
-        # when shot > 48, we need to load the mixing dataset
-        if self.shot > 48:
-            data_path = f"data/XVNLI/mixing.csv"
-
-        # create data loader
-        dataloader = self.load_data(
-            data_path=data_path, batch_size=8
-        )
-
-        # setup scheduler
-        total_steps = len(dataloader) * self.num_epochs
-        scheduler = get_linear_schedule_with_warmup(
-            optimizer,
-            num_warmup_steps=int(0.1 * total_steps),
-            num_training_steps=total_steps,
-        )
-
-        # training loop
-        for epoch in range(self.num_epochs):
-            print(f"Epoch {epoch + 1}/{self.num_epochs}")
-            print("-" * 10)
-
-            for batch in dataloader:
-                # unpack batch
-                b_input_ids = batch[0].to(self.device)
-                b_input_mask = batch[1].to(self.device)
-                b_labels = batch[2].to(self.device)
-
-                # clear gradients
-                self.model.zero_grad()
-
-                # forward pass
-                outputs = self.model(
-                    b_input_ids,
-                    token_type_ids=None,
-                    attention_mask=b_input_mask,
-                    labels=b_labels,
-                )
-
-                # get loss
-                loss = outputs[0]
-
-                # backward pass
-                loss.backward()
-
-                max_gradient_norm = 1.0  # max gradient norm
-
-                # clip gradients
-                torch.nn.utils.clip_grad_norm_(
-                    self.model.parameters(), max_gradient_norm
-                )
-
-                # update parameters
-                optimizer.step()
-
-                # update learning rate
-                scheduler.step()
-
-            # reload data for next epoch (shuffle)
-            dataloader = self.load_data(
-                data_path=data_path, batch_size=8
-            )
-
-        # save model
-        self.model.save_pretrained("model/MaRVL/few_shot_nli")
-        self.tokenizer.save_pretrained("model/MaRVL/few_shot_nli")
+             
 
     def evaluate(self, lang):
-        trained_model = self.model.to(self.device)
-        if self.shot > 0:
-            trained_model.load_state_dict(
-                torch.load("model/MaRVL/few_shot_nli/pytorch_model.bin")
-            )
-        trained_model.eval()
+        self.model.to(self.device)
+        self.model.eval()
+ 
 
         predictions, true_vals = [], []
 
@@ -172,7 +80,7 @@ class NLR:
 
             # forward pass
             with torch.no_grad():
-                outputs = trained_model(
+                outputs = self.model(
                     b_input_ids,
                     token_type_ids=None,
                     attention_mask=b_input_mask,
@@ -189,13 +97,6 @@ class NLR:
 
         # convert to label ids, if predition[0] > prediction[2] -> 0 else 1
         predictions = [0 if pred[0] > pred[2] else 1 for pred in predictions]
-
-        # calculate accuracy
-        predictions = np.array(predictions)
-        true_vals = np.array(true_vals)
-        accuracy = np.sum(predictions == true_vals) / len(true_vals)
-        print(f"Accuracy: {accuracy}")
-        
 
         # convert to labels
         label_map = {0: "True", 1: "False"}
