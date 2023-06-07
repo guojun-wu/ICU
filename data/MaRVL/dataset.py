@@ -12,8 +12,8 @@ class MaRVL_Dataset_Generator:
         # create frame template
         template1 = "<{}> <{}>"
         template2 = "Left: {}. Right: {}."
-        template3 = "There are {} in the left image and {} in the right image."
-        template4 = "Left: <{}>. Right: <{}>."
+        template3 = "Left: <{}>. Right: <{}>."
+        template4 = "There are {} in the left image and {} in the right image."
         template5 = "The left image shows {} while the right image shows {}."
 
         jsonl_file_path = f"data/MaRVL/{self.lang}/test.json"

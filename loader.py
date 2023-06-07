@@ -35,8 +35,8 @@ class Loader(object):
             
             frame = self.shot_or_frame
 
-            # only support shot in [0, 1, 5, 10, 20, 25, 48]
-            if frame not in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]:
+            # only support frame in [0, 1, 2, 3, 4, 5]
+            if frame not in [0, 1, 2, 3, 4, 5]:
                 raise ValueError("Frame not supported")
             
             MaRVL_Dataset_Generator(frame, self.lang)
