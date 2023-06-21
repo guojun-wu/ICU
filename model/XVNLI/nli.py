@@ -4,6 +4,7 @@ from torch.utils.data import DataLoader, TensorDataset, RandomSampler
 from transformers import get_linear_schedule_with_warmup
 import pandas as pd
 import numpy as np
+import os
 
 
 class NLI:
@@ -145,8 +146,12 @@ class NLI:
             )
 
         # save model
-        self.model.save_pretrained("model/XVNLI/few_shot_nli")
-        self.tokenizer.save_pretrained("model/XVNLI/few_shot_nli")
+        # create the directory if it does not exist
+        directory = "model/XVNLI/few_shot_nli"
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        self.model.save_pretrained(directory)
+        self.tokenizer.save_pretrained(directory)
 
     def evaluate(self, lang):
         trained_model = self.model.to(self.device)
