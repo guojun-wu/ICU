@@ -18,8 +18,8 @@ class Loader(object):
             
             shot = self.shot_or_frame
             
-            # only support shot in [0, 1, 5, 10, 20, 25, 48, 192]
-            if shot not in [0, 1, 5, 10, 20, 25, 48, 192]:
+            # only support shot in [0, 1, 5, 10, 20, 25, 48]
+            if shot not in [0, 1, 5, 10, 20, 25, 48]:
                 raise ValueError("Shot not supported")
 
             model = NLI(shot, self.lang)

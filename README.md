@@ -44,7 +44,7 @@ python icu.py --task nli --lang {lang} --shot {shot}
 
 For MaRVL, run:
 ```bash
-python icu.py --task nli --lang {lang} --frame {frame}
+python icu.py --task nlr --lang {lang} --frame {frame}
 ```
 
 # Visualization

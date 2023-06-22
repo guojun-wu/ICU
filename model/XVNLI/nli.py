@@ -78,10 +78,6 @@ class NLI:
 
         data_path = f"data/XVNLI/{self.lang}/train_{self.shot}.csv"
 
-        # when shot > 48, we need to load the mixing dataset
-        if self.shot > 48:
-            data_path = f"data/XVNLI/mixing.csv"
-
         # create data loader
         dataloader = self.load_data(
             data_path=data_path, batch_size=8
