@@ -10,11 +10,7 @@ import numpy as np
 class NLR:
     def __init__(self, lang):
         self.lang = lang
-        self.device = (
-            torch.device("mps")
-            if torch.backends.mps.is_available()
-            else torch.device("cpu")
-        )
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model_path = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path)

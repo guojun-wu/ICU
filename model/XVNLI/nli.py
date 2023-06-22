@@ -11,11 +11,7 @@ class NLI:
     def __init__(self, shot, lang):
         self.shot = shot
         self.lang = lang
-        self.device = (
-            torch.device("mps")
-            if torch.backends.mps.is_available()
-            else torch.device("cpu")
-        )
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model_path = "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli"
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
