@@ -27,7 +27,7 @@ For XVNLI, we only need part of the images in Flickr30k, the id of the images ca
 # Image Captioning
 We recommend using OFA with huggingface or ModelScope.
 See their [repository](https://github.com/OFA-Sys/OFA) for more details.
-We also provide the caption we got with ModelScope in 'data/XVNLI/caption.csv' and 'data/MaRVL/{lang}/caption.csv'.
+We also provide the captions we got with ModelScope in 'data/XVNLI/caption.csv' and 'data/MaRVL/{id, sw, ta, tr, zh}/caption.csv'.
 
 # Combination of caption and text
 For XVNLI, run:
@@ -37,14 +37,14 @@ python data/XVNLI/dataset.py
 For MaRVL, it will be done automatically when running the icu script.
 
 # ICU
-For XVNLI, run:
+For XVNLI, run with the supported languages and shots as shown in the brackets:
 ```bash
-python icu.py --task nli --lang {lang} --shot {shot}
+python icu.py --task nli --lang {ar, es, fr, ru} --shot {0, 1, 5, 10, 20, 25, 48}
 ```
 
-For MaRVL, run:
+For MaRVL, run with the supported languages and frames as shown in the brackets:
 ```bash
-python icu.py --task nlr --lang {lang} --frame {frame}
+python icu.py --task nlr --lang {id, sw, ta, tr, zh} --frame {0, 1, 2, 3, 4, 5}
 ```
 
 # Visualization

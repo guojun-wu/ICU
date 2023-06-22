@@ -1,6 +1,5 @@
 from model.MaRVL.nlr import NLR
 from model.XVNLI.nli import NLI
-import pandas as pd
 from data.MaRVL.dataset import MaRVL_Dataset_Generator
 
 
