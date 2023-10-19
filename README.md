@@ -1,5 +1,7 @@
 # ICU: Image Caption Understanding
 
+This is the Source code of paper: ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding
+
 ICU is a divide-and-conquer approach to tackle the challenges of multilingual vision-and-language tasks.
 
 # Setup
@@ -11,10 +13,11 @@ conda activate icu
 ```
 Install required packages:
 ```bash
+git clone https://github.com/gjwubyron/ICU.git
 cd icu
 pip install -r requirements.txt
 ```
-# Data Download
+# Download Data
 ## Text Data
 The raw text data can be downloaded from [IGLUE](https://github.com/e-bug/iglue/tree/main/datasets)
 ## Image Data
@@ -22,7 +25,7 @@ The raw images can be downloaded from the original websites:
 - [Flickr30k](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)
 - [MaRVL](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P)
 
-For XVNLI, we only need part of the images in Flickr30k, the id of the images can be found in text data files.
+For XVNLI, we only need part of the images in Flickr30k, the id of the corresponding images can be found in text data files.
 
 # Image Captioning
 We recommend using OFA with huggingface or ModelScope.
@@ -50,13 +53,7 @@ python icu.py --task nlr --lang {id, sw, ta, tr, zh} --frame {0, 1, 2, 3, 4, 5}
 # Visualization
 We provide a jupyter notebook to visualize the results in 'result.ipynb'.
 
+# Citation
+If you find this repo useful, please consider citing:
 
-
-
-
-
-
-
-
-
-
+```
