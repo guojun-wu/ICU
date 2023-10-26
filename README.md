@@ -17,7 +17,7 @@ Install required packages:
 
 ```bash
 git clone https://github.com/gjwubyron/ICU.git
-cd icu
+cd ICU
 pip install -r requirements.txt
 ```
 
