@@ -2,4 +2,4 @@ __pycache__
 .vscode
 .DS_Store
 model/XVNLI/few_shot_nli/
-.gitignore
+
